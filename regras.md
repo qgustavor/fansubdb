@@ -43,7 +43,8 @@ errado.
 Acompanha as estações do ano, dessa forma cada ano tem quatro temporadas: primavera, verão, outono e inverno. A temporada
 dos animes acompanha a estação do ano no Japão em que foram ao ar. A temporada de inverno, que começa em um ano e termina
 no seguinte, será contada de acordo com o número do ano anterior, como no FansubDB, ainda que a maioria dos animes dessa
-temporada comece no outro ano. O nome das estações será escrito em português.
+temporada comece no outro ano. O nome das estações será escrito em português. O ano virá antes do nome da estação pois
+parece ficar mais organizado.
 
 ### Site de streaming oficial:
 
@@ -162,8 +163,8 @@ de login no GitHub, porém garantem que o usuário ficará registrado como contr
 
 Diferente do FansubDB todo o conteúdo do site é organizado em arquivos YAML. Caso queira contribuir por
 comentários ou issues não é necessário editar ele, mas caso queira contribuir por pull requests só editar
-os arquivos na pasta [`/_data/seasons`](https://github.com/qgustavor/fansubdb/tree/master/_posts/seasons). O
-arquivo [`2018-inverno.yml`](https://github.com/qgustavor/fansubdb/blob/master/_posts/seasons/2018-inverno.yml),
+os arquivos na pasta [`/_data/seasons`](https://github.com/qgustavor/fansubdb/tree/master/_data/seasons). O
+arquivo [`2018-inverno.yml`](https://github.com/qgustavor/fansubdb/blob/master/_data/seasons/2018-inverno.yml),
 que foi o primeiro a ser criado no site, tem todos os comentários e instruções necessárias para entender
 como o sistema funciona.
 
