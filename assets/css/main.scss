@@ -6,3 +6,18 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// Site specific changes
+.season-dropped-trailer,
+.season-trailer { color: red; }
+.season-dropped-active,
+.season-active  { color: green; }
+.season-stream  { color: blue; }
+
+.season-dropped-trailer,
+.season-dropped-active,
+.season-dropped { text-decoration: strike; }
+
+ul li, ol li {
+  margin-bottom: 0;
+}

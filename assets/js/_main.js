@@ -103,4 +103,13 @@ $(document).ready(function() {
     closeOnContentClick: true,
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
+  
+  // Change fake color CSS classes into span tags
+  $('a[href="#trailer"], a[href="#ativo"], a[href="#stream"]').each(function () {
+    var $this = $(this)
+    var $span = $('<span>')
+      .text($this.text())
+      .addClass('fake-anchor-' + $this.attr('href').substr(1));
+    $this.replaceWith($span);
+  })
 });

@@ -1,0 +1,335 @@
+# Esse é o arquivo onde estão os dados da temporada.
+# Usa o formato YAML, que é mais fácil de ser editado e lido manualmente
+# Tomem apenas o cuidado de manter o alinhamento dos espaços
+
+# Legenda:
+# name_ja: o nome em japonês (não precisa de aspas a menos que o nome tenha algum caractere especial)
+# name_pt: o nome em português
+# studio: o estúdio da produção do anime
+# season: o número da temporada do anime (quando não for a primeira)
+# episodes: o número de episódios do anime
+# "is_short: true" quando o anime for de episódios curtos
+# extra_info: qualquer informação adicional que for útil
+# groups: a lista dos grupos e o estado deles
+
+# Os estados dos grupos podem ser os seguintes:
+# stream: o grupo é um site de streaming
+# active: já lançaram pelo menos um episódio
+# planned: planejaram traduzir o anime
+# rumor: há rumores que vão traduzir o anime
+# trailer: lançaram um PV/trailer do anime
+
+# No caso de projetos que foram cancelados há três possibilidades
+# dropped: o projeto foi cancelado, sem explicações adicionais
+# dropped-trailer: cancelaram depois de lançar um PV/trailer
+# dropped-active: cancelaram depois de lançar pelo menos um episódio
+
+- name_ja: 25-sai no Joshikousei
+  name_pt: Uma Colegial de 25 anos
+  studio: Lilix
+  groups:
+    Infinite: active
+- name_ja: 'Basilisk: Ouka Ninpouchou'
+  season: 2
+  studio: Seven Arcs
+  episodes: 24
+  groups:
+    Crunchyroll: stream
+- name_ja: Beatless
+  extra_info: Bloco Animeism
+  studio: Diomedea
+  episodes: 24
+  groups:
+    Amazon Prime Video: stream
+- name_ja: 'Cardcaptor Sakura: Clear Card-hen'
+  season: 2
+  studio: Madhouse
+  episodes: 22
+  groups:
+    Crunchyroll: stream
+    Aenianos: active
+- name_ja: citrus
+  studio: Passione
+  episodes: 12
+  groups:
+    Crunchyroll: stream
+- name_ja: Dagashi Kashi 2
+  season: 2
+  is_short: true
+  extra_info: Bloco TBS Thursday Late Night
+  studio: Tezuka Productions
+  episodes: 12
+  groups:
+    Crunchyroll: stream
+- name_ja: Dame x Prince Anime Caravan
+  studio: Studio Flad
+  episodes: 12
+- name_ja: Darling in the FranXX
+  studio: Trigger / A-1 Pictures
+  episodes: 24
+  groups:
+    Crunchyroll: stream
+    Aenianos: active
+    Kyoto: active
+- name_ja: Death March kara Hajimaru Isekai Kyousoukyoku
+  studio: Silver Link
+  episodes: 12
+  groups:
+    Crunchyroll: stream
+    Eternal Animes: active
+- name_ja: 'Devilman: crybaby'
+  extra_info: Todos os 10 episódios lançados juntos
+  studio: Science SARU
+  episodes: 10
+  groups:
+    Netflix: stream
+- name_ja: 'Drifters: Episódios 13-14'
+  studio: Hoods Entertainment
+  episodes: 2
+- name_ja: Emiya-san Chi no Kyou no Gohan
+  is_short: true
+  extra_info: Spinoff de "Fate/Stay Night"
+  studio: ufotable
+  groups:
+    Eternal Animes: active
+- name_ja: 'Fate/Extra: Last Encore'
+  studio: SHAFT
+  groups:
+    Netflix: rumor
+    Eternal Animes: planned
+- name_ja: 'Fate/Grand Order x Himuro no Tenchi: 7-nin no Saikyou Ijin Hen'
+  extra_info: Especial de TV
+  studio: ufotable
+  episodes: 1
+- name_ja: 'Fate/Grand Order: Moonlight/Lostroom'
+  extra_info: Especial de TV
+  studio: Lay-duce
+  episodes: 1
+- name_ja: Gakuen Babysitters
+  studio: Brain's Base
+  episodes: 12+1
+  groups:
+    Crunchyroll: stream
+- name_ja: Gin no Guardian 2
+  season: 2
+  studio: Emon / BLADE
+  episodes: 6
+  groups:
+    Crunchyroll: stream
+- name_ja: 'Gintama: Shirogane no Tamashii-hen'
+  season: 6
+  studio: Bandai Namco Pictures
+  groups:
+    Crunchyroll: stream
+- name_ja: Grancrest Senki
+  studio: A-1 Pictures
+  episodes: 24
+  groups:
+    Crunchyroll: stream
+    Atlântida: active
+- name_ja: Guda Men
+  is_short: true
+  studio: ''
+  groups:
+    Crunchyroll: stream
+- name_ja: Hakata Tonkotsu Ramens
+  studio: Satelight
+  groups:
+    Crunchyroll: stream
+- name_ja: Hakumei to Mikochi
+  studio: Lerche
+  episodes: 12+1
+- name_ja: 'Hakyuu: Houshin Engi'
+  studio: C-Station
+  episodes: 23+1
+  groups:
+    Crunchyroll: stream
+- name_ja: Hataraku Onii-san!
+  is_short: true
+  studio: ToMovies
+  groups:
+    Crunchyroll: stream
+- name_ja: 'Hitori no Shita: The Outcast 2'
+  season: 2
+  studio: Emon
+  groups:
+    Crunchyroll: stream
+- name_ja: Hugtto! Precure
+  extra_info: 14ª série
+  studio: Toei Animation
+  episodes: 4-cour
+- name_ja: IDOLiSH7
+  studio: TROYCA
+  episodes: 17
+  groups:
+    Crunchyroll: stream
+- name_ja: 'Ito Junji: Collection'
+  studio: Studio DEEN
+  episodes: 12+2
+  groups:
+    Crunchyroll: stream
+- name_ja: Kaiju Girls 2
+  is_short: true
+  studio: Studio Puyukai
+  episodes: 12
+  groups:
+    Crunchyroll: stream
+- name_ja: Karakai Jouzu no Takagi-san
+  extra_info: Bloco Anime no Me
+  studio: Shin-Ei Animation
+  episodes: 12
+  groups:
+    Crunchyroll: stream
+    Hacchi: active
+- name_ja: Killing Bites
+  extra_info: Bloco Animeism
+  studio: Lidenfilms
+  groups:
+    Amazon Prime Video: stream
+- name_ja: Koi wa Ameagari no You ni
+  name_pt: O Amor é Como o Fim de Uma Chuva
+  studio: Wit Studio
+  episodes: 12
+  groups:
+    Amazon Prime Video: stream
+    Infinite: active
+- name_ja: Kokkoku
+  studio: Geno Studio
+  groups:
+    Amazon Prime Video: stream
+    Eternal Animes: planned
+- name_ja: Mame Neko
+  is_short: true
+  studio: Charaction
+- name_ja: Miira no Kaikata
+  extra_info: Bloco TBS Thursday Late Night
+  studio: 8bit
+  episodes: 12
+  groups:
+    Crunchyroll: stream
+- name_ja: Mitsuboshi Colors
+  studio: Silver Link
+  episodes: 12
+  groups:
+    Fansub Anime Land: planned
+- name_ja: Märchen Mädchen
+  studio: Hoods Entertainment
+  groups:
+    Crunchyroll: stream
+    Atlântida-HTT: planned
+- name_ja: Nanatsu no Bitoku
+  is_short: true
+  extra_info: Spin-off de "Sin Nanatsu no Taizai"
+  studio: Bridge
+  groups:
+    Infinite: planned
+- name_ja: 'Nanatsu no Taizai: Imashime no Fukkatsu'
+  season: 2
+  studio: A-1 Pictures
+  episodes: 24
+  groups:
+    Netflix: rumor
+    Aenianos: active
+- name_ja: Overlord II
+  season: 2
+  studio: Madhouse
+  episodes: 13
+  groups:
+    Crunchyroll: stream
+- name_ja: 'Pochitto Hatsumei: Pikachin-Kit'
+  studio: OLM / Shin-Ei Animation
+- name_ja: Pop Team Epic
+  studio: Kamikaze Douga
+  episodes: 12
+  groups:
+    Crunchyroll: stream
+    Infinite: planned
+- name_ja: Ramen Daisuki Koizumi-san
+  studio: Studio Gokumi / AXsiZ
+  episodes: 12
+  groups:
+    Crunchyroll: stream
+- name_ja: Ryuuou no Oshigoto!
+  studio: Project No. 9
+  groups:
+    Crunchyroll: stream
+    Eternal Animes: active
+    Fansub Anime Land: planned
+- name_ja: Saiki Kusuo no Psi Nan 2
+  season: 2
+  studio: J.C. Staff / EGG FIRM
+  groups:
+    Funimation: rumor
+    Crunchyroll: rumor
+    Infinite: planned
+- name_ja: 'Sakura no Chikai: Marronni Yell - Higashi no Hichou Shimotsuke-shi o Yell!'
+  extra_info: Especial de TV
+  episodes: 1
+- name_ja: Sanrio Danshi
+  studio: Studio Pierrot
+  episodes: 12
+  groups:
+    Crunchyroll: stream
+- name_ja: Shinkansen Henkei Robo Shinkalion The Animation
+  studio: OLM
+- name_ja: Slow Start
+  studio: A-1 Pictures
+  episodes: 12
+  groups:
+    Crunchyroll: stream
+    Atlântida Sub: planned
+- name_ja: Sora yori mo Tooi Basho
+  name_pt: Um Lugar Mais Distante que o Universo
+  studio: Madhouse
+  episodes: 13
+  groups:
+    Crunchyroll: stream
+    Atlântida-HTT: active
+- name_ja: 'Spiritpact: Yomi no Chigiri'
+  season: 2
+  studio: Emon
+  groups:
+    Crunchyroll: rumor
+- name_ja: Sword Dynasty
+  studio: EMT Squared
+- name_ja: Takunomi.
+  is_short: true
+  extra_info: Bloco TBS Thursday Late Night
+  studio: Production IMS
+  episodes: 12
+- name_ja: 'Tantei Opera Milky Holmes: Arsene Karei Naru Yokubou'
+  extra_info: Especial de TV
+  studio: J.C. Staff
+  episodes: 1
+- name_ja: Toji no Miko
+  studio: Studio Gokumi
+  episodes: 24
+  groups:
+    Crunchyroll: stream
+- name_ja: Violet Evergarden
+  studio: Kyoto Animation
+  episodes: 13+1
+  groups:
+    Netflix: stream
+    Aenianos-Hacchi: active
+    Eternal Animes: planned
+    Ichiban: active
+- name_ja: 'Yowamushi Pedal: Glory Line'
+  season: 4
+  studio: TMS Entertainment
+  episodes: 25
+  groups:
+    Crunchyroll: stream
+    Peak Spider: active
+- name_ja: Yuru Camp
+  studio: C-Station
+  episodes: 12
+  groups:
+    Crunchyroll: stream
+    HTT-Infinite: active
+- name_ja: 'Zoku Touken Ranbu: Hanamaru'
+  season: 2
+  studio: Doga Kobo
+  episodes: 12
+  groups:
+    Crunchyroll: stream
