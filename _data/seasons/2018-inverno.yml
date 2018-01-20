@@ -54,6 +54,7 @@
   groups:
     Crunchyroll: stream
     Diogo4D: active
+    Ichiban: planned
 - name_ja: Dagashi Kashi 2
   season: 2
   is_short: true
@@ -141,6 +142,8 @@
 - name_ja: Hakumei to Mikochi
   studio: Lerche
   episodes: 12+1
+  groups:
+    Valar: rumor
 - name_ja: 'Hakyuu: Houshin Engi'
   studio: C-Station
   episodes: 23+1
