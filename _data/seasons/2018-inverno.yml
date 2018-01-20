@@ -246,7 +246,7 @@
   episodes: 12
   groups:
     Crunchyroll: stream
-    Infinite: planned
+    Infinite: active
 - name_ja: Ramen Daisuki Koizumi-san
   studio: Studio Gokumi / AXsiZ
   episodes: 12
@@ -316,7 +316,6 @@
     Netflix: stream
     Aenianos-Hacchi: active
     Diogo4D: active
-    Eternal Animes: planned
     Ichiban: active
 - name_ja: 'Yowamushi Pedal: Glory Line'
   season: 4
