@@ -54,7 +54,7 @@
   groups:
     Crunchyroll: stream
     Diogo4D: active
-    Ichiban: planned
+    Ichiban: active
 - name_ja: Dagashi Kashi 2
   season: 2
   is_short: true
@@ -190,6 +190,7 @@
 - name_ja: Killing Bites
   extra_info: Bloco Animeism
   studio: Lidenfilms
+  episodes: 12
   groups:
     Amazon Prime Video: stream
 - name_ja: Koi wa Ameagari no You ni
@@ -257,6 +258,7 @@
     Crunchyroll: stream
 - name_ja: Ryuuou no Oshigoto!
   studio: Project No. 9
+  episodes: 12
   groups:
     Crunchyroll: stream
     Eternal Animes: active
@@ -264,6 +266,7 @@
 - name_ja: Saiki Kusuo no Psi Nan 2
   season: 2
   studio: J.C. Staff / EGG FIRM
+  episodes: 24
   groups:
     Funimation: rumor
     Crunchyroll: rumor
