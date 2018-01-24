@@ -8,7 +8,7 @@ Já que esse site permite a colaboração de usuários é importante que estabel
 
 ## Regras de conteúdo
 
-**O mais importante:** como *temporariamente* estamos hospedados no GitHub os usuários que quiserem colaborar
+**O mais importante:** como estamos hospedados no GitHub os usuários que quiserem colaborar
 deverão seguir as [regras de conteúdo dele](https://help.github.com/articles/github-community-guidelines/),
 assim como os [termos de serviço](https://help.github.com/articles/github-terms-of-service/).
 
