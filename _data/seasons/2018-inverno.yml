@@ -96,6 +96,7 @@
   extra_info: Spinoff de "Fate/Stay Night"
   studio: ufotable
   groups:
+    Crunchyroll: stream
     Eternal Animes: active
 - name_ja: 'Fate/Extra: Last Encore'
   studio: SHAFT
@@ -235,7 +236,7 @@
   extra_info: Spin-off de "Sin Nanatsu no Taizai"
   studio: Bridge
   groups:
-    Infinite: planned
+    Infinite: active
 - name_ja: 'Nanatsu no Taizai: Imashime no Fukkatsu'
   season: 2
   studio: A-1 Pictures
