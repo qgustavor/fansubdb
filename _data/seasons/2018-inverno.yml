@@ -39,8 +39,6 @@
   extra_info: Bloco Animeism
   studio: Diomedea
   episodes: 24
-  groups:
-    Amazon Prime Video: stream
 - name_ja: 'Cardcaptor Sakura: Clear Card-hen'
   season: 2
   studio: Madhouse
@@ -54,7 +52,7 @@
   episodes: 12
   groups:
     Crunchyroll: stream
-    Diogo4D: active
+    Diogo4D-Kanade: active
     Ichiban: active
 - name_ja: Dagashi Kashi 2
   season: 2
@@ -197,19 +195,15 @@
   extra_info: Bloco Animeism
   studio: Lidenfilms
   episodes: 12
-  groups:
-    Amazon Prime Video: stream
 - name_ja: Koi wa Ameagari no You ni
   name_pt: O Amor é Como o Fim de Uma Chuva
   studio: Wit Studio
   episodes: 12
   groups:
-    Amazon Prime Video: stream
     Infinite: active
 - name_ja: Kokkoku
   studio: Geno Studio
   groups:
-    Amazon Prime Video: stream
     Eternal Animes: active
 - name_ja: Mame Neko
   is_short: true
@@ -235,6 +229,7 @@
   is_short: true
   extra_info: Spin-off de "Sin Nanatsu no Taizai"
   studio: Bridge
+  episodes: 12+2
   groups:
     Infinite: active
 - name_ja: 'Nanatsu no Taizai: Imashime no Fukkatsu'
@@ -258,6 +253,7 @@
   episodes: 12
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
     Infinite: active
 - name_ja: Ramen Daisuki Koizumi-san
   studio: Studio Gokumi / AXsiZ
