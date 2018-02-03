@@ -75,11 +75,15 @@ tradução de grupos de língua inglesa, e não o contrário);
 cometerão nenhum erro para ser corrigido;
 * Desconsidera que eles próprios possam deixar de existir, impedindo que eles corrijam erros ou mudem a fonte do vídeo;
 * Desconsidera que eles podem acabar perdendo os arquivos que usaram, algo que é extremamente comum;
+* Ignora o fato de que usar hardsub *sempre* reduz a qualidade do vídeo uma vez que exige que o vídeo seja re-encodado;
 * O trabalho o qual protegem é apenas uma fração desprezível do todo, pois o maior esforço na produção do anime foi,
 sem sombra de dúvida, realizado pela equipe de produção do anime. Enquanto é comum ouvir que animadores de anime
 sofrem com baixos salários e prazos apertados aparecem supostos fãs que se consideram melhores que eles. Aqueles tem
 o seu esforço desprezado toda vez que alguém se acha bom o suficiente a se colocar acima da equipe de produção.
 Quem tem essa mentalidade não deveria se chamar de fã pois só prejudicam a comunidade e a indústria do anime.
+
+Notem que não serão listados grupos que fornecerem apenas traduções em "hardsub": grupos que fornecerem traduções
+em "hardsub" mas também fornecerem versões em "softsub" ou legendas separadas para download serão listados normalmente.
 
 Os meios que esses grupos não podem apresentar foco pelo lucro, como impedir o acesso de usuários que bloqueiem
 propagandas ou usarem excessivamente delas. Se algum grupo comete esse tipo de exagero poderá se justificar sendo
@@ -88,15 +92,30 @@ fãs porém veem isso como uma chance de conseguir dinheiro fácil em cima do tr
 grandes (que sendo assim precisariam de muito dinheiro para funcionar) e que são motivados pelo lucro, como o YouTube,
 fazem isso.
 
-Além disso não serão aceitos grupos que simplesmente copiam o trabalho de sites de streaming oficiais. Isso porque o
-FansubDB também não aceita, embora o MyAnimeList e AniDB aceitem. Caso um grupo assim atenda o primeiro ponto, isso é, não
-disponibilize apenas "hardsub", só aceite doações e não ofereça nenhum benefício elas, ou que seja mantido apenas por
-seus membros, isso é, sem doações, propagandas ou qualquer outra fonte de renda, poderemos listar o grupo. Porém mesmo
-assim ele ficará em uma seção separada, sem destaque, no fim da página. O objetivo disso promover grupos que procurem
-popularizar os animes por apenas serem fãs, já que há vários grupos que fazem isso buscando lucro.
+Os critérios para determinar se algum grupo está muito focado em lucros serão:
+
+* O site do grupo deve atender [os critérios do AcceptableAds](https://acceptableads.com/en/about/criteria) ([cópia da página](https://archive.is/uP44a));
+* Serão consideradas propagandas qualquer tipo de texto ou imagem envolvendo doações, promoções ou qualquer coisa que possa ser usado como fonte de renda por parte do grupo; esse tipo de conteúdo deve seguir os critérios do AcceptableAds;
+* O site do grupo não pode ter malware;
+* O site do grupo não pode ter mineradores ou qualquer comportamento que indique que há algum minerador; de forma objetiva 
+caso o site apresente um uso de CPU acima de 50% pelo menos após 15 segundos depois da página ter sido carregada consideraremos que há algum minerador na página;
+
+Não estamos apoiando a ideia do AcceptableAds, que é mal vista por várias pessoas, mas estamos aproveitando os
+critérios deles por serem simples e permitem vários tipos de propagandas sem prejudicar a experiência dos visitantes.
+Mesmo assim vários grupos acabam não sendo listados por não se conformar a elas. Alguns exemplos reais: um grupo
+coloca mensagens de doação acima do conteúdo principal do site, quebrando a regra que proíbe propagandas por cima
+do conteúdo principal, logo ele não será listado no site. Outro grupo tem um site com um malware que tenta roubar
+dados bancários dos seus usuários, esse grupo também não será listado.
+
+Além disso não serão aceitos grupos que simplesmente copiam o trabalho de sites de streaming oficiais ou de outros grupos. Isso porque o FansubDB também não aceita, embora o MyAnimeList e AniDB aceitem alguns deles. Caso um grupo
+assim atenda o primeiro ponto, isso é, não disponibilize apenas "hardsub", e só aceite doações e não ofereça nenhum
+benefício aos doadores, ou seja mantido apenas por seus membros, isso é, sem doações, propagandas ou qualquer
+outra fonte de renda, então poderemos listar o grupo. Porém mesmo assim ele ficará em uma seção separada, sem destaque,
+no fim da página. O objetivo disso promover grupos que procurem popularizar os animes por apenas serem fãs, já que
+há vários grupos que fazem isso buscando lucro.
 
 Grupos brasileiros, portugueses ou de qualquer outro país de língua portuguesa serão aceitos, desde que se adéquem aos
-pontos acima.
+pontos acima. Por outro lado grupos que não quiserem ser listados podem notificar essa vontade se assim desejarem.
 
 </details>
 
