@@ -21,3 +21,11 @@
 ul li, ol li {
   margin-bottom: 0;
 }
+
+.stupidtable [data-sort] {
+  cursor: pointer;
+}
+
+.sidebar ul, .sidebar h3 {
+  margin-top: 0.5em;
+}

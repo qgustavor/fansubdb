@@ -1,17 +1,18 @@
-**Legenda:**
-
-* Preto - Planejado
-* Preto? - Rumor/não-certo
-* <span class="season-trailer">Vermelho</span> - Lançaram vídeo promocional ou trailer
-* <span class="season-active">Verde</span> - Lançaram pelo menos um episódio
-* <span class="season-stream">Azul</span> - Streaming oficial
-* ~~Cortado~~ - Desistiram do projeto ("dropparam" ele)
-
 <!-- Só um aviso: apesar da tentativa de organização esse template está uma bagunça -->
-<table>
-  <thead><tr><th>Nome</th><th>Produção</th><th>Episódios</th><th>Grupos</th></tr></thead>
+<table class="stupidtable">
+  <thead><tr>
+    <th data-sort="string">Estreia</th>
+    <th data-sort="string" data-sort-onload="yes">Nome</th>
+    <th data-sort="string">Produção</th>
+    <th data-sort="int">Episódios</th>
+    <th data-sort="string">Grupos</th>
+  </tr></thead>
   <tbody>{% for entry in season %}
     <tr>
+      <td data-sort-value="{{ entry.premiere }}">
+        <abbr title="{{ entry.premiere | date: "%D %T" }} JST">{{ entry.premiere | date: "%d/%m/%y" }}</abbr>
+        <br>{{ entry.stations }}
+      </td>
       <td>{{ entry.name_ja }}
         {%- if entry.name_pt or entry.is_short or entry.season or entry.extra_info -%}<small>{%- endif -%}
         {%- if entry.name_pt -%}<br>({{ entry.name_pt }}){%- endif -%}
@@ -32,5 +33,4 @@
   {% endfor %}</tbody>
 </table>
 
-Algo está errado? Está faltando alguma fansub?  
-Leia [as regras](../regras/) e comente abaixo:
+Algo está errado? Leia [as regras](../regras/) e comente abaixo:

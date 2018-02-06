@@ -2,11 +2,11 @@
 layout: archive
 ---
 
-<h3 class="archive__subtitle">Temporadas</h3>
-
+<div class="grid__wrapper">
 {% for post in paginator.posts %}
-  {% include archive-single.html %}
+  {% include archive-single.html type="grid" %}
 {% endfor %}
+</div>
 
 {% include paginator.html %}
 
