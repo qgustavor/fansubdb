@@ -103,6 +103,12 @@ $(function () {
   if (!window.localStorage || !window.fetch) return
 
   function renderGitHubData (data) {
+    var lastCommit = data.filter(function (e) {
+      // Commits relacionados a código podem ser marcados com o emoji wrench/renchi/レンチ/🔧
+      return !e.commit.message.match(/(^|\b)(\uD83D\uDD27|interface|código|script|layout)(\b|$)/i)
+    })[0]
+    if (!lastCommit) return
+
     var container = $('#last-commit')
     if (container.length === 0) {
       container = $('<ul>')
@@ -110,12 +116,6 @@ $(function () {
       .html('<li><strong>Última atualização:</strong></li><li class="commit-info"></li>')
       .insertBefore('.social-icons')
     }
-
-    var lastCommit = data.filter(function (e) {
-      // Commits relacionados a código podem ser marcados com o emoji wrench/renchi/レンチ/🔧
-      return !e.commit.message.match(/(^|\b)(\uD83D\uDD27|interface|código|script|layout)(\b|$)/i)
-    })[0]
-    if (!lastCommit) return
 
     var commitAnchor = $('<a>')
     .attr('href', lastCommit.html_url)
