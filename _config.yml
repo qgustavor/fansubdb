@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Banco de dados de Fansubs"
+title                    : "Banco de dados de fansubs"
 title_separator          : "-"
 name                     : "Um banco de dados de fansubs de língua portuguesa"
 description              : "Um banco de dados de fansubs de língua portuguesa"
@@ -84,7 +84,7 @@ analytics:
 
 # Site Author
 author:
-  name             : Banco de dados de Fansubs
+  name             : Banco de dados de fansubs
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : Um banco de dados de fansubs de língua portuguesa
   location         :
