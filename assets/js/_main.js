@@ -105,7 +105,7 @@ $(function () {
   function renderGitHubData (data) {
     var lastCommit = data.filter(function (e) {
       // Commits relacionados a código podem ser marcados com o emoji wrench/renchi/レンチ/🔧
-      return !e.commit.message.match(/(^|\b)(\uD83D\uDD27|interface|código|script|layout)(\b|$)/i)
+      return !e.commit.message.match(/(^|\s)(\uD83D\uDD27|interface|código|script|layout)(\s|$)/i)
     })[0]
     if (!lastCommit) return
 
