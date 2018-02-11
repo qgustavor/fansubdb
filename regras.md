@@ -183,7 +183,7 @@ de login no GitHub, porém garantem que o usuário ficará registrado como contr
 Diferente do FansubDB todo o conteúdo do site é organizado em arquivos YAML. Caso queira contribuir por
 comentários ou issues não é necessário editar ele, mas caso queira contribuir por pull requests só editar
 os arquivos na pasta [`/_data/seasons`](https://github.com/qgustavor/fansubdb/tree/master/_data/seasons). O
-arquivo [`2018-inverno.yml`](https://github.com/qgustavor/fansubdb/blob/master/_data/seasons/2018-inverno.yml),
+arquivo [`2017-inverno.yml`](https://github.com/qgustavor/fansubdb/blob/master/_data/seasons/2017-inverno.yml),
 que foi o primeiro a ser criado no site, tem todos os comentários e instruções necessárias para entender
 como o sistema funciona.
 

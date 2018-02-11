@@ -10,8 +10,8 @@
   <tbody>{% for entry in season %}
     <tr>
       <td data-sort-value="{{ entry.premiere }}">
-        <abbr title="{{ entry.premiere | date: "%D %T" }} JST">{{ entry.premiere | date: "%d/%m/%y" }}</abbr>
-        <br>{{ entry.stations }}
+        {%- if entry.premiere -%}<abbr title="{{ entry.premiere | date: "%D %T" }} JST">{{ entry.premiere | date: "%d/%m/%y" }}</abbr>{%- endif -%}
+        {%- if entry.premiere and entry.stations-%}<br>{%- endif -%}{{ entry.stations }}
       </td>
       <td>{{ entry.name_ja }}
         {%- if entry.name_pt or entry.is_short or entry.season or entry.extra_info -%}<small>{%- endif -%}

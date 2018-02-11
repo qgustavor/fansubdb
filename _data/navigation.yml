@@ -2,5 +2,7 @@
 main:
   - title: Inverno
     url: /2017-inverno
+  - title: Primavera
+    url: /2018-primavera
   - title: Sobre
     url: /sobre

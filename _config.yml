@@ -254,3 +254,6 @@ defaults:
       comments: true
       share: false
       related: false
+
+# Display future posts (it's not a blog anyway...)
+future: true
