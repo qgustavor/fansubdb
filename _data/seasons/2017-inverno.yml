@@ -83,6 +83,8 @@
   stations: Tokyo MX
   premiere: 2018-01-10T22:30+0900
   episodes: 12
+  groups:
+    HIDIVE: stream
 - name_ja: Darling in the FranXX
   studio: Trigger / A-1 Pictures
   stations: 'Tokyo MX, BS11, etc.'
@@ -190,6 +192,7 @@
   premiere: 2018-01-12T21:00+0900
   episodes: 12+1
   groups:
+    HIDIVE: stream
     Valar: rumor
 - name_ja: 'Hakyuu: Houshin Engi'
   studio: C-Station
@@ -293,6 +296,7 @@
   premiere: 2018-01-07T22:30+0900
   episodes: 12
   groups:
+    HIDIVE: stream
     Fansub Anime Land: planned
     Konbini: planned
 - name_ja: Märchen Mädchen
@@ -310,6 +314,7 @@
   premiere: 2018-01-27T00:25+0900
   episodes: 12+2
   groups:
+    HIDIVE: stream
     Infinite: active
 - name_ja: 'Nanatsu no Taizai: Imashime no Fukkatsu'
   season: 2
@@ -419,6 +424,8 @@
   stations: TBS
   premiere: 2018-01-12T02:43+0900
   episodes: 12
+  groups:
+    HIDIVE: stream
 - name_ja: 'Tantei Opera Milky Holmes: Arsene Karei Naru Yokubou'
   extra_info: Especial de TV
   studio: J.C. Staff
