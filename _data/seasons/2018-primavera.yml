@@ -1,5 +1,11 @@
-# Auto-converted from https://fansubdb.com/w/index.php?title=Spring_2018&oldid=22242
+# Auto-converted from https://fansubdb.com/w/index.php?title=Spring_2018&oldid=22338
 
+- name_ja: '3D Kanojo: Real Girl'
+  studio: Hoods Entertainment
+  stations: Nippon TV
+  premiere: 2018-04-01T03:25:00+0900
+  episodes: 12
+  extra_info: Bloco AnichU
 - name_ja: A.I.C.O. -Incarnation-
   studio: Bones
   stations: Netflix
@@ -20,11 +26,19 @@
 - name_ja: Aikatsu Friends!
   studio: Bandai Namco Pictures
   stations: TV Tokyo Nat. Net.
-- name_ja: Alice or Alice
+- name_ja: Akkun to Kanojo
+  studio: Yumeta Company
+- name_ja: 'Alice or Alice: Siscon Niisan to Futago no Imouto'
   studio: EMT Squared
+- name_ja: 'Amai Choubatsu: Watashi wa Kanshu Sen`you Pet'
+  studio: Magic Bus
+  stations: Tokyo MX / ComicFesta
+  premiere: 2018-04-01T01:25:00+0900
+  is_short: true
 - name_ja: Amanchu! Advance
   studio: J.C. Staff
-  stations: AT-X / Tokyo MX
+  stations: AT-X
+  premiere: 2018-04-01T07:23:00+0900
   season: 2
   episodes: 12
   groups:
@@ -57,21 +71,24 @@
 - name_ja: 'Butlers: Chitose Momotose Monogatari'
   studio: Silver Link
 - name_ja: Caligula
+  studio: Satelight
+  stations: Tokyo MX
   episodes: 1-cour
 - name_ja: Captain Tsubasa (2018)
   studio: David Production
-  stations: TV Tokyo Nat. Net.
+  stations: TV Tokyo
+  premiere: 2018-04-01T02:25:00+0900
   episodes: 52
-- name_ja: Chio-chan no Tsuugakuro
-  studio: Diomedea
 - name_ja: Comic Girls
   studio: Nexus
-  stations: Tokyo MX
+  stations: AT-X / Tokyo MX
 - name_ja: Cutie Honey Universe
   studio: Production Reed
-- name_ja: Devils' Line
+- name_ja: Devils Line
   studio: Platinum Vision
-- name_ja: Doreiku The Animation
+  stations: AT-X
+  premiere: 2018-04-01T07:23:00+0900
+- name_ja: Dorei-ku The Animation
   studio: TNK / Zero-G
   stations: Tokyo MX / BS11
   groups:
@@ -87,14 +104,18 @@
   premiere: 2018-04-01T01:09:00+0900
 - name_ja: 'Ginga Eiyuu Densetsu: Die Neue These - Kaikou'
   studio: Production I.G
+  stations: Family Gekijou
+  premiere: 2018-04-01T03:21:00+0900
   episodes: 12
   extra_info: Remake
 - name_ja: Golden Kamuy
   studio: Geno Studio
-  stations: Tokyo MX / BS11 / ytv
+  stations: Tokyo MX
+  extra_info: Bloco Anime no Me
 - name_ja: Gundam Build Divers
   studio: Sunrise
   stations: TV Tokyo Nat. Net.
+  premiere: 2018-04-01T03:17:00+0900
   extra_info: Continuação de Gundam Build FIghters
 - name_ja: Gurazeni
   studio: Studio DEEN
@@ -106,12 +127,16 @@
     Crunchyroll: stream
 - name_ja: Hinamatsuri
   studio: feel.
+  stations: AT-X
+  premiere: 2018-04-01T06:21:00+0900
 - name_ja: Hisone to Masotan
   studio: Bones
-  stations: Tokyo MX
+  stations: Tokyo MX / BS Fuji
+  premiere: 2018-04-01T12:24:00+0900
 - name_ja: 'Hoozuki no Reitetsu 2: Sono Ni'
   studio: Studio DEEN
-  stations: Tokyo MX
+  stations: 'Tokyo MX, BS11, etc.'
+  premiere: 2018-04-01T07:25:00+0900
   season: 2
   extra_info: Cour 2 de 2
   groups:
@@ -119,21 +144,31 @@
 - name_ja: 'Inazuma Eleven: Ares no Tenbin'
   studio: OLM
   stations: TV Tokyo Nat. Net.
+  premiere: 2018-04-01T06:17:00+0900
+  extra_info: 'Episódio 1: 1 hour special'
 - name_ja: 'Jikken-hin Kazoku: Creatures Family Days'
+  studio: KJJ Animation
 - name_ja: Juushinki Pandora
   studio: Satelight
+  stations: Netflix
+  premiere: 2018-03-02T05:00:00+0900
+  groups:
+    Netflix: stream
 - name_ja: Kakuriyo no Yadomeshi
   studio: GONZO
   stations: Tokyo MX / BS Fuji
 - name_ja: Kiratto PriChan
   studio: Tatsunoko Production
   stations: TV Tokyo Nat. Net.
+  premiere: 2018-04-01T08:10:00+0900
 - name_ja: 'Last Period: Owari naki Rasen no Monogatari'
   studio: J.C. Staff
-  stations: Tokyo MX / BS11 / ABC Asahi
+  stations: Tokyo MX
+  premiere: 2018-04-01T11:24:00+0900
 - name_ja: 'Layton Mystery Tanteisha: Katri no Nazotoki File'
   studio: Lidenfilms
   stations: Fuji TV Nat. Net.
+  premiere: 2018-04-01T08:08:00+0900
 - name_ja: Lost Song
   studio: Lidenfilms / Dwango
   stations: Netflix
@@ -146,11 +181,19 @@
   season: 4
   groups:
     Crunchyroll: stream
+- name_ja: 'Lupin III: Part V'
+  studio: Telecom Animation Film
+  extra_info: 5ª série
 - name_ja: Mahou Shoujo Ore
   studio: Studio Pierrot+
+  stations: AT-X
+  premiere: 2018-04-01T02:22:00+0900
+  groups:
+    Crunchyroll: stream
 - name_ja: Mahou Shoujo Site
   studio: Production doA
   stations: MBS / TBS
+  premiere: 2018-04-01T06:26:00+0900
   episodes: 12
   extra_info: Bloco Animeism
 - name_ja: Major 2nd
@@ -161,12 +204,19 @@
 - name_ja: Megalo Box
   studio: TMS Entertainment
   stations: TBS
+  premiere: 2018-04-01T05:26:00+0900
   extra_info: Bloco TBS Thursday Late Night
 - name_ja: 'Nil Admirari no Tenbin: Teito Genwaku Kitan'
   studio: Zero-G
+- name_ja: 'Nobunaga no Shinobi: Anegawa Ishiyama-hen'
+  studio: TMS Entertainment
+  stations: Tokyo MX
+  season: 3
+  is_short: true
 - name_ja: Omae wa Mada Gunma o Shiranai
   studio: Asahi Production / CJT
-  stations: Gunma TV / Animax / Yahoo GYAO!
+  stations: Gunma TV
+  premiere: 2018-04-01T02:20:00+0900
 - name_ja: Otaku ni Koi wa Muzukashii
   studio: A-1 Pictures
   stations: Fuji TV
@@ -179,19 +229,17 @@
 - name_ja: Persona 5 The Animation
   studio: A-1 Pictures
   stations: 'Tokyo MX, BS11, etc.'
+  premiere: 2018-04-01T07:24:00+0900
 - name_ja: Piano no Mori
   studio: Fukushima Gainax
   stations: NHK-G
-- name_ja: Real Girl
-  studio: Hoods Entertainment
-  stations: Nippon TV
-  episodes: 12
-  extra_info: Bloco AnichU
+  premiere: 2018-04-01T09:24:00+0900
 - name_ja: Rokuhoudou Yotsuiro Biyori
   studio: ZEXCS
 - name_ja: Saredo Tsumibito wa Ryuu to Odoru
   studio: Seven Arcs
   stations: TBS
+  premiere: 2018-04-01T05:25:00+0900
   episodes: 1-cour
   extra_info: Bloco TBS Thursday Late Night
 - name_ja: 'Shokugeki no Souma: San no Sara – Toutsuki Ressha-hen'
@@ -201,9 +249,18 @@
   extra_info: Cour 2 de 2
   groups:
     Crunchyroll: stream
+- name_ja: 'Shounen Ashibe: Go! Go! Goma-chan 3'
+  studio: Bridge
+  stations: NHK-E
+  premiere: 2018-04-01T03:18:00+0900
+  season: 5
+  is_short: true
+  groups:
+    Crunchyroll: stream
 - name_ja: 'Souten no Ken Re:Genesis'
   studio: Polygon Pictures
-  stations: Tokyo MX
+  stations: Amazon Prime Video
+  premiere: 2018-04-01T02:25:00+0900
 - name_ja: Steins;Gate 0
   studio: White Fox
   extra_info: Continuação de Steins;Gate
@@ -220,15 +277,32 @@
   extra_info: Todos os episódios lançados juntos
   groups:
     Netflix: stream
+- name_ja: Tachibanakan Triangle
+  studio: Creators in Pack / Studio Lings
+  is_short: true
 - name_ja: Tada-kun wa Koi wo Shinai
   studio: Doga Kobo
-  stations: TV Tokyo
   groups:
     Mundo do Shoujo: planned
+  stations: AT-X
+  premiere: 2018-04-01T05:21:00+0900
+- name_ja: To Be Hero 2
+  studio: Emon
+  season: 2
+  is_short: true
 - name_ja: 'Tokyo Ghoul:re'
   studio: Studio Pierrot
+  stations: Tokyo MX
+  premiere: 2018-04-01T03:23:00+0900
   season: 3
   groups:
     Crunchyroll: stream
+- name_ja: Uchuu Senkan Tiramisu
+  studio: GONZO
 - name_ja: 'Uma Musume: Pretty Derby'
   studio: P.A. Works
+  stations: Tokyo MX
+- name_ja: 'Youkai Watch: Shadow Side'
+  studio: OLM
+  stations: TV Tokyo Nat. Net.
+  premiere: 2018-04-01T13:18:00+0900
