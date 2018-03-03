@@ -14,7 +14,7 @@
   premiere: 2017-10-01T04:22:00+0900
   season: 4
   is_short: true
-  extra_info: of Ameiro Cocoa
+  extra_info: Continuação de Ameiro Cocoa
   groups:
     Crunchyroll: stream
 - name_ja: Animegataris
@@ -177,7 +177,7 @@
   stations: 'Tokyo MX, BS11, etc.'
   premiere: 2017-11-02T00:24:00+0900
   episodes: 6
-  extra_info: Continuação de movie Zutto Mae kara Suki Deshita. Kokuhaku Jikkouiinkai
+  extra_info: Continuação do filme Zutto Mae kara Suki Deshita. Kokuhaku Jikkouiinkai
   groups:
     Crunchyroll: stream
 - name_ja: Just Because!
@@ -329,7 +329,7 @@
   stations: 'Tokyo MX, BS11, etc.'
   premiere: 2017-10-01T07:23:00+0900
   episodes: 13
-  extra_info: "Spinoff de The [email\_protected], Prologue Special: 9/30 @ 24:30"
+  extra_info: "Spinoff de The iDOLM@STER"
   groups:
     Crunchyroll: stream
 - name_ja: 'Time Bokan: Gyakushuu no San-Akunin'
@@ -381,11 +381,11 @@
   premiere: 2017-10-01T06:25:00+0900
   season: 2
   episodes: 6
-  extra_info: 'Parte 1 of 2,Bloco  Animeism'
+  extra_info: 'Parte 1 de 2, Bloco Animeism'
 - name_ja: 'Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou'
   studio: Studio Gokumi
   stations: MBS / TBS
   premiere: 2017-11-01T17:25:00+0900
   season: 2
   episodes: 6
-  extra_info: 'Parte 2 of 2,Bloco  Animeism'
+  extra_info: 'Parte 2 de 2, Bloco Animeism'
