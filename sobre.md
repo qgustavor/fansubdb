@@ -10,6 +10,8 @@ No fórum que modero o pessoal que era responsável por listar as fansubs ativas
 resolvi criar esse site para ser uma versão do [The Fansub Database](https://fansubdb.com) (FansubDB) para fansubs
 de língua portuguesa. Estamos hospedados no GitHub Pages para facilitar a colaboração e para reduzir custos.
 
+As imagens que ilustram as temporadas vieram do [Unsplash](https://unsplash.com/).
+
 ## Como colaborar
 
 É possível colaborar sem precisar de criar uma conta (ou até anonimamente) por via dos comentários, mas se quiser
