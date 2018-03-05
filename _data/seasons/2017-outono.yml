@@ -8,6 +8,7 @@
   episodes: 22
   groups:
     Crunchyroll: stream
+    Eternal Animes: active
 - name_ja: Ame-con!!
   studio: EMT Squared
   stations: Tokyo MX
@@ -24,6 +25,7 @@
   episodes: 12
   groups:
     Crunchyroll: stream
+    Atântida Sub: active
 - name_ja: Black Clover
   studio: Studio Pierrot
   stations: TV Tokyo Nat. Net.
@@ -31,6 +33,7 @@
   episodes: 51
   groups:
     Crunchyroll: stream
+    Atântida Sub: active
 - name_ja: Blend S
   studio: A-1 Pictures
   stations: 'Tokyo MX, BS11, etc.'
@@ -38,6 +41,8 @@
   episodes: 12
   groups:
     Crunchyroll: stream
+    Diogo4D: active
+    Fansub Anime Land: active
 - name_ja: Boku no Kanojo ga Majimesugiru Sho-bitch na Ken
   studio: Diomedea
   stations: AT-X
@@ -45,6 +50,7 @@
   episodes: 10
   groups:
     HIDIVE: stream
+    Infinite: active
 - name_ja: 'Cardfight!! Vanguard G: Z'
   studio: OLM
   stations: TV Tokyo Nat. Net.
@@ -60,6 +66,7 @@
   is_short: true
   groups:
     Crunchyroll: stream
+    Bakemono: active
 - name_ja: Classicaloid 2
   studio: Sunrise
   stations: NHK-E
@@ -88,6 +95,7 @@
   episodes: 12(TV)+6(Web)
   groups:
     Crunchyroll: stream
+    Lolisub: active
 - name_ja: Dynamic Chord
   studio: Studio Pierrot
   stations: TBS
@@ -116,6 +124,7 @@
   season: 3
   groups:
     Crunchyroll: stream
+    HTT: active
 - name_ja: 'Gintama: Porori-hen'
   studio: Bandai Namco Pictures
   stations: TV Tokyo
@@ -172,6 +181,8 @@
   premiere: 2017-10-01T12:24:00+0900
   episodes: 11
   extra_info: Bloco noitaminA
+  groups:
+    Hacchi: active
 - name_ja: Itsudatte Bokura no Koi wa 10 Centi Datta.
   studio: Lay-Duce
   stations: 'Tokyo MX, BS11, etc.'
@@ -180,6 +191,7 @@
   extra_info: Continuação do filme Zutto Mae kara Suki Deshita. Kokuhaku Jikkouiinkai
   groups:
     Crunchyroll: stream
+    Mundo do Shoujo: active
 - name_ja: Just Because!
   studio: PINE JAM
   stations: AT-X
@@ -187,6 +199,7 @@
   episodes: 12
   groups:
     HIDIVE: stream
+    Infinite: active
 - name_ja: Juuni Taisen
   studio: Graphinica
   stations: AT-X
@@ -194,6 +207,7 @@
   episodes: 12
   groups:
     Crunchyroll: stream
+    Hacchi-Tadaima: active
 - name_ja: Kekkai Sensen & Beyond
   studio: Bones
   stations: MBS
@@ -202,6 +216,7 @@
   episodes: 12
   groups:
     Crunchyroll: stream
+    Illuminati: active
 - name_ja: 'Kino no Tabi: The Beautiful World - The Animated Series'
   studio: Lerche
   stations: AT-X
@@ -210,6 +225,8 @@
   extra_info: Remake
   groups:
     Crunchyroll: stream
+    Anirrent: active
+    Eternal Animes: active
 - name_ja: Konohana Kitan
   studio: Lerche
   stations: AT-X
@@ -217,6 +234,9 @@
   episodes: 12
   groups:
     Crunchyroll: stream
+    Diogo4D: active
+    Eternal Animes: active
+    Lolisub-The Motion Picture: active
 - name_ja: Kujira no Kora wa Sajou ni Utau
   studio: J.C. Staff
   stations: Tokyo MX
@@ -224,6 +244,9 @@
   episodes: 12
   groups:
     Netflix: stream
+    Aenianos: active
+    Anirrent: active
+    Kyoto: active
 - name_ja: 'Love Kome: We Love Rice 2'
   studio: Encourage Films
   stations: RNB
@@ -248,6 +271,9 @@
   episodes: 24
   groups:
     Crunchyroll: stream
+    Ichiban-Valar: active
+    Infinite: active
+    Mundo do Shoujo: active
 - name_ja: Net-juu no Susume
   studio: Signal.MD
   stations: Yahoo GYAO!
@@ -261,6 +287,8 @@
   premiere: 2017-10-01T01:24:00+0900
   episodes: 12
   is_short: true
+  groups:
+    Infinite: active
 - name_ja: Oretacha Youkai Ningen
   studio: DLE
   stations: Tokyo MX
@@ -274,6 +302,7 @@
   is_short: true
   groups:
     Crunchyroll: stream
+    Fansub Anime Land: active
 - name_ja: Osomatsu-san 2
   studio: Studio Pierrot
   stations: TV Tokyo
@@ -310,6 +339,7 @@
   extra_info: Cour 1 de 2
   groups:
     Crunchyroll: stream
+    Infinite: active
 - name_ja: Shoujo Shuumatsu Ryokou
   studio: White Fox
   stations: AT-X
@@ -317,6 +347,10 @@
   episodes: 12
   groups:
     HIDIVE: stream
+    Aenianos: active
+    Diogo4D: active
+    Eternal Animes: active
+    Lolisub-OldAge: active
 - name_ja: Taishou Chicchai-san
   studio: Studio A-Cat
   stations: Tokyo MX
@@ -352,6 +386,7 @@
   episodes: 12
   groups:
     Crunchyroll: stream
+    The Motion Picture: planned
 - name_ja: 'UQ Holder!: Mahou Sensei Negima! 2'
   studio: J.C. Staff
   stations: 'Tokyo MX, etc.'
@@ -367,6 +402,7 @@
   episodes: 12
   groups:
     Crunchyroll: stream
+    The Motion Picture: active
 - name_ja: 'Wake Up, Girls! Shin Shou'
   studio: Millepensee
   stations: TV Tokyo
@@ -375,6 +411,7 @@
   episodes: 12
   groups:
     Crunchyroll: stream
+    Eternal Animes-The Motion Picture: active
 - name_ja: 'Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou'
   studio: Studio Gokumi
   stations: MBS / TBS
