@@ -6,6 +6,7 @@
   premiere: 2017-10-01T14:23:00+0900
   season: 2
   episodes: 22
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12994'
   groups:
     Crunchyroll: stream
     Eternal Animes: active
@@ -23,6 +24,7 @@
   stations: Tokyo MX
   premiere: 2017-10-01T08:22:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13114'
   groups:
     Crunchyroll: stream
     Atântida Sub: active
@@ -39,6 +41,7 @@
   stations: 'Tokyo MX, BS11, etc.'
   premiere: 2017-10-01T07:24:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12694'
   groups:
     Crunchyroll: stream
     Diogo4D: active
@@ -48,6 +51,7 @@
   stations: AT-X
   premiere: 2017-10-01T11:24:00+0900
   episodes: 10
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13217'
   groups:
     HIDIVE: stream
     Infinite: active
@@ -56,6 +60,7 @@
   stations: TV Tokyo Nat. Net.
   premiere: 2017-10-01T08:10:00+0900
   season: 8
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13329'
   groups:
     Crunchyroll: stream
 - name_ja: Cinderella Girls Gekijou 2
@@ -73,6 +78,7 @@
   premiere: 2017-10-01T07:17:00+0900
   season: 2
   episodes: 2-cour
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13069'
   groups:
     HIDIVE: stream
 - name_ja: 'Code:Realize - Sousei no Himegimi'
@@ -80,6 +86,7 @@
   stations: AT-X
   premiere: 2017-10-01T07:20:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11516'
   groups:
     Crunchyroll: stream
 - name_ja: Dia Horizon
@@ -93,6 +100,7 @@
   stations: Tokyo MX
   premiere: 2017-10-01T06:25:00+0900
   episodes: 12(TV)+6(Web)
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11204'
   groups:
     Crunchyroll: stream
     Lolisub: active
@@ -102,12 +110,14 @@
   premiere: 2017-10-01T05:25:00+0900
   episodes: 12
   extra_info: Bloco TBS Thursday Late Night
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12731'
   groups:
     HIDIVE: stream
 - name_ja: EVIL OR LIVE
   studio: Emon
   stations: Tokyo MX
   premiere: 2017-10-01T10:25:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13417'
   groups:
     Crunchyroll: stream
 - name_ja: Fireball Humorous
@@ -117,11 +127,13 @@
   season: 3
   episodes: 3
   is_short: true
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13398'
 - name_ja: 'Garo: Vanishing Line'
   studio: MAPPA
   stations: TV Tokyo
   premiere: 2017-10-01T06:25:00+0900
   season: 3
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13390'
   groups:
     Crunchyroll: stream
     HTT: active
@@ -139,12 +151,14 @@
   stations: Tokyo MX
   premiere: 2017-10-01T06:26:00+0900
   episodes: 10
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13431'
 - name_ja: Himouto! Umaru-chan R
   studio: Doga Kobo
   stations: AT-X
   premiere: 2017-10-01T08:23:00+0900
   season: 2
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13106'
   groups:
     HIDIVE: stream
 - name_ja: Hoozuki no Reitetsu 2
@@ -154,6 +168,7 @@
   season: 2
   episodes: 12
   extra_info: Cour 1 de 2
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12954'
   groups:
     HIDIVE: stream
 - name_ja: Houseki no Kuni
@@ -161,6 +176,7 @@
   stations: AT-X
   premiere: 2017-10-01T07:21:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13165'
   groups:
     HIDIVE: stream
 - name_ja: Imouto sae Ireba Ii.
@@ -168,6 +184,7 @@
   stations: Tokyo MX
   premiere: 2017-10-01T08:22:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11352'
   groups:
     Crunchyroll: stream
 - name_ja: Infini-T Force
@@ -175,12 +192,14 @@
   stations: Hulu.jp
   premiere: 2017-09-02T02:00:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12034'
 - name_ja: Inuyashiki
   studio: MAPPA
   stations: Fuji TV
   premiere: 2017-10-01T12:24:00+0900
   episodes: 11
   extra_info: Bloco noitaminA
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12653'
   groups:
     Hacchi: active
 - name_ja: Itsudatte Bokura no Koi wa 10 Centi Datta.
@@ -189,6 +208,7 @@
   premiere: 2017-11-02T00:24:00+0900
   episodes: 6
   extra_info: Continuação do filme Zutto Mae kara Suki Deshita. Kokuhaku Jikkouiinkai
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13038'
   groups:
     Crunchyroll: stream
     Mundo do Shoujo: active
@@ -197,6 +217,7 @@
   stations: AT-X
   premiere: 2017-10-01T05:21:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13199'
   groups:
     HIDIVE: stream
     Infinite: active
@@ -205,6 +226,7 @@
   stations: AT-X
   premiere: 2017-10-01T03:23:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12956'
   groups:
     Crunchyroll: stream
     Hacchi-Tadaima: active
@@ -214,6 +236,7 @@
   premiere: 2017-10-01T07:27:00+0900
   season: 2
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12571'
   groups:
     Crunchyroll: stream
     Illuminati: active
@@ -223,6 +246,7 @@
   premiere: 2017-10-01T06:22:00+0900
   episodes: 12
   extra_info: Remake
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12959'
   groups:
     Crunchyroll: stream
     Anirrent: active
@@ -232,6 +256,7 @@
   stations: AT-X
   premiere: 2017-10-01T04:20:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13030'
   groups:
     Crunchyroll: stream
     Diogo4D: active
@@ -242,6 +267,7 @@
   stations: Tokyo MX
   premiere: 2017-10-01T08:23:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12712'
   groups:
     Netflix: stream
     Aenianos: active
@@ -254,6 +280,7 @@
   season: 2
   episodes: 12
   is_short: true
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13249'
   groups:
     Crunchyroll: stream
 - name_ja: Love Live! Sunshine!! 2
@@ -262,6 +289,7 @@
   premiere: 2017-10-01T07:22:00+0900
   season: 2
   episodes: 13
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12897'
   groups:
     Crunchyroll: stream
 - name_ja: Mahoutsukai no Yome
@@ -269,6 +297,7 @@
   stations: Tokyo MX
   premiere: 2017-10-01T07:25:00+0900
   episodes: 24
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12942'
   groups:
     Crunchyroll: stream
     Ichiban-Valar: active
@@ -279,6 +308,7 @@
   stations: Yahoo GYAO!
   premiere: 2017-10-01T06:24:00+0900
   episodes: 10+1
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13345'
   groups:
     Crunchyroll: stream
 - name_ja: 'Omiai Aite wa Oshiego, Tsuyoki na, Mondaiji.'
@@ -294,12 +324,14 @@
   stations: Tokyo MX
   premiere: 2017-10-01T04:23:00+0900
   is_short: true
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13389'
 - name_ja: Osake wa Fuufu ni Natte kara
   studio: Creators in Pack
   stations: Tokyo MX
   premiere: 2017-10-01T03:25:00+0900
   episodes: 13
   is_short: true
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13147'
   groups:
     Crunchyroll: stream
     Fansub Anime Land: active
@@ -309,6 +341,7 @@
   premiere: 2017-10-01T02:25:00+0900
   season: 2
   episodes: 24
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12944'
   groups:
     Crunchyroll: stream
 - name_ja: Ousama Game The Animation
@@ -316,6 +349,7 @@
   stations: AT-X
   premiere: 2017-10-01T05:23:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13335'
   groups:
     Crunchyroll: stream
 - name_ja: RoboMasters the Animated Series
@@ -323,11 +357,13 @@
   stations: WOWOW
   premiere: 2017-10-01T13:22:00+0900
   episodes: 6
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12815'
 - name_ja: Sengoku Night Blood
   studio: Typhoon Graphics
   stations: Tokyo MX
   premiere: 2017-10-01T03:23:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13036'
   groups:
     Crunchyroll: stream
 - name_ja: 'Shokugeki no Souma: San no Sara'
@@ -337,6 +373,7 @@
   season: 3
   episodes: 12
   extra_info: Cour 1 de 2
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13244'
   groups:
     Crunchyroll: stream
     Infinite: active
@@ -345,6 +382,7 @@
   stations: AT-X
   premiere: 2017-10-01T06:21:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13256'
   groups:
     HIDIVE: stream
     Aenianos: active
@@ -363,7 +401,8 @@
   stations: 'Tokyo MX, BS11, etc.'
   premiere: 2017-10-01T07:23:00+0900
   episodes: 13
-  extra_info: "Spinoff de The iDOLM@STER"
+  extra_info: Spinoff de The iDOLM@STER
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12820'
   groups:
     Crunchyroll: stream
 - name_ja: 'Time Bokan: Gyakushuu no San-Akunin'
@@ -371,12 +410,14 @@
   stations: Nippon TV Nat. Net.
   premiere: 2017-10-01T07:17:00+0900
   season: 2
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13039'
   groups:
     Crunchyroll: stream
 - name_ja: Tsukipro The Animation
   studio: PRA
   stations: Tokyo MX
   premiere: 2017-10-01T04:22:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12578'
   groups:
     Crunchyroll: stream
 - name_ja: Two Car
@@ -384,6 +425,7 @@
   stations: AT-X
   premiere: 2017-10-01T07:24:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13322'
   groups:
     Crunchyroll: stream
     The Motion Picture: planned
@@ -393,6 +435,7 @@
   premiere: 2017-10-01T02:24:00+0900
   episodes: 12
   extra_info: Continuação de Mahou Sensei Negima!
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12227'
   groups:
     HIDIVE: stream
 - name_ja: Urahara
@@ -400,6 +443,7 @@
   stations: Abema TV
   premiere: 2017-10-01T04:20:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13035'
   groups:
     Crunchyroll: stream
     The Motion Picture: active
@@ -409,6 +453,7 @@
   premiere: 2017-10-01T09:26:00+0900
   season: 2
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12625'
   groups:
     Crunchyroll: stream
     Eternal Animes-The Motion Picture: active
@@ -419,6 +464,7 @@
   season: 2
   episodes: 6
   extra_info: 'Parte 1 de 2, Bloco Animeism'
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13728'
 - name_ja: 'Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou'
   studio: Studio Gokumi
   stations: MBS / TBS
@@ -426,3 +472,4 @@
   season: 2
   episodes: 6
   extra_info: 'Parte 2 de 2, Bloco Animeism'
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12500'

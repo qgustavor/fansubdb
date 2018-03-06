@@ -13,7 +13,8 @@
         {%- if entry.premiere -%}<abbr title="{{ entry.premiere | date: "%D %T" }} JST">{{ entry.premiere | date: "%d/%m/%y" }}</abbr>{%- endif -%}
         {%- if entry.premiere and entry.stations-%}<br>{%- endif -%}{{ entry.stations }}
       </td>
-      <td>{{ entry.name_ja }}
+      <td>{%- if entry.url -%}<a href="{{ entry.url }}" target="_blank" rel="nofollow noreferrer noopener">{{ entry.name_ja }}</a>
+        {%- else -%}{{ entry.name_ja }}{%- endif -%}
         {%- if entry.name_pt or entry.is_short or entry.season or entry.extra_info -%}<small>{%- endif -%}
         {%- if entry.name_pt -%}<br>({{ entry.name_pt }}){%- endif -%}
         {%- if entry.is_short -%}<br>Anime de episódios curtos{%- endif -%}

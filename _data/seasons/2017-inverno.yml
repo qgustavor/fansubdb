@@ -39,6 +39,7 @@
   stations: 'Tokyo MX, BS11, etc.'
   premiere: 2018-01-09T00:00+0900
   episodes: 24
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13291'
   groups:
     Crunchyroll: stream
 - name_ja: Beatless
@@ -47,12 +48,14 @@
   stations: MBS / TBS
   premiere: 2018-01-13T01:55+0900
   episodes: 24
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13500'
 - name_ja: 'Cardcaptor Sakura: Clear Card-hen'
   season: 2
   studio: Madhouse
   stations: NHK-BS Premium
   premiere: 2018-01-07T07:30+0900
   episodes: 22
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12140'
   groups:
     Crunchyroll: stream
     Aenianos: active
@@ -76,6 +79,7 @@
   stations: TBS
   premiere: 2018-01-12T02:28+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13355'
   groups:
     Crunchyroll: stream
     Konbini: planned
@@ -84,6 +88,7 @@
   stations: Tokyo MX
   premiere: 2018-01-10T22:30+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13300'
   groups:
     HIDIVE: stream
 - name_ja: Darling in the FranXX
@@ -91,6 +96,7 @@
   stations: 'Tokyo MX, BS11, etc.'
   premiere: 2018-01-13T23:30+0900
   episodes: 24
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13259'
   groups:
     Crunchyroll: stream
     Aenianos: active
@@ -101,6 +107,7 @@
   stations: AT-X
   premiere: 2018-01-11T23:30+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12603'
   groups:
     Crunchyroll: stream
     Eternal Animes: active
@@ -110,6 +117,7 @@
   stations: Netflix
   premiere: 2018-01-05T00:00+0900
   episodes: 10
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12986'
   groups:
     Netflix: stream
 - name_ja: 'Drifters: Episódios 13-14'
@@ -123,6 +131,7 @@
   studio: ufotable
   stations: AbemaTV
   premiere: 2018-01-25T21:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13705'
   groups:
     Crunchyroll: stream
     Eternal Animes: active
@@ -130,6 +139,7 @@
   studio: SHAFT
   stations: 'Tokyo MX, BS11, etc.'
   premiere: 2018-01-28T00:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12046'
   groups:
     Netflix: rumor
     Eternal Animes: active
@@ -139,17 +149,20 @@
   stations: Tokyo MX / BS11
   premiere: 2017-12-31T22:00+0900
   episodes: 1
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13644'
 - name_ja: 'Fate/Grand Order: Moonlight/Lostroom'
   extra_info: Especial de TV
   studio: Lay-duce
   stations: Tokyo MX / BS11
   premiere: 2017-12-31T22:00+0900
   episodes: 1
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13643'
 - name_ja: Gakuen Babysitters
   studio: Brain's Base
   stations: Tokyo MX
   premiere: 2018-01-07T23:00+0900
   episodes: 12+1
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13023'
   groups:
     Crunchyroll: stream
 - name_ja: Gin no Guardian 2
@@ -172,6 +185,7 @@
   stations: 'Tokyo MX, BS11, etc.'
   premiere: 2018-01-06T00:00+0900
   episodes: 24
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12496'
   groups:
     Crunchyroll: stream
     Atlântida Sub: active
@@ -179,6 +193,7 @@
   is_short: true
   stations: Tokyo MX
   premiere: 2018-01-09T01:10+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13582'
   groups:
     Crunchyroll: stream
 - name_ja: Hakata Tonkotsu Ramens
@@ -186,6 +201,7 @@
   stations: AT-X
   premiere: 2018-01-12T22:30+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13276'
   groups:
     Crunchyroll: stream
 - name_ja: Hakumei to Mikochi
@@ -193,6 +209,7 @@
   stations: AT-X
   premiere: 2018-01-12T21:00+0900
   episodes: 12+1
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13362'
   groups:
     HIDIVE: stream
     Valar: rumor
@@ -201,6 +218,7 @@
   stations: Tokyo MX
   premiere: 2018-01-12T22:00+0900
   episodes: 23+1
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13336'
   groups:
     Crunchyroll: stream
 - name_ja: Hataraku Onii-san!
@@ -208,6 +226,7 @@
   studio: ToMovies
   stations: Tokyo MX
   premiere: 2018-01-05T21:54+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13573'
   groups:
     Crunchyroll: stream
 - name_ja: 'Hitori no Shita: The Outcast 2'
@@ -223,6 +242,7 @@
   stations: TV Asahi Nat. Net.
   premiere: 2018-02-04T08:30+0900
   episodes: 4-cour
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13526'
   groups:
     Aenianos: active
 - name_ja: IDOLiSH7
@@ -237,6 +257,7 @@
   stations: WOWOW
   premiere: 2018-01-05T22:30+0900
   episodes: 12+2
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13385'
   groups:
     Crunchyroll: stream
 - name_ja: Kaiju Girls 2
@@ -254,6 +275,7 @@
   stations: Tokyo MX
   premiere: 2018-01-08T23:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13270'
   groups:
     Crunchyroll: stream
     2f4u: active
@@ -265,18 +287,21 @@
   stations: MBS / TBS
   premiere: 2018-01-13T02:25+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12888'
 - name_ja: Koi wa Ameagari no You ni
   name_pt: O Amor é Como o Fim de Uma Chuva
   studio: Wit Studio
   stations: Fuji TV
   premiere: 2018-01-12T00:55+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12906'
   groups:
     Infinite: active
 - name_ja: Kokkoku
   studio: Geno Studio
   stations: Tokyo MX / BS11
   premiere: 2018-01-08T00:30+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13513'
   groups:
     Eternal Animes: active
 - name_ja: Mame Neko
@@ -284,12 +309,14 @@
   studio: Charaction
   stations: Tokyo MX
   premiere: 2018-01-09T01:05+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13559'
 - name_ja: Miira no Kaikata
   extra_info: Bloco TBS Thursday Late Night
   studio: 8bit
   stations: TBS
   premiere: 2018-01-12T01:58+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13252'
   groups:
     Crunchyroll: stream
 - name_ja: Mitsuboshi Colors
@@ -297,6 +324,7 @@
   stations: AT-X
   premiere: 2018-01-07T22:30+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12957'
   groups:
     HIDIVE: stream
     Fansub Anime Land: planned
@@ -305,6 +333,7 @@
   studio: Hoods Entertainment
   stations: AT-X
   premiere: 2018-01-11T21:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13309'
   groups:
     Crunchyroll: stream
     Atlântida-HTT: planned
@@ -315,6 +344,7 @@
   stations: AT-X
   premiere: 2018-01-27T00:25+0900
   episodes: 12+2
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13599'
   groups:
     HIDIVE: stream
     Infinite: active
@@ -324,6 +354,7 @@
   stations: TBS Nat. Net.
   premiere: 2018-01-13T06:30+0900
   episodes: 24
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11646'
   groups:
     Netflix: rumor
     Aenianos: active
@@ -333,6 +364,7 @@
   stations: AT-X
   premiere: 2018-01-09T22:30+0900
   episodes: 13
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12952'
   groups:
     Crunchyroll: stream
     Illuminati: planned
@@ -340,11 +372,13 @@
   studio: OLM / Shin-Ei Animation
   stations: TV Tokyo Nat. Net.
   premiere: 2018-01-06T09:30+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13514'
 - name_ja: Pop Team Epic
   studio: Kamikaze Douga
   stations: Tokyo MX / BS11
   premiere: 2018-01-07T01:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13067'
   groups:
     Crunchyroll: stream
     HIDIVE: stream
@@ -354,6 +388,7 @@
   stations: AT-X
   premiere: 2018-01-04T20:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13053'
   groups:
     Crunchyroll: stream
 - name_ja: Ryuuou no Oshigoto!
@@ -361,6 +396,7 @@
   stations: AT-X
   premiere: 2018-01-08T22:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13281'
   groups:
     Crunchyroll: stream
     Eternal Animes: active
@@ -371,6 +407,7 @@
   stations: TV Tokyo
   premiere: 2018-01-17T01:35+0900
   episodes: 24
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12691'
   groups:
     Crunchyroll: rumor
     Infinite: active
@@ -379,22 +416,26 @@
   stations: Tochigi TV
   premiere: 2018-01-10T23:30+0900
   episodes: 1
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13586'
 - name_ja: Sanrio Danshi
   studio: Studio Pierrot
   stations: Tokyo MX
   premiere: 2018-01-06T22:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12781'
   groups:
     Crunchyroll: stream
 - name_ja: Shinkansen Henkei Robo Shinkalion The Animation
   studio: OLM
   stations: TBS Nat. Net.
   premiere: 2018-01-06T07:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13507'
 - name_ja: Slow Start
   studio: A-1 Pictures
   stations: 'Tokyo MX, BS11, etc.'
   premiere: 2018-01-07T00:30+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13160'
   groups:
     Crunchyroll: stream
     Atlântida Sub: planned
@@ -404,6 +445,7 @@
   stations: AT-X
   premiere: 2018-01-02T20:30+0900
   episodes: 13
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13257'
   groups:
     Crunchyroll: stream
     Atlântida-HTT: active
@@ -413,6 +455,7 @@
   stations: Tokyo MX
   premiere: 2018-02-24T21:00+0900
   extra_info: Também chamado de "Ling Qi 2" e "Spiritpact 2"
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13503'
   groups:
     Crunchyroll: rumor
 - name_ja: Sword Dynasty
@@ -426,6 +469,7 @@
   stations: TBS
   premiere: 2018-01-12T02:43+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13376'
   groups:
     HIDIVE: stream
 - name_ja: 'Tantei Opera Milky Holmes: Arsene Karei Naru Yokubou'
@@ -434,11 +478,13 @@
   stations: Tokyo MX
   premiere: 2017-12-31T19:00+0900
   episodes: 1
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13591'
 - name_ja: Toji no Miko
   studio: Studio Gokumi
   stations: AT-X
   premiere: 2018-01-05T21:30+0900
   episodes: 24
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13172'
   groups:
     Crunchyroll: stream
 - name_ja: Violet Evergarden
@@ -446,6 +492,7 @@
   stations: Tokyo MX
   premiere: 2018-01-11T00:00+0900
   episodes: 13+1
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12138'
   groups:
     Netflix: stream
     Aenianos-Hacchi: active
@@ -457,6 +504,7 @@
   stations: TV Tokyo
   premiere: 2018-01-09T02:05+0900
   episodes: 25
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13245'
   groups:
     Crunchyroll: stream
     Peak Spider: active
@@ -465,6 +513,7 @@
   stations: AT-X
   premiere: 2018-01-04T23:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12743'
   groups:
     Crunchyroll: stream
     Diogo4D: active
@@ -475,5 +524,6 @@
   stations: Tokyo MX / BS11
   premiere: 2018-01-08T00:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12790'
   groups:
     Crunchyroll: stream

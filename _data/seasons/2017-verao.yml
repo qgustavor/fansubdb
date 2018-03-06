@@ -5,6 +5,7 @@
   stations: Tokyo MX
   premiere: 2017-07-01T07:22:00+0900
   episodes: 13
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12576'
   groups:
     Crunchyroll: stream
 - name_ja: Action Heroine Cheer Fruits
@@ -13,6 +14,7 @@
   premiere: 2017-07-01T06:26:00+0900
   episodes: 12
   extra_info: Bloco TBS Thursday Late Night
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12746'
   groups:
     HIDIVE: stream
 - name_ja: Aho Girl
@@ -21,6 +23,7 @@
   premiere: 2017-07-01T04:23:00+0900
   episodes: 12
   is_short: true
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12803'
   groups:
     Crunchyroll: stream
     Diogo4D: active
@@ -30,6 +33,7 @@
   stations: MBS
   premiere: 2017-07-01T08:26:00+0900
   episodes: 24
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12700'
   groups:
     Ichiban: active
     Mundo do Shoujo: planned
@@ -38,6 +42,7 @@
   stations: Tokyo MX / BS11
   premiere: 2017-07-01T02:24:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12080'
   groups:
     HIDIVE: stream
 - name_ja: Centaur no Nayami
@@ -45,6 +50,7 @@
   stations: Tokyo MX
   premiere: 2017-07-01T09:22:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12637'
   groups:
     Crunchyroll: stream
     Lolisub+The Motion Picture: active
@@ -54,12 +60,16 @@
   premiere: 2017-07-01T12:20:00+0900
   episodes: 12
   is_short: true
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12985'
 - name_ja: DIVE!!
   studio: Zero-G
   stations: Fuji TV
   premiere: 2017-07-01T06:24:00+0900
   episodes: 12
-  extra_info: 'Bloco noitaminA, Preview do Episódio 1 indo ao ar em - Amazon Prime - 07/05 @ 24:00'
+  extra_info: >-
+    Bloco noitaminA, Preview do Episódio 1 indo ao ar em - Amazon Prime - 07/05
+    @ 24:00
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12652'
   groups:
     Atântida Sub: active
 - name_ja: Dream Festival! 2
@@ -74,6 +84,7 @@
   stations: Tokyo MX
   premiere: 2017-07-01T01:21:00+0900
   episodes: 24
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13198'
   groups:
     Crunchyroll: stream
 - name_ja: Fate/Apocrypha
@@ -81,6 +92,7 @@
   stations: 'Tokyo MX, BS11, etc.'
   premiere: 2017-07-01T01:24:00+0900
   episodes: 25
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12704'
   groups:
     Netflix: stream
     Eternal Animes: active
@@ -90,6 +102,7 @@
   stations: AT-X
   premiere: 2017-07-01T13:21:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12494'
   groups:
     Crunchyroll: stream
     Shinkai: active
@@ -98,6 +111,7 @@
   stations: AT-X
   premiere: 2017-07-01T12:23:00+0900
   episodes: 10+1
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12554'
   groups:
     Crunchyroll: stream
     Infinite: active
@@ -107,6 +121,7 @@
   premiere: 2017-06-02T00:12:00+0900
   episodes: 12
   extra_info: Spinoff de Luck & Logic
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12018'
   groups:
     Crunchyroll: stream
 - name_ja: Hitorijime My Hero
@@ -114,6 +129,7 @@
   stations: AT-X
   premiere: 2017-07-01T08:23:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12266'
   groups:
     HIDIVE: stream
     Peak Spider: active
@@ -122,6 +138,7 @@
   stations: Tokyo MX
   premiere: 2017-07-01T12:22:00+0900
   is_short: true
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12524'
   groups:
     Crunchyroll: stream
 - name_ja: Isekai Shokudou
@@ -129,6 +146,7 @@
   stations: TV Tokyo
   premiere: 2017-07-01T03:25:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12385'
   groups:
     Crunchyroll: stream
     Aenianos: active
@@ -138,6 +156,7 @@
   stations: AT-X
   premiere: 2017-07-01T11:20:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13004'
   groups:
     Crunchyroll: stream
 - name_ja: 'Jigoku Shoujo: Yoi no Togi'
@@ -146,6 +165,7 @@
   premiere: 2017-07-01T14:24:00+0900
   season: 4
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12889'
   groups:
     Crunchyroll: stream
 - name_ja: Jikan no Shihaisha
@@ -153,6 +173,7 @@
   stations: Tokyo MX
   premiere: 2017-07-01T07:24:00+0900
   episodes: 13
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12660'
   groups:
     Crunchyroll: stream
 - name_ja: Kaito x Ansa
@@ -162,11 +183,13 @@
   season: 2
   is_short: true
   extra_info: Continuação de Nazotokine
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12716'
 - name_ja: Kakegurui
   studio: MAPPA
   stations: Tokyo MX
   premiere: 2017-07-01T01:22:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12834'
   groups:
     Netflix: stream
     Illuminati: active
@@ -176,6 +199,7 @@
   stations: 'Tokyo MX, BS11, etc.'
   premiere: 2017-07-01T01:24:00+0900
   episodes: 13
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12027'
   groups:
     Crunchyroll: stream
 - name_ja: Keppeki Danshi! Aoyama-kun
@@ -183,6 +207,7 @@
   stations: Tokyo MX
   premiere: 2017-07-01T02:24:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12762'
   groups:
     Crunchyroll: stream
 - name_ja: Knight's and Magic
@@ -190,6 +215,7 @@
   stations: AT-X
   premiere: 2017-07-01T02:21:00+0900
   episodes: 13
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12425'
   groups:
     Crunchyroll: stream
 - name_ja: Koi to Uso
@@ -197,6 +223,7 @@
   stations: 'Tokyo MX, BS11, etc.'
   premiere: 2017-07-01T03:24:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12835'
   groups:
     HIDIVE: stream
     Infinite: active
@@ -207,6 +234,7 @@
   premiere: 2017-07-01T06:25:00+0900
   episodes: 12
   extra_info: Bloco TBS Thursday Late Night
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13117'
   groups:
     Crunchyroll: stream
 - name_ja: Made in Abyss
@@ -214,6 +242,7 @@
   stations: AT-X
   premiere: 2017-07-01T07:21:00+0900
   episodes: 13
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12681'
   groups:
     HIDIVE: stream
     2f4u: active
@@ -225,17 +254,20 @@
   premiere: 2017-07-01T11:25:00+0900
   episodes: 24
   extra_info: Remake
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12723'
   groups:
     Crunchyroll: stream
 - name_ja: Marvel Future Avengers
   studio: Madhouse
   stations: Dlife
   premiere: 2017-07-01T22:08:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12899'
 - name_ja: Musekinin Galaxy Tylor
   studio: Seven
   stations: AT-X
   premiere: 2017-07-01T11:21:00+0900
   is_short: true
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13224'
   groups:
     Crunchyroll: stream
 - name_ja: Nana Maru San Batsu
@@ -244,6 +276,7 @@
   premiere: 2017-07-01T04:25:00+0900
   episodes: 12
   extra_info: Bloco AnichU
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12673'
   groups:
     Crunchyroll: stream
 - name_ja: Netsuzou TRap
@@ -252,6 +285,7 @@
   premiere: 2017-07-01T05:20:00+0900
   episodes: 12
   is_short: true
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12546'
   groups:
     Crunchyroll: stream
     Diogo4D: active
@@ -262,6 +296,7 @@
   premiere: 2017-07-01T11:21:00+0900
   season: 2
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12819'
   groups:
     Crunchyroll: stream
     Fansub Anime Land: active
@@ -272,6 +307,7 @@
   premiere: 2017-07-01T12:22:00+0900
   episodes: 12
   is_short: true
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11864'
   groups:
     Crunchyroll: stream
 - name_ja: Owarimonogatari 2
@@ -279,6 +315,7 @@
   stations: Tokyo MX
   episodes: 7
   extra_info: Especial de TV
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13033'
   groups:
     Crunchyroll: stream
     Shinkai: planned
@@ -287,6 +324,7 @@
   stations: Tokyo MX
   premiere: 2017-07-01T09:23:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13031'
   groups:
     HIDIVE: stream
     Aenianos: active
@@ -296,6 +334,7 @@
   premiere: 2017-07-01T05:22:00+0900
   season: 4
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12287'
   groups:
     Crunchyroll: stream
 - name_ja: Senki Zesshou Symphogear AXZ
@@ -304,12 +343,14 @@
   premiere: 2017-07-01T01:25:00+0900
   season: 4
   episodes: 13
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11955'
 - name_ja: Shoukoku no Altair
   studio: MAPPA
   stations: MBS / TBS
   premiere: 2017-07-01T07:26:00+0900
   episodes: 24
   extra_info: Bloco Animeism
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12651'
 - name_ja: Skirt no Naka wa Kedamono deshita.
   studio: Magic Bus
   stations: ComicFesta
@@ -332,6 +373,7 @@
   stations: AT-X
   premiere: 2017-07-01T10:20:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12451'
   groups:
     Crunchyroll: stream
     Infinite: active
@@ -340,6 +382,7 @@
   stations: NHK-G
   premiere: 2017-07-01T22:23:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11745'
   groups:
     Crunchyroll: stream
 - name_ja: Tsure-zure Children
@@ -348,6 +391,7 @@
   premiere: 2017-07-01T04:23:00+0900
   episodes: 12
   is_short: true
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12814'
   groups:
     Crunchyroll: stream
     2f4u: active
@@ -358,6 +402,7 @@
   stations: WOWOW
   premiere: 2017-07-01T07:22:00+0900
   episodes: 12+1
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12542'
   groups:
     HIDIVE: stream
 - name_ja: Yami Shibai 5
@@ -366,6 +411,7 @@
   premiere: 2017-07-01T02:27:00+0900
   season: 5
   is_short: true
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13219'
   groups:
     Crunchyroll: stream
 - name_ja: Youkai Apartment no Yuuga na Nichijou
@@ -374,6 +420,7 @@
   premiere: 2017-07-01T03:23:00+0900
   episodes: 24
   extra_info: Bloco Anime no Me
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13017'
   groups:
     Crunchyroll: stream
 - name_ja: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
@@ -381,6 +428,7 @@
   stations: AT-X
   premiere: 2017-07-01T12:23:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13153'
   groups:
     Crunchyroll: stream
     Illuminati: active
