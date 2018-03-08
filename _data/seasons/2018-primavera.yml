@@ -1,12 +1,12 @@
-# Auto-converted from https://fansubdb.com/w/index.php?title=Spring_2018&oldid=22338
+# Auto-converted from https://fansubdb.com/w/index.php?title=Spring_2018&oldid=22369
 
 - name_ja: '3D Kanojo: Real Girl'
   studio: Hoods Entertainment
   stations: Nippon TV
   premiere: 2018-04-01T03:25:00+0900
   episodes: 12
-  extra_info: Bloco AnichU
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13581'
+  extra_info: Bloco AnichU
 - name_ja: A.I.C.O. -Incarnation-
   studio: Bones
   stations: Netflix
@@ -20,6 +20,7 @@
   stations: Netflix
   premiere: 2018-04-01T20:00:00+0900
   episodes: 10
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13636'
   is_short: true
   extra_info: Todos os 10 episódios lançados juntos
   groups:
@@ -30,9 +31,15 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13755'
 - name_ja: Akkun to Kanojo
   studio: Yumeta Company
+  stations: Tokyo MX
+  premiere: 2018-04-01T09:25:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13613'
+  is_short: true
 - name_ja: 'Alice or Alice: Siscon Niisan to Futago no Imouto'
   studio: EMT Squared
+  stations: Tokyo MX
+  premiere: 2018-04-01T04:22:00+0900
+  is_short: true
 - name_ja: 'Amai Choubatsu: Watashi wa Kanshu Sen`you Pet'
   studio: Magic Bus
   stations: Tokyo MX / ComicFesta
@@ -72,11 +79,14 @@
   stations: Nippon TV Nat. Net.
   premiere: 2018-04-01T07:17:00+0900
   season: 3
+  episodes: 25
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13485'
   groups:
     Crunchyroll: stream
 - name_ja: 'Butlers: Chitose Momotose Monogatari'
   studio: Silver Link
+  stations: Tokyo MX / KBS Kyoto
+  premiere: 2018-04-01T11:25:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13437'
 - name_ja: Caligula
   studio: Satelight
@@ -95,6 +105,8 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13238'
 - name_ja: Cutie Honey Universe
   studio: Production Reed
+  stations: AT-X
+  premiere: 2018-04-01T08:21:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13676'
 - name_ja: Devils Line
   studio: Platinum Vision
@@ -112,8 +124,9 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11731'
 - name_ja: Fumikiri Jikan
   studio: EKACHI EPILKA
-  is_short: true
+  stations: Tokyo MX
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13753'
+  is_short: true
 - name_ja: Gegege no Kitarou (2018)
   studio: Toei Animation
   stations: Fuji TV Nat. Net.
@@ -124,25 +137,27 @@
   stations: Family Gekijou
   premiere: 2018-04-01T03:21:00+0900
   episodes: 12
-  extra_info: Remake
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11495'
+  extra_info: Remake
 - name_ja: Golden Kamuy
   studio: Geno Studio
   stations: Tokyo MX
-  extra_info: Bloco Anime no Me
+  premiere: 2018-04-01T09:23:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13337'
+  extra_info: Bloco Anime no Me
 - name_ja: Gundam Build Divers
   studio: Sunrise
   stations: TV Tokyo Nat. Net.
   premiere: 2018-04-01T03:17:00+0900
-  extra_info: Continuação de Gundam Build FIghters
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13774'
+  extra_info: Continuação de Gundam Build FIghters
 - name_ja: Gurazeni
   studio: Studio DEEN
   stations: BS-SKY PerfecTV!
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12995'
 - name_ja: High School DxD Hero
   studio: Passione
+  stations: AT-X / Tokyo MX
   season: 4
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12498'
   groups:
@@ -161,16 +176,19 @@
   stations: 'Tokyo MX, BS11, etc.'
   premiere: 2018-04-01T07:25:00+0900
   season: 2
-  extra_info: Cour 2 de 2
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13704'
+  extra_info: Cour 2 de 2
   groups:
     HIDIVE: stream
 - name_ja: 'Inazuma Eleven: Ares no Tenbin'
   studio: OLM
   stations: TV Tokyo Nat. Net.
   premiere: 2018-04-01T06:17:00+0900
-  extra_info: 'Episódio 1: 1 hour special'
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12292'
+  extra_info: 'Episódio 1: especial de uma hora'
+- name_ja: 'Isekai Izakaya: Koto Aitheria no Izakaya Nobu'
+  studio: Sunrise
+  stations: Bandai Channel
 - name_ja: 'Jikken-hin Kazoku: Creatures Family Days'
   studio: KJJ Animation
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12739'
@@ -184,12 +202,19 @@
 - name_ja: Kakuriyo no Yadomeshi
   studio: GONZO
   stations: Tokyo MX / BS Fuji
+  premiere: 2018-04-01T02:22:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13564'
 - name_ja: Kiratto PriChan
   studio: Tatsunoko Production
   stations: TV Tokyo Nat. Net.
   premiere: 2018-04-01T08:10:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13752'
+- name_ja: 'Koneko no Chi: Ponpora Dairyokou'
+  studio: Marza Animation Planet
+  stations: TV Tokyo Nat. Net.
+  premiere: 2018-04-01T08:07:00+0900
+  is_short: true
+  extra_info: 'Continuação de Koneko no Chi: Ponpora no Daibouken'
 - name_ja: 'Last Period: Owari naki Rasen no Monogatari'
   studio: J.C. Staff
   stations: Tokyo MX
@@ -210,14 +235,19 @@
     Netflix: stream
 - name_ja: Lostorage conflated WIXOSS
   studio: J.C. Staff
+  stations: Tokyo MX / BS11
+  premiere: 2018-04-01T06:24:00+0900
   season: 4
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12686'
   groups:
     Crunchyroll: stream
+    
 - name_ja: 'Lupin III: Part V'
   studio: Telecom Animation Film
-  extra_info: 5ª série
+  stations: Nippon TV
+  premiere: 2018-04-01T03:25:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13266'
+  extra_info: '5ª série, Bloco AnichU'
 - name_ja: Mahou Shoujo Ore
   studio: Studio Pierrot+
   stations: AT-X
@@ -230,39 +260,43 @@
   stations: MBS / TBS
   premiere: 2018-04-01T06:26:00+0900
   episodes: 12
-  extra_info: Bloco Animeism
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13424'
+  extra_info: Bloco Animeism
 - name_ja: Major 2nd
   studio: NHK Enterprises
   stations: NHK-E
   premiere: 2018-04-01T07:17:00+0900
-  extra_info: Continuação de Major
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13518'
+  extra_info: Continuação de Major
 - name_ja: Megalo Box
   studio: TMS Entertainment
   stations: TBS
   premiere: 2018-04-01T05:26:00+0900
-  extra_info: Bloco TBS Thursday Late Night
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13517'
+  extra_info: Bloco TBS Thursday Late Night
 - name_ja: 'Nil Admirari no Tenbin: Teito Genwaku Kitan'
   studio: Zero-G
+  stations: Tokyo MX
+  premiere: 2018-04-01T01:22:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12333'
 - name_ja: 'Nobunaga no Shinobi: Anegawa Ishiyama-hen'
   studio: TMS Entertainment
   stations: Tokyo MX
   season: 3
-  is_short: true
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13740'
+  is_short: true
 - name_ja: Omae wa Mada Gunma o Shiranai
   studio: Asahi Production / CJT
   stations: Gunma TV
   premiere: 2018-04-01T02:20:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13781'
+  extra_info: 'Anime de episódios curtos?'
 - name_ja: Otaku ni Koi wa Muzukashii
   studio: A-1 Pictures
   stations: Fuji TV
-  extra_info: Bloco noitaminA
+  premiere: 2018-04-01T12:24:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13293'
+  extra_info: Bloco noitaminA
   groups:
     Mundo do Shoujo: planned
 - name_ja: PazuDora
@@ -277,7 +311,7 @@
 - name_ja: Piano no Mori
   studio: Fukushima Gainax
   stations: NHK-G
-  premiere: 2018-04-01T09:24:00+0900
+  premiere: 2018-04-01T08:24:00+0900
 - name_ja: Rokuhoudou Yotsuiro Biyori
   studio: ZEXCS
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13502'
@@ -289,7 +323,8 @@
   extra_info: Bloco TBS Thursday Late Night
 - name_ja: 'Shokugeki no Souma: San no Sara – Toutsuki Ressha-hen'
   studio: J.C. Staff
-  stations: Tokyo MX
+  stations: Tokyo MX / BS11
+  premiere: 2018-04-01T08:24:00+0900
   season: 3
   extra_info: Cour 2 de 2
   groups:
@@ -299,8 +334,8 @@
   stations: NHK-E
   premiere: 2018-04-01T03:18:00+0900
   season: 5
-  is_short: true
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13838'
+  is_short: true
   groups:
     Crunchyroll: stream
 - name_ja: 'Souten no Ken Re:Genesis'
@@ -310,27 +345,28 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13540'
 - name_ja: Steins;Gate 0
   studio: White Fox
-  extra_info: Continuação de Steins;Gate
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11167'
+  extra_info: Continuação de Steins;Gate
   groups:
     Crunchyroll: stream
+    Eternal Animes: planned
 - name_ja: 'Sword Art Online Alternative: Gun Gale Online'
   studio: Studio 3Hz
   stations: 'Tokyo MX, BS11, etc.'
-  extra_info: Spinoff de Sword Art Online II
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13494'
+  extra_info: Spinoff de Sword Art Online II
 - name_ja: 'Sword Gai: The Animation'
   studio: Production I.G / DLE
   stations: Netflix
   premiere: 2018-03-01T23:00:00+0900
-  extra_info: Todos os episódios lançados juntos
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10858'
+  extra_info: Todos os episódios lançados juntos
   groups:
     Netflix: stream
 - name_ja: Tachibanakan Triangle
   studio: Creators in Pack / Studio Lings
-  is_short: true
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13656'
+  is_short: true
 - name_ja: Tada-kun wa Koi wo Shinai
   studio: Doga Kobo
   stations: AT-X
@@ -341,8 +377,8 @@
 - name_ja: To Be Hero 2
   studio: Emon
   season: 2
-  is_short: true
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12939'
+  is_short: true
 - name_ja: 'Tokyo Ghoul:re'
   studio: Studio Pierrot
   stations: Tokyo MX
@@ -353,11 +389,19 @@
     Crunchyroll: stream
 - name_ja: Uchuu Senkan Tiramisu
   studio: GONZO
+  stations: Tokyo MX
+  premiere: 2018-04-01T02:25:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13426'
+  is_short: true
 - name_ja: 'Uma Musume: Pretty Derby'
   studio: P.A. Works
   stations: Tokyo MX
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13034'
+- name_ja: Wakaokami wa Shougakusei!
+  studio: Madhouse / DLE
+  stations: TV Tokyo Nat. Net.
+  premiere: 2018-04-01T08:07:00+0900
+  extra_info: 'Anime de episódios curtos?'
 - name_ja: 'Youkai Watch: Shadow Side'
   studio: OLM
   stations: TV Tokyo Nat. Net.
