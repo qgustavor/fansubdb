@@ -166,6 +166,8 @@
   studio: feel.
   stations: AT-X
   premiere: 2018-04-01T06:21:00+0900
+  groups:
+    Eternal Animes: planned
 - name_ja: Hisone to Masotan
   studio: Bones
   stations: Tokyo MX / BS Fuji
@@ -241,7 +243,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12686'
   groups:
     Crunchyroll: stream
-    
+    Eternal Animes: planned
 - name_ja: 'Lupin III: Part V'
   studio: Telecom Animation Film
   stations: Nippon TV
