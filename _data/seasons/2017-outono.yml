@@ -251,7 +251,6 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12959'
   groups:
     Crunchyroll: stream
-    Anirrent: active
     Eternal Animes: active
 - name_ja: Konohana Kitan
   studio: Lerche
@@ -273,7 +272,6 @@
   groups:
     Netflix: stream
     Aenianos: active
-    Anirrent: active
     Kyoto: active
 - name_ja: 'Love Kome: We Love Rice 2'
   studio: Encourage Films
