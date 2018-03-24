@@ -174,10 +174,12 @@
   groups:
     Crunchyroll: stream
 - name_ja: 'Gintama: Shirogane no Tamashii-hen'
+  extra_info: Segunda parte em julho de 2018
   season: 6
   studio: Bandai Namco Pictures
   stations: TV Tokyo
   premiere: 2018-01-08T01:35+0900
+  episodes: 12
   groups:
     Crunchyroll: stream
 - name_ja: Grancrest Senki
@@ -212,7 +214,6 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13362'
   groups:
     HIDIVE: stream
-    Valar: rumor
 - name_ja: 'Hakyuu: Houshin Engi'
   studio: C-Station
   stations: Tokyo MX
@@ -301,6 +302,7 @@
   studio: Geno Studio
   stations: Tokyo MX / BS11
   premiere: 2018-01-08T00:30+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13513'
   groups:
     Eternal Animes: active
