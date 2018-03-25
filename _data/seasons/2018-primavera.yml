@@ -29,6 +29,8 @@
   studio: Bandai Namco Pictures
   stations: TV Tokyo Nat. Net.
   premiere: 2018-04-01T05:18:00+0900
+  groups:
+    Aenianos: planned
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13755'
 - name_ja: Akkun to Kanojo
   studio: Yumeta Company
@@ -88,6 +90,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13485'
   groups:
     Crunchyroll: stream
+    Aenianos: planned
 - name_ja: 'Butlers: Chitose Momotose Monogatari'
   studio: Silver Link
   stations: Tokyo MX / KBS Kyoto
