@@ -7,6 +7,8 @@
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13581'
   extra_info: Bloco AnichU
+  groups:
+    Mundo do Shoujo: planned
 - name_ja: A.I.C.O. -Incarnation-
   studio: Bones
   stations: Netflix
@@ -151,6 +153,8 @@
   premiere: 2018-04-01T13:20:00+0900
   season: 3
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11731'
+  groups:
+    Eternal Animes: planned
 - name_ja: Fumikiri Jikan
   studio: EKACHI EPILKA
   stations: Tokyo MX
@@ -359,6 +363,8 @@
   stations: 'Tokyo MX, BS11, etc.'
   premiere: 2018-04-01T07:24:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13331'
+  groups:
+    Eternal Animes: planned
 - name_ja: Piano no Mori
   studio: Fukushima Gainax
   stations: NHK-G
