@@ -93,6 +93,7 @@
   groups:
     Crunchyroll: stream
     Aenianos: planned
+    Bakemono: planned
 - name_ja: 'Butlers: Chitose Momotose Monogatari'
   studio: Silver Link
   stations: Tokyo MX / KBS Kyoto
@@ -199,6 +200,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12498'
   groups:
     Crunchyroll: stream
+    Bakemono: planned
 - name_ja: Hinamatsuri
   studio: feel.
   stations: AT-X
@@ -425,6 +427,8 @@
   premiere: 2018-04-01T07:24:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13494'
   extra_info: Spinoff de Sword Art Online II
+  groups:
+    Bakemono: planned
 - name_ja: 'Sword Art Online: Fatal Bullet -The Third Episode-'
   studio: A-1 Pictures
   stations: Tokyo MX
