@@ -163,7 +163,7 @@
   extra_info: 'Especiais Eps. 1-2: Tokyo MX - 01/21 @ 19:00'
   groups:
     Crunchyroll: stream
-    Eternal Animes: stream
+    Eternal Animes: active
 - name_ja: High School Fleet (OVA)
   studio: Production IMS
   stations: BS11
@@ -316,8 +316,8 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11995'
   groups:
     Crunchyroll: stream
-    Fansub Anime Land: stream
-    Infinite: stream
+    Fansub Anime Land: active
+    Infinite: active
 - name_ja: Room Mate
   studio: Typhoon Graphics
   stations: Tokyo MX
@@ -353,7 +353,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12602'
   groups:
     Crunchyroll: stream
-    Aenianos: stream
+    Aenianos: active
 - name_ja: Seikaisuru Kado
   studio: Toei Animation
   stations: Tokyo MX
@@ -371,7 +371,7 @@
   is_short: true
   groups:
     Crunchyroll: stream
-    OldAge: stream
+    OldAge: active
 - name_ja: 'Shingeki no Bahamut: Virgin Soul'
   studio: MAPPA
   stations: TBS
@@ -409,8 +409,8 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12238'
   groups:
     Crunchyroll: stream
-    Bakemono: stream
-    Eternal Animes: stream
+    Bakemono: active
+    Eternal Animes: active
 - name_ja: Sin Nanatsu no Taizai
   studio: TNK / Artland
   stations: AT-X
@@ -419,7 +419,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12324'
   groups:
     Crunchyroll: stream
-    Infinite: stream
+    Infinite: active
 - name_ja: Souryo to Majiwaru Shikiyoku no Yoru ni...
   studio: Seven
   stations: Tokyo MX
