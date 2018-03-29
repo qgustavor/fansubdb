@@ -103,6 +103,7 @@
     Crunchyroll: stream
     HTT: active
     Illuminati: active
+    Lolicons Anônimos: active
 - name_ja: ĒlDLIVE
   studio: Studio Pierrot
   stations: Tokyo MX
@@ -151,6 +152,7 @@
     Atântida-HTT: active
     Fansub Anime Land: active
     Illuminati: active
+    Lolicons Anônimos: active
 - name_ja: Gintama (2017)
   studio: 'Bandai Namco Pictures '
   stations: TV Tokyo
@@ -248,6 +250,7 @@
   extra_info: Bloco noitaminA
   groups:
     Infinite: active
+    Lolicons Anônimos: active
     Lolisub: active
 - name_ja: Little Witch Academia (TV)
   studio: Studio Trigger
