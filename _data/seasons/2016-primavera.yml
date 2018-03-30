@@ -120,6 +120,8 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11469'
   groups:
     Crunchyroll: stream
+    Fate4Anime: active
+    Lolicons Anônimos: active
     Lolisub: active
 - name_ja: Future Card Buddyfight DDD
   studio: OLM / Xebec

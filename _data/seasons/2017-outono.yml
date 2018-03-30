@@ -300,7 +300,6 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12942'
   groups:
     Crunchyroll: stream
-    Aenianos: active
     Ichiban-Valar: active
     Infinite: active
     Mundo do Shoujo: active

@@ -230,7 +230,6 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11992'
   groups:
     Crunchyroll: stream
-    Bakemono: active
     Eternal Animes: active
 - name_ja: Koro-sensei Quest!
   studio: Lerche
