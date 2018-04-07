@@ -132,6 +132,7 @@
   stations: AbemaTV
   premiere: 2018-01-25T21:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13705'
+  extra_info: Um episódio por mês
   groups:
     Crunchyroll: stream
     Eternal Animes: active
@@ -335,6 +336,7 @@
   studio: Hoods Entertainment
   stations: AT-X
   premiere: 2018-01-11T21:00+0900
+  episodes: 10
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13309'
   groups:
     Crunchyroll: stream
