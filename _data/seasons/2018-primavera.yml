@@ -49,11 +49,14 @@
   is_short: true
   groups:
     HIDIVE: stream
+    Ichiban: active
 - name_ja: 'Amai Choubatsu: Watashi wa Kanshu Sen`you Pet'
   studio: Magic Bus
   stations: ComicFesta
   premiere: 2018-04-01T01:24:00+0900
   is_short: true
+  groups:
+    Infinite: active
 - name_ja: Amanchu! Advance
   studio: J.C. Staff
   stations: AT-X
@@ -350,6 +353,8 @@
   premiere: 2018-04-01T07:17:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13518'
   extra_info: Continuação de Major
+  groups:
+    Atântida: planned
 - name_ja: Megalo Box
   studio: TMS Entertainment
   stations: TBS
@@ -359,6 +364,7 @@
   extra_info: Bloco TBS Thursday Late Night
   groups:
     Crunchyroll: stream
+    Atântida: planned
 - name_ja: 'Nil Admirari no Tenbin: Teito Genwaku Kitan'
   studio: Zero-G
   stations: Tokyo MX
