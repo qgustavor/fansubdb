@@ -395,6 +395,14 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13053'
   groups:
     Crunchyroll: stream
+- name_ja: ReLIFE: Kanketsu-hen
+  studio: TMS Entertainment
+  premiere: 2018-03-21T00:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13123'
+  extra_info: OVAs de ReLIFE
+  groups:
+    Crunchyroll: stream
+    Eternal Animes: active
 - name_ja: Ryuuou no Oshigoto!
   studio: Project No. 9
   stations: AT-X
