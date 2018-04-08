@@ -321,7 +321,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12686'
   groups:
     Crunchyroll: stream
-    Eternal Animes: planned
+    Eternal Animes: active
 - name_ja: 'Lupin III: Part 5'
   studio: Telecom Animation Film
   stations: Nippon TV
