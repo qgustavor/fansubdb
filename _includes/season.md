@@ -34,4 +34,4 @@
   {% endfor %}</tbody>
 </table>
 
-Algo está errado? Leia [as regras](../regras/) e comente abaixo:
+[Algo está errado?](https://xkcd.com/386/) Comente abaixo:
