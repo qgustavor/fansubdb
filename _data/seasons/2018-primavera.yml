@@ -305,6 +305,8 @@
   stations: Fuji TV Nat. Net.
   premiere: 2018-04-01T08:08:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13497'
+  groups:
+    Anime Scientists: active
 - name_ja: Lost Song
   studio: Lidenfilms / Dwango
   stations: Netflix
