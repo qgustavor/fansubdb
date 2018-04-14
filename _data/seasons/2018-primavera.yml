@@ -169,7 +169,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11731'
   groups:
     Crunchyroll: stream
-    Eternal Animes: planned
+    Eternal Animes: active
 - name_ja: Fumikiri Jikan
   studio: EKACHI EPILKA
   stations: Tokyo MX
