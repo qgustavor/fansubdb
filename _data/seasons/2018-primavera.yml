@@ -223,6 +223,7 @@
   groups:
     Crunchyroll: stream
     Bakemono: planned
+    Infinite: active
 - name_ja: Hinamatsuri
   studio: feel.
   stations: AT-X
@@ -554,6 +555,8 @@
   premiere: 2018-04-01T12:24:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13293'
   extra_info: Bloco noitaminA
+  groups:
+    Infinite: active
 - name_ja: 'Youkai Watch: Shadow Side'
   studio: OLM
   stations: TV Tokyo Nat. Net.
