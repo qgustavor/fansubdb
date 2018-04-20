@@ -544,6 +544,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13034'
   groups:
     Crunchyroll: stream
+    Konbini: active
 - name_ja: Wakaokami wa Shougakusei!
   studio: Madhouse / DLE
   stations: TV Tokyo Nat. Net.
