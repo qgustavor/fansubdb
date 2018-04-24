@@ -42,6 +42,8 @@
   premiere: 2018-04-01T06:22:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13613'
   is_short: true
+  groups:
+    Mundo do Shoujo: active
 - name_ja: 'Alice or Alice: Siscon Niisan to Futago no Imouto'
   studio: EMT Squared
   stations: Tokyo MX
