@@ -421,7 +421,6 @@
   episodes: 24
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12691'
   groups:
-    Crunchyroll: rumor
     Infinite: active
 - name_ja: 'Sakura no Chikai: Marronni Yell - Higashi no Hichou Shimotsuke-shi o Yell!'
   extra_info: Especial de TV
@@ -469,7 +468,8 @@
   extra_info: Também chamado de "Ling Qi 2" e "Spiritpact 2"
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13503'
   groups:
-    Crunchyroll: rumor
+    Crunchyroll: stream
+    Peak Spider: active
 - name_ja: Sword Dynasty
   studio: EMT Squared
   stations: Tokyo MX

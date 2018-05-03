@@ -530,6 +530,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13499'
   groups:
     Crunchyroll: stream
+    Planime: active
 - name_ja: Uchuu Senkan Tiramisù
   studio: GONZO
   stations: Tokyo MX
