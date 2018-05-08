@@ -8,7 +8,7 @@
     <th data-sort="string">Grupos</th>
   </tr></thead>
   <tbody>{% for entry in season %}
-    <tr>
+    <tr id="{{ entry.name_ja | slugify }}">
       <td data-sort-value="{{ entry.premiere }}">
         {%- if entry.premiere -%}<abbr title="{{ entry.premiere | date: "%D %T" }} JST">{{ entry.premiere | date: "%d/%m/%y" }}</abbr>{%- endif -%}
         {%- if entry.premiere and entry.stations-%}<br>{%- endif -%}{{ entry.stations }}
