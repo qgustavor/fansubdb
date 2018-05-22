@@ -100,7 +100,7 @@
   groups:
     Crunchyroll: stream
     Aenianos: planned
-    Bakemono: planned
+    Bakemono: active
 - name_ja: 'Butlers: Chitose Momotose Monogatari'
   studio: Silver Link
   stations: Tokyo MX / KBS
@@ -239,6 +239,8 @@
   stations: Tokyo MX / BS Fuji
   premiere: 2018-04-01T12:24:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13625'
+  groups:
+    Aenianos: active
 - name_ja: 'Hoozuki no Reitetsu 2: Sono Ni'
   studio: Studio DEEN
   stations: 'Tokyo MX, BS11, etc.'
@@ -293,6 +295,8 @@
   premiere: 2018-04-01T08:07:00+0900
   is_short: true
   extra_info: 'Continuação de Koneko no Chi: Ponpora no Daibouken'
+  groups:
+    Peak Spider: active
 - name_ja: Ladyspo
   stations: Tokyo MX
   premiere: 2018-04-01T09:25:00+0900
@@ -358,8 +362,6 @@
   premiere: 2018-04-01T07:17:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13518'
   extra_info: Continuação de Major
-  groups:
-    Atântida: planned
 - name_ja: Megalo Box
   studio: TMS Entertainment
   stations: TBS
@@ -553,8 +555,6 @@
   stations: TV Tokyo Nat. Net.
   premiere: 2018-04-01T08:07:00+0900
   is_short: true
-  groups:
-    Mundo do Shoujo: planned
 - name_ja: Wotaku ni Koi wa Muzukashii
   studio: A-1 Pictures
   stations: Fuji TV
@@ -563,6 +563,7 @@
   extra_info: Bloco noitaminA
   groups:
     Infinite: active
+    Mundo do Shoujo: active
 - name_ja: 'Youkai Watch: Shadow Side'
   studio: OLM
   stations: TV Tokyo Nat. Net.
