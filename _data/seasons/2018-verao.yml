@@ -106,6 +106,8 @@
   stations: MBS / TBS
   premiere: 2018-07-01T13:25:00+0900
   extra_info: Bloco Animeism
+  groups:
+    Eternal Animes: planned
 - name_ja: Harukana Receive
   studio: C2C
 - name_ja: Hataraku Onii-san! No 2!
@@ -137,10 +139,13 @@
   studio: Ajia-dou
   stations: AT-X
   premiere: 2018-07-01T05:21:00+0900
+  groups:
+    Eternal Animes: planned
 - name_ja: Island
   studio: feel.
   groups:
     Crunchyroll: stream
+    Eternal Animes: planned
 - name_ja: Jashin-chan Dropkick
   studio: Nomad
   stations: BS-Fuji
