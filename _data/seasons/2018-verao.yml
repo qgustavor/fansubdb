@@ -151,6 +151,8 @@
   stations: BS-Fuji
   premiere: 2018-07-01T09:24:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13637'
+  groups:
+    Aenianos: planned
 - name_ja: Joshi Ochi! 2-kai kara Onnanoko ga... Futte Kita!?
   studio: ark
   stations: ComicFesta
