@@ -96,8 +96,8 @@ Os critérios para determinar se algum grupo está muito focado em lucros serão
 
 * O site do grupo deve atender [os critérios do AcceptableAds](https://acceptableads.com/en/about/criteria) ([cópia da página](https://archive.is/uP44a));
 * Serão consideradas propagandas qualquer tipo de texto ou imagem envolvendo doações, promoções ou qualquer coisa que possa ser usado como fonte de renda por parte do grupo; esse tipo de conteúdo deve seguir os critérios do AcceptableAds;
-* O site do grupo não pode ter malware;
-* O site do grupo não pode ter mineradores ou qualquer comportamento que indique que há algum minerador; de forma objetiva 
+* O site do grupo não pode distribuir malware;
+* O site do grupo não pode usar mineradores ou ter qualquer comportamento que indique que há algum minerador; de forma objetiva 
 caso o site apresente um uso de CPU acima de 50% pelo menos após 15 segundos depois da página ter sido carregada consideraremos que há algum minerador na página;
 
 Não estamos apoiando a ideia do AcceptableAds, que é mal vista por várias pessoas, mas estamos aproveitando os
@@ -107,12 +107,9 @@ coloca mensagens de doação acima do conteúdo principal do site, quebrando a r
 do conteúdo principal, logo ele não será listado no site. Outro grupo tem um site com um malware que tenta roubar
 dados bancários dos seus usuários, esse grupo também não será listado.
 
-Além disso não serão aceitos grupos que simplesmente copiam o trabalho de sites de streaming oficiais ou de outros grupos. Isso porque o FansubDB também não aceita, embora o MyAnimeList e AniDB aceitem alguns deles. Caso um grupo
-assim atenda o primeiro ponto, isso é, não disponibilize apenas "hardsub", e só aceite doações e não ofereça nenhum
-benefício aos doadores, ou seja mantido apenas por seus membros, isso é, sem doações, propagandas ou qualquer
-outra fonte de renda, então poderemos listar o grupo. Porém mesmo assim ele ficará em uma seção separada, sem destaque,
-no fim da página. O objetivo disso promover grupos que procurem popularizar os animes por apenas serem fãs, já que
-há vários grupos que fazem isso buscando lucro.
+Além disso não serão aceitos grupos que simplesmente copiam o trabalho de sites de streaming oficiais ou de outros grupos.
+Isso porque o FansubDB também não aceita, embora o MyAnimeList e AniDB aceitem alguns deles. Alguns grupos desse tipo
+eram aceitos anteriormente como exceção sob determinadas regras, porém esses grupos não são mais aceitos em nenhuma circunstância. 
 
 Grupos brasileiros, portugueses ou de qualquer outro país de língua portuguesa serão aceitos, desde que se adéquem aos
 pontos acima. Por outro lado grupos que não quiserem ser listados podem notificar essa vontade se assim desejarem.
