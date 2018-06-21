@@ -111,6 +111,9 @@ Além disso não serão aceitos grupos que simplesmente copiam o trabalho de sit
 Isso porque o FansubDB também não aceita, embora o MyAnimeList e AniDB aceitem alguns deles. Alguns grupos desse tipo
 eram aceitos anteriormente como exceção sob determinadas regras, porém esses grupos não são mais aceitos em nenhuma circunstância. 
 
+No caso de parcerias entre grupos onde apenas alguns deles possam ser aceitos então serão listados apenas os
+grupos que foram aceitos e não toda a parceria.
+
 Grupos brasileiros, portugueses ou de qualquer outro país de língua portuguesa serão aceitos, desde que se adéquem aos
 pontos acima. Por outro lado grupos que não quiserem ser listados podem notificar essa vontade se assim desejarem.
 
