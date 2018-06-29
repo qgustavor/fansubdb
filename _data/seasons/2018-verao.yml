@@ -56,6 +56,7 @@
   is_short: true
   groups:
     Crunchyroll: stream
+    Bakemono: planned
 - name_ja: Dies Irae
   studio: ACGT
   stations: AbemaTV
@@ -208,6 +209,8 @@
   stations: TBS
   premiere: 2018-07-01T05:25:00+0900
   extra_info: Bloco TBS Thursday Late Night
+  groups:
+    Bakemono: planned
 - name_ja: Shingeki no Kyojin 3
   studio: Wit Studio
   stations: NHK-G
