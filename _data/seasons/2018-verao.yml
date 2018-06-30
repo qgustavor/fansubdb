@@ -97,6 +97,8 @@
   premiere: 2018-07-01T13:26:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13734'
   extra_info: Bloco Animeism
+  groups:
+    Kirinashi: planned
 - name_ja: Hanebado!
   studio: Lidenfilms
   stations: Tokyo MX / AT-X / BS11
@@ -142,6 +144,7 @@
   premiere: 2018-07-01T05:21:00+0900
   groups:
     Eternal Animes: planned
+    Kirinashi: planned
 - name_ja: Island
   studio: feel.
   groups:
@@ -228,6 +231,8 @@
   premiere: 2018-07-01T12:25:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13152'
   extra_info: Bloco TBS Thursday Late Night
+  groups:
+    Kirinashi: planned
 - name_ja: Sunohara-sou no Kanrinin-san
   studio: Silver Link
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13589'
