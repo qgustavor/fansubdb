@@ -335,7 +335,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11221'
   extra_info: 'Bloco noitaminA, Episódio 0 Especial: Amazon Prime - 04/05'
   groups:
-    Lolisub: active
+    Lolisub: active-dropped
 - name_ja: Sagrada Reset
   studio: david production
   stations: Tokyo MX

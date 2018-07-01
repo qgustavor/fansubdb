@@ -405,6 +405,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12820'
   groups:
     Crunchyroll: stream
+    Lolisub: active-dropped
 - name_ja: 'Time Bokan: Gyakushuu no San-Akunin'
   studio: Tatsunoko Production
   stations: Nippon TV Nat. Net.
