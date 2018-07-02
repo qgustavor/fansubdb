@@ -2,6 +2,8 @@
 
 - name_ja: 'Angolmois: Genkou Kassenki'
   studio: NAZ
+  groups:
+    Infinite: planned
 - name_ja: Ani ni Tsukeru Kusuri wa Nai! 2
   studio: Fanworks
   stations: Tokyo MX
@@ -21,6 +23,8 @@
   studio: J.C. Staff
   stations: BS11
   premiere: 2018-07-01T03:25:00+0900
+  groups:
+    Infinite: planned
 - name_ja: Baki
   studio: TMS Entertainment
   groups:
