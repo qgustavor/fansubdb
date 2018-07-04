@@ -3,6 +3,7 @@
 - name_ja: 'Angolmois: Genkou Kassenki'
   studio: NAZ
   groups:
+    Crunchyroll: stream
     Infinite: planned
 - name_ja: Ani ni Tsukeru Kusuri wa Nai! 2
   studio: Fanworks
@@ -15,6 +16,8 @@
 - name_ja: Aru Zombie Shoujo no Sainan
   studio: GONZO / Stingray
   premiere: 2018-07-01T04:00:00+0900
+  groups:
+    Crunchyroll: stream
 - name_ja: Asobi Asobase
   studio: Lerche
   stations: AT-X
@@ -201,10 +204,14 @@
   studio: Lidenfilms
   stations: Tokyo MX / BS Fuji
   premiere: 2018-07-10T00:30:00+0900
+  groups:
+    Crunchyroll: stream
 - name_ja: Planet With
   studio: J.C. Staff
   stations: Tokyo MX
   premiere: 2018-07-01T08:22:00+0900
+  groups:
+    Crunchyroll: stream
 - name_ja: Satsuriku no Tenshi
   studio: J.C. Staff
 - name_ja: Senjuushi
@@ -230,6 +237,8 @@
     Crunchyroll: stream
 - name_ja: Shinya! Tensai Bakabon
   studio: Studio Pierrot+
+  groups:
+    Crunchyroll: stream
 - name_ja: Shoujo Kageki Revue Starlight
   studio: Kinema Citrus
   stations: TBS
