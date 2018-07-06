@@ -3,7 +3,7 @@
 - name_ja: 3-gatsu no Lion 2
   studio: SHAFT
   stations: NHK-G
-  premiere: 2017-10-01T14:23:00+0900
+  premiere: 2017-10-14T23:00:00+0900
   season: 2
   episodes: 22
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12994'
@@ -14,7 +14,7 @@
 - name_ja: Ame-con!!
   studio: EMT Squared
   stations: Tokyo MX
-  premiere: 2017-10-01T04:22:00+0900
+  premiere: 2017-10-04T22:25:00+0900
   season: 4
   is_short: true
   extra_info: Continuação de Ameiro Cocoa
@@ -23,7 +23,7 @@
 - name_ja: Animegataris
   studio: Wao! World
   stations: Tokyo MX
-  premiere: 2017-10-01T08:22:00+0900
+  premiere: 2017-10-08T22:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13114'
   groups:
@@ -32,7 +32,7 @@
 - name_ja: Black Clover
   studio: Studio Pierrot
   stations: TV Tokyo Nat. Net.
-  premiere: 2017-10-01T03:18:00+0900
+  premiere: 2017-10-03T18:25:00+0900
   episodes: 51
   groups:
     Crunchyroll: stream
@@ -40,7 +40,7 @@
 - name_ja: Blend S
   studio: A-1 Pictures
   stations: 'Tokyo MX, BS11, etc.'
-  premiere: 2017-10-01T07:24:00+0900
+  premiere: 2017-10-08T00:30:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12694'
   groups:
@@ -51,7 +51,7 @@
 - name_ja: Boku no Kanojo ga Majimesugiru Sho-bitch na Ken
   studio: Diomedea
   stations: AT-X
-  premiere: 2017-10-01T11:24:00+0900
+  premiere: 2017-10-12T00:30:00+0900
   episodes: 10
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13217'
   groups:
@@ -60,7 +60,7 @@
 - name_ja: 'Cardfight!! Vanguard G: Z'
   studio: OLM
   stations: TV Tokyo Nat. Net.
-  premiere: 2017-10-01T08:10:00+0900
+  premiere: 2017-10-08T10:00:00+0900
   season: 8
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13329'
   groups:
@@ -68,7 +68,7 @@
 - name_ja: Cinderella Girls Gekijou 2
   studio: Gathering
   stations: Tokyo MX / BS11
-  premiere: 2017-10-01T03:21:00+0900
+  premiere: 2017-10-03T21:55:00+0900
   season: 2
   is_short: true
   groups:
@@ -77,7 +77,7 @@
 - name_ja: Classicaloid 2
   studio: Sunrise
   stations: NHK-E
-  premiere: 2017-10-01T07:17:00+0900
+  premiere: 2017-10-07T17:35:00+0900
   season: 2
   episodes: 2-cour
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13069'
@@ -86,7 +86,7 @@
 - name_ja: 'Code:Realize - Sousei no Himegimi'
   studio: M.S.C
   stations: AT-X
-  premiere: 2017-10-01T07:20:00+0900
+  premiere: 2017-10-07T20:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11516'
   groups:
@@ -94,13 +94,13 @@
 - name_ja: Dia Horizon
   studio: Fanworks
   stations: Tokyo MX
-  premiere: 2017-10-01T02:25:00+0900
+  premiere: 2017-10-03T01:00:00+0900
   episodes: 12
   is_short: true
 - name_ja: Dies Irae
   studio: ACGT
   stations: Tokyo MX
-  premiere: 2017-10-01T06:25:00+0900
+  premiere: 2017-10-07T01:05:00+0900
   episodes: 12(TV)+6(Web)
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11204'
   groups:
@@ -109,7 +109,7 @@
 - name_ja: Dynamic Chord
   studio: Studio Pierrot
   stations: TBS
-  premiere: 2017-10-01T05:25:00+0900
+  premiere: 2017-10-06T01:58:00+0900
   episodes: 12
   extra_info: Bloco TBS Thursday Late Night
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12731'
@@ -118,14 +118,14 @@
 - name_ja: EVIL OR LIVE
   studio: Emon
   stations: Tokyo MX
-  premiere: 2017-10-01T10:25:00+0900
+  premiere: 2017-10-11T01:41:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13417'
   groups:
     Crunchyroll: stream
 - name_ja: Fireball Humorous
   studio: Jinni's Animation Studio
   stations: DLife
-  premiere: 2017-10-01T06:21:00+0900
+  premiere: 2017-10-06T21:55:00+0900
   season: 3
   episodes: 3
   is_short: true
@@ -133,7 +133,7 @@
 - name_ja: 'Garo: Vanishing Line'
   studio: MAPPA
   stations: TV Tokyo
-  premiere: 2017-10-01T06:25:00+0900
+  premiere: 2017-10-07T01:23:00+0900
   season: 3
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13390'
   groups:
@@ -142,7 +142,7 @@
 - name_ja: 'Gintama: Porori-hen'
   studio: Bandai Namco Pictures
   stations: TV Tokyo
-  premiere: 2017-10-01T01:25:00+0900
+  premiere: 2017-10-02T01:35:00+0900
   season: 5
   episodes: 13
   extra_info: 'Episódio 1: TV Tokyo - 07/01 @ 26:05'
@@ -151,13 +151,13 @@
 - name_ja: Glamorous Heroes
   studio: drop
   stations: Tokyo MX
-  premiere: 2017-10-01T06:26:00+0900
+  premiere: 2017-10-07T02:10:00+0900
   episodes: 10
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13431'
 - name_ja: Himouto! Umaru-chan R
   studio: Doga Kobo
   stations: AT-X
-  premiere: 2017-10-01T08:23:00+0900
+  premiere: 2017-10-08T23:30:00+0900
   season: 2
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13106'
@@ -166,7 +166,7 @@
 - name_ja: Hoozuki no Reitetsu 2
   studio: Studio DEEN
   stations: 'Tokyo MX, BS11, etc.'
-  premiere: 2017-10-01T07:25:00+0900
+  premiere: 2017-10-08T01:00:00+0900
   season: 2
   episodes: 12
   extra_info: Cour 1 de 2
@@ -176,7 +176,7 @@
 - name_ja: Houseki no Kuni
   studio: Orange
   stations: AT-X
-  premiere: 2017-10-01T07:21:00+0900
+  premiere: 2017-10-07T21:30:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13165'
   groups:
@@ -184,7 +184,7 @@
 - name_ja: Imouto sae Ireba Ii.
   studio: Silver Link
   stations: Tokyo MX
-  premiere: 2017-10-01T08:22:00+0900
+  premiere: 2017-10-08T22:30:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11352'
   groups:
@@ -192,13 +192,13 @@
 - name_ja: Infini-T Force
   studio: Tatsunoko Production
   stations: Hulu.jp
-  premiere: 2017-09-02T02:00:00+0900
+  premiere: 2017-09-26T00:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12034'
 - name_ja: Inuyashiki
   studio: MAPPA
   stations: Fuji TV
-  premiere: 2017-10-01T12:24:00+0900
+  premiere: 2017-10-13T00:55:00+0900
   episodes: 11
   extra_info: Bloco noitaminA
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12653'
@@ -207,7 +207,7 @@
 - name_ja: Itsudatte Bokura no Koi wa 10 Centi Datta.
   studio: Lay-Duce
   stations: 'Tokyo MX, BS11, etc.'
-  premiere: 2017-11-02T00:24:00+0900
+  premiere: 2017-11-25T00:00:00+0900
   episodes: 6
   extra_info: Continuação do filme Zutto Mae kara Suki Deshita. Kokuhaku Jikkouiinkai
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13038'
@@ -217,7 +217,7 @@
 - name_ja: Just Because!
   studio: PINE JAM
   stations: AT-X
-  premiere: 2017-10-01T05:21:00+0900
+  premiere: 2017-10-05T21:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13199'
   groups:
@@ -226,7 +226,7 @@
 - name_ja: Juuni Taisen
   studio: Graphinica
   stations: AT-X
-  premiere: 2017-10-01T03:23:00+0900
+  premiere: 2017-10-03T23:30:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12956'
   groups:
@@ -235,7 +235,7 @@
 - name_ja: Kekkai Sensen & Beyond
   studio: Bones
   stations: MBS
-  premiere: 2017-10-01T07:27:00+0900
+  premiere: 2017-10-08T03:08:00+0900
   season: 2
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12571'
@@ -245,7 +245,7 @@
 - name_ja: 'Kino no Tabi: The Beautiful World - The Animated Series'
   studio: Lerche
   stations: AT-X
-  premiere: 2017-10-01T06:22:00+0900
+  premiere: 2017-10-06T22:00:00+0900
   episodes: 12
   extra_info: Remake
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12959'
@@ -255,7 +255,7 @@
 - name_ja: Konohana Kitan
   studio: Lerche
   stations: AT-X
-  premiere: 2017-10-01T04:20:00+0900
+  premiere: 2017-10-04T20:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13030'
   groups:
@@ -266,7 +266,7 @@
 - name_ja: Kujira no Kora wa Sajou ni Utau
   studio: J.C. Staff
   stations: Tokyo MX
-  premiere: 2017-10-01T08:23:00+0900
+  premiere: 2017-10-08T23:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12712'
   groups:
@@ -276,7 +276,7 @@
 - name_ja: 'Love Kome: We Love Rice 2'
   studio: Encourage Films
   stations: RNB
-  premiere: 2017-10-01T05:26:00+0900
+  premiere: 2017-10-06T02:59:00+0900
   season: 2
   episodes: 12
   is_short: true
@@ -286,7 +286,7 @@
 - name_ja: Love Live! Sunshine!! 2
   studio: Sunrise
   stations: 'Tokyo MX, etc.'
-  premiere: 2017-10-01T07:22:00+0900
+  premiere: 2017-10-07T22:30:00+0900
   season: 2
   episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12897'
@@ -295,7 +295,7 @@
 - name_ja: Mahoutsukai no Yome
   studio: Wit Studio
   stations: Tokyo MX
-  premiere: 2017-10-01T07:25:00+0900
+  premiere: 2017-10-08T01:30:00+0900
   episodes: 24
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12942'
   groups:
@@ -306,7 +306,7 @@
 - name_ja: Net-juu no Susume
   studio: Signal.MD
   stations: Yahoo GYAO!
-  premiere: 2017-10-01T06:24:00+0900
+  premiere: 2017-10-07T00:00:00+0900
   episodes: 10+1
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13345'
   groups:
@@ -314,7 +314,7 @@
 - name_ja: 'Omiai Aite wa Oshiego, Tsuyoki na, Mondaiji.'
   studio: Seven
   stations: ComicFesta
-  premiere: 2017-10-01T01:24:00+0900
+  premiere: 2017-10-02T00:00:00+0900
   episodes: 12
   is_short: true
   groups:
@@ -322,13 +322,13 @@
 - name_ja: Oretacha Youkai Ningen
   studio: DLE
   stations: Tokyo MX
-  premiere: 2017-10-01T04:23:00+0900
+  premiere: 2017-10-04T23:30:00+0900
   is_short: true
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13389'
 - name_ja: Osake wa Fuufu ni Natte kara
   studio: Creators in Pack
   stations: Tokyo MX
-  premiere: 2017-10-01T03:25:00+0900
+  premiere: 2017-10-04T01:00:00+0900
   episodes: 13
   is_short: true
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13147'
@@ -338,7 +338,7 @@
 - name_ja: Osomatsu-san 2
   studio: Studio Pierrot
   stations: TV Tokyo
-  premiere: 2017-10-01T02:25:00+0900
+  premiere: 2017-10-03T01:35:00+0900
   season: 2
   episodes: 24
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12944'
@@ -347,7 +347,7 @@
 - name_ja: Ousama Game The Animation
   studio: Seven
   stations: AT-X
-  premiere: 2017-10-01T05:23:00+0900
+  premiere: 2017-10-05T23:30:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13335'
   groups:
@@ -355,13 +355,13 @@
 - name_ja: RoboMasters the Animated Series
   studio: Dandelion Animation Studio / GONZO
   stations: WOWOW
-  premiere: 2017-10-01T13:22:00+0900
+  premiere: 2017-10-13T22:30:00+0900
   episodes: 6
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12815'
 - name_ja: Sengoku Night Blood
   studio: Typhoon Graphics
   stations: Tokyo MX
-  premiere: 2017-10-01T03:23:00+0900
+  premiere: 2017-10-03T23:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13036'
   groups:
@@ -369,7 +369,7 @@
 - name_ja: 'Shokugeki no Souma: San no Sara'
   studio: J.C. Staff
   stations: Tokyo MX
-  premiere: 2017-10-01T03:24:00+0900
+  premiere: 2017-10-04T00:30:00+0900
   season: 3
   episodes: 12
   extra_info: Cour 1 de 2
@@ -380,7 +380,7 @@
 - name_ja: Shoujo Shuumatsu Ryokou
   studio: White Fox
   stations: AT-X
-  premiere: 2017-10-01T06:21:00+0900
+  premiere: 2017-10-06T21:30:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13256'
   groups:
@@ -392,14 +392,14 @@
 - name_ja: Taishou Chicchai-san
   studio: Studio A-Cat
   stations: Tokyo MX
-  premiere: 2017-10-01T06:21:00+0900
+  premiere: 2017-10-06T21:55:00+0900
   is_short: true
   groups:
     Crunchyroll: stream
 - name_ja: The iDOLM@STER Side M
   studio: A-1 Pictures
   stations: 'Tokyo MX, BS11, etc.'
-  premiere: 2017-10-01T07:23:00+0900
+  premiere: 2017-10-07T23:30:00+0900
   episodes: 13
   extra_info: Spinoff de The iDOLM@STER
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12820'
@@ -409,7 +409,7 @@
 - name_ja: 'Time Bokan: Gyakushuu no San-Akunin'
   studio: Tatsunoko Production
   stations: Nippon TV Nat. Net.
-  premiere: 2017-10-01T07:17:00+0900
+  premiere: 2017-10-07T17:30:00+0900
   season: 2
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13039'
   groups:
@@ -417,14 +417,14 @@
 - name_ja: Tsukipro The Animation
   studio: PRA
   stations: Tokyo MX
-  premiere: 2017-10-01T04:22:00+0900
+  premiere: 2017-10-04T22:30:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12578'
   groups:
     Crunchyroll: stream
 - name_ja: Two Car
   studio: Silver Link
   stations: AT-X
-  premiere: 2017-10-01T07:24:00+0900
+  premiere: 2017-10-08T00:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13322'
   groups:
@@ -433,7 +433,7 @@
 - name_ja: 'UQ Holder!: Mahou Sensei Negima! 2'
   studio: J.C. Staff
   stations: 'Tokyo MX, etc.'
-  premiere: 2017-10-01T02:24:00+0900
+  premiere: 2017-10-03T00:00:00+0900
   episodes: 12
   extra_info: Continuação de Mahou Sensei Negima!
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12227'
@@ -442,7 +442,7 @@
 - name_ja: Urahara
   studio: EMT Squared / Shirogumi
   stations: Abema TV
-  premiere: 2017-10-01T04:20:00+0900
+  premiere: 2017-10-04T20:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13035'
   groups:
@@ -451,7 +451,7 @@
 - name_ja: 'Wake Up, Girls! Shin Shou'
   studio: Millepensee
   stations: TV Tokyo
-  premiere: 2017-10-01T09:26:00+0900
+  premiere: 2017-10-10T02:05:00+0900
   season: 2
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12625'
@@ -461,7 +461,7 @@
 - name_ja: 'Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou'
   studio: Studio Gokumi
   stations: MBS / TBS
-  premiere: 2017-10-01T06:25:00+0900
+  premiere: 2017-10-07T01:55:00+0900
   season: 2
   episodes: 6
   extra_info: 'Parte 1 de 2, Bloco Animeism'
@@ -469,7 +469,7 @@
 - name_ja: 'Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou'
   studio: Studio Gokumi
   stations: MBS / TBS
-  premiere: 2017-11-01T17:25:00+0900
+  premiere: 2017-11-18T01:55:00+0900
   season: 2
   episodes: 6
   extra_info: 'Parte 2 de 2, Bloco Animeism'

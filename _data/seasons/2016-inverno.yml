@@ -3,13 +3,13 @@
 - name_ja: 6HP - Six Hearts Princess
   studio: Studio Poncotan
   stations: Tokyo MX
-  premiere: 2015-12-02T06:19:00+0900
+  premiere: 2015-12-30T19:00:00+0900
   episodes: 1
   extra_info: Especial de TV
 - name_ja: 'ACCA: 13-ku Kansatsu-ka'
   studio: Madhouse
   stations: Tokyo MX
-  premiere: 2016-01-01T10:23:00+0900
+  premiere: 2016-01-10T23:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12136'
   groups:
@@ -17,7 +17,7 @@
 - name_ja: Ai Mai Mi ~Surgical Friends~
   studio: Seven
   stations: AT-X
-  premiere: 2016-01-01T03:23:00+0900
+  premiere: 2016-01-03T23:30:00+0900
   season: 3
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12506'
@@ -27,7 +27,7 @@
 - name_ja: 'Akiba''s Trip: The Animation'
   studio: GONZO
   stations: AT-X
-  premiere: 2016-01-01T04:22:00+0900
+  premiere: 2016-01-04T22:30:00+0900
   episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12411'
   groups:
@@ -35,7 +35,7 @@
 - name_ja: 'Ao no Exorcist: Kyoto Fujouou-hen'
   studio: A-1 Pictures
   stations: TBS
-  premiere: 2016-01-01T06:25:00+0900
+  premiere: 2016-01-07T01:55:00+0900
   season: 2
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12240'
@@ -48,7 +48,7 @@
 - name_ja: BanG Dream!
   studio: ISSEN / Xebec
   stations: AbemaTV
-  premiere: 2016-01-01T21:22:00+0900
+  premiere: 2016-01-21T22:00:00+0900
   episodes: 13+1
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12262'
   groups:
@@ -56,7 +56,7 @@
 - name_ja: 'Chain Chronicle: Hekuseitasu no Hikari'
   studio: Telecom Animation Film / Graphinica
   stations: ABC
-  premiere: 2016-01-01T07:26:00+0900
+  premiere: 2016-01-08T02:19:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10971'
   groups:
@@ -64,7 +64,7 @@
 - name_ja: ChäoS;Child
   studio: Silver Link
   stations: AT-X
-  premiere: 2016-01-01T11:23:00+0900
+  premiere: 2016-01-11T23:30:00+0900
   episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11166'
   groups:
@@ -73,7 +73,7 @@
 - name_ja: 'Chiruran: Nibun no Ichi'
   studio: LandQ Studio
   stations: Tokyo MX
-  premiere: 2016-01-01T09:25:00+0900
+  premiere: 2016-01-10T01:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12418'
   is_short: true
@@ -83,19 +83,19 @@
 - name_ja: Chou Shounen Tanteidan NEO
   studio: DLE
   stations: Tokyo MX
-  premiere: 2016-01-01T02:21:00+0900
+  premiere: 2016-01-02T21:55:00+0900
   episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11953'
 - name_ja: 'Chou Yuu Sekai: Being the Reality'
   studio: Asahi Production / SUCCESS
   stations: NicoNico / Youtube
-  premiere: 2016-01-01T12:00:00+0900
+  premiere: 2016-01-12T00:00:00+0900
   episodes: 20
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12709'
 - name_ja: Demi-chan wa Kataritai
   studio: A-1 Pictures
   stations: Tokyo MX / BS11
-  premiere: 2016-01-01T07:24:00+0900
+  premiere: 2016-01-08T00:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12374'
   extra_info: 'Preview do Episódio 1 indo ao ar em: Amazon Prime - 01/06'
@@ -107,7 +107,7 @@
 - name_ja: ĒlDLIVE
   studio: Studio Pierrot
   stations: Tokyo MX
-  premiere: 2016-01-01T08:22:00+0900
+  premiere: 2016-01-08T22:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11970'
   groups:
@@ -116,7 +116,7 @@
 - name_ja: 'Fate/Grand Order: First Order'
   studio: Lay-Duce
   stations: Tokyo MX / BS11
-  premiere: 2015-12-02T07:22:00+0900
+  premiere: 2015-12-31T22:00:00+0900
   episodes: 1
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12519'
   extra_info: Especial de TV
@@ -125,7 +125,7 @@
     Illuminati: active
 - name_ja: Forest Fairy Five
   stations: Tokyo MX
-  premiere: 2016-01-01T06:20:00+0900
+  premiere: 2016-01-06T20:00:00+0900
   episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12714'
   is_short: true
@@ -134,7 +134,7 @@
 - name_ja: Fuuka
   studio: Diomedea
   stations: WOWOW
-  premiere: 2016-01-01T06:22:00+0900
+  premiere: 2016-01-06T22:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12300'
   groups:
@@ -143,7 +143,7 @@
 - name_ja: Gabriel DropOut
   studio: Doga Kobo
   stations: AT-X
-  premiere: 2016-01-01T09:22:00+0900
+  premiere: 2016-01-09T22:30:00+0900
   episodes: 12+2
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12290'
   groups:
@@ -156,7 +156,7 @@
 - name_ja: Gintama (2017)
   studio: 'Bandai Namco Pictures '
   stations: TV Tokyo
-  premiere: 2016-01-01T08:25:00+0900
+  premiere: 2016-01-09T01:35:00+0900
   season: 4
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12558'
@@ -165,7 +165,7 @@
 - name_ja: 'Granblue Fantasy The Animation: Zankutinzeru-hen'
   studio: A-1 Pictures
   stations: Tokyo MX / AbemaTV
-  premiere: 2016-01-01T21:19:00+0900
+  premiere: 2016-01-21T19:00:00+0900
   episodes: Eps. 1-2
   extra_info: 'Especial de TV, os dois primeiros episódios'
   groups:
@@ -173,14 +173,14 @@
 - name_ja: 'Gravity Daze The Animation: Ouverture'
   studio: Studio Khara
   stations: TV Tokyo
-  premiere: 2015-12-02T01:25:00+0900
+  premiere: 2015-12-26T01:05:00+0900
   episodes: 1
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11596'
   extra_info: Especial de TV
 - name_ja: Hand Shakers
   studio: GoHands
   stations: Tokyo MX
-  premiere: 2016-01-01T10:24:00+0900
+  premiere: 2016-01-11T00:30:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12008'
   groups:
@@ -188,7 +188,7 @@
 - name_ja: Idol Jihen
   studio: Studio VOLN / MAPPA
   stations: Tokyo MX
-  premiere: 2016-01-01T08:23:00+0900
+  premiere: 2016-01-08T23:30:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12400'
   groups:
@@ -196,7 +196,7 @@
 - name_ja: Kemono Friends
   studio: Yaoyorozu
   stations: TV Tokyo
-  premiere: 2016-01-01T10:25:00+0900
+  premiere: 2016-01-11T01:35:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12057'
   groups:
@@ -204,7 +204,7 @@
 - name_ja: Kirakira Precure A La Mode
   studio: Toei Animation
   stations: TV Asahi Nat. Net.
-  premiere: 2016-02-01T05:08:00+0900
+  premiere: 2016-02-05T08:30:00+0900
   episodes: 49
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12503'
   extra_info: 13ª série
@@ -213,7 +213,7 @@
 - name_ja: Kobayashi-san Chi no Maid Dragon
   studio: Kyoto Animation
   stations: Tokyo MX
-  premiere: 2016-01-01T11:24:00+0900
+  premiere: 2016-01-12T00:00:00+0900
   episodes: 13+1
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12091'
   groups:
@@ -223,7 +223,7 @@
 - name_ja: Kono Subarashii Sekai ni Shukufuku o! 2
   studio: Studio DEEN
   stations: Tokyo MX
-  premiere: 2016-01-01T11:25:00+0900
+  premiere: 2016-01-12T01:05:00+0900
   season: 2
   episodes: 10
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11992'
@@ -233,7 +233,7 @@
 - name_ja: Koro-sensei Quest!
   studio: Lerche
   stations: FOD / dTV / UULA
-  premiere: 2015-12-01T23:00:00+0900
+  premiere: 2015-12-23T00:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12548'
   groups:
@@ -242,7 +242,7 @@
 - name_ja: Kuzu no Honkai
   studio: Lerche
   stations: Fuji TV
-  premiere: 2016-01-01T12:24:00+0900
+  premiere: 2016-01-13T00:55:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11998'
   extra_info: Bloco noitaminA
@@ -253,7 +253,7 @@
 - name_ja: Little Witch Academia (TV)
   studio: Studio Trigger
   stations: Tokyo MX
-  premiere: 2016-01-01T08:24:00+0900
+  premiere: 2016-01-09T00:00:00+0900
   episodes: 25
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12235'
   groups:
@@ -263,13 +263,13 @@
 - name_ja: Long Riders!
   studio: Actas
   stations: AT-X
-  premiere: 2016-02-01T05:17:00+0900
+  premiere: 2016-02-05T17:00:00+0900
   episodes: Eps. 11-12
   extra_info: Os dois episódios finais
 - name_ja: 'Marginal No.4: Kiss Kara Tsukuru Big Bang'
   studio: J.C. Staff
   stations: Tokyo MX
-  premiere: 2016-01-01T12:23:00+0900
+  premiere: 2016-01-12T23:30:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11928'
   groups:
@@ -277,7 +277,7 @@
 - name_ja: Masamune-kun no Revenge
   studio: Silver Link
   stations: Tokyo MX
-  premiere: 2016-01-01T05:22:00+0900
+  premiere: 2016-01-05T22:30:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12234'
   groups:
@@ -287,7 +287,7 @@
 - name_ja: Minami Kamakura Koukou Joshi Jitensha-bu
   studio: J.C. Staff / ACGT
   stations: AT-X
-  premiere: 2016-01-01T06:24:00+0900
+  premiere: 2016-01-07T00:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11492'
   groups:
@@ -295,7 +295,7 @@
 - name_ja: Nanbaka 2nd Season
   studio: Satelight
   stations: Docomo Anime Store
-  premiere: 2016-01-01T04:12:00+0900
+  premiere: 2016-01-04T12:00:00+0900
   season: 2
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12429'
@@ -304,7 +304,7 @@
 - name_ja: Nyanko Days
   studio: EMT Squared
   stations: Sun TV
-  premiere: 2016-01-01T08:22:00+0900
+  premiere: 2016-01-08T22:25:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12433'
   is_short: true
@@ -313,7 +313,7 @@
 - name_ja: One Room
   studio: Typhoon Graphics
   stations: Tokyo MX
-  premiere: 2016-01-01T11:22:00+0900
+  premiere: 2016-01-11T22:40:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12550'
   is_short: true
@@ -323,13 +323,13 @@
 - name_ja: Onihei
   studio: Studio M2
   stations: TV Tokyo
-  premiere: 2016-01-01T09:26:00+0900
+  premiere: 2016-01-10T02:05:00+0900
   episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12369'
 - name_ja: 'Osomatsu-san: Ouma de Kobanashi'
   studio: Studio Pierrot
   stations: TV Tokyo
-  premiere: 2015-12-01T12:25:00+0900
+  premiere: 2015-12-13T01:00:00+0900
   episodes: 1
   extra_info: Especial de TV
   groups:
@@ -338,7 +338,7 @@
 - name_ja: 'Piace: Watashi no Italian'
   studio: Zero-G
   stations: Tokyo MX
-  premiere: 2016-01-01T11:22:00+0900
+  premiere: 2016-01-11T22:30:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12223'
   is_short: true
@@ -347,14 +347,14 @@
 - name_ja: 'Reikenzan: Eichi e no Shikaku'
   studio: Studio DEEN
   stations: AT-X
-  premiere: 2016-01-01T07:24:00+0900
+  premiere: 2016-01-08T00:00:00+0900
   season: 2
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12030'
 - name_ja: 'Rewrite 2nd Season: Moon-hen/Terra-hen'
   studio: 8bit
   stations: Tokyo MX / BS11
-  premiere: 2016-01-01T14:23:00+0900
+  premiere: 2016-01-14T23:30:00+0900
   season: 2
   episodes: 11
   groups:
@@ -362,7 +362,7 @@
 - name_ja: Ryuu no Haisha
   studio: Studio Khara
   stations: NHK BS-Premium
-  premiere: 2016-02-01T18:20:00+0900
+  premiere: 2016-02-18T20:00:00+0900
   episodes: 2
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12359'
   extra_info: Especial de TV
@@ -372,7 +372,7 @@
 - name_ja: Schoolgirl Strikers Animation Channel
   studio: J.C. Staff
   stations: Tokyo MX / BS11
-  premiere: 2016-01-01T06:24:00+0900
+  premiere: 2016-01-07T00:30:00+0900
   episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12502'
   groups:
@@ -380,7 +380,7 @@
 - name_ja: Seiren
   studio: Studio Gokumi / AXsiZ
   stations: TBS
-  premiere: 2016-01-01T05:26:00+0900
+  premiere: 2016-01-06T02:28:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12327'
   extra_info: Bloco TBS Thursday Late Night
@@ -390,7 +390,7 @@
 - name_ja: 'Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen'
   studio: Studio DEEN
   stations: TBS
-  premiere: 2016-01-01T06:26:00+0900
+  premiere: 2016-01-07T02:25:00+0900
   season: 2
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12062'
@@ -400,7 +400,7 @@
 - name_ja: Spiritpact
   studio: Emon
   stations: Tokyo MX
-  premiere: 2016-01-01T07:21:00+0900
+  premiere: 2016-01-07T21:00:00+0900
   episodes: 20
   groups:
     Crunchyroll: stream
@@ -408,7 +408,7 @@
 - name_ja: Super Lovers 2
   studio: Studio DEEN
   stations: AT-X
-  premiere: 2016-01-01T12:23:00+0900
+  premiere: 2016-01-12T23:30:00+0900
   season: 2
   episodes: 10
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12197'
@@ -417,7 +417,7 @@
 - name_ja: Tales of Zestiria the X 2
   studio: ufotable
   stations: Tokyo MX
-  premiere: 2016-01-01T08:23:00+0900
+  premiere: 2016-01-08T23:00:00+0900
   season: 2
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12256'
@@ -427,21 +427,21 @@
 - name_ja: 'Tantei Opera Milky Holmes: Fun Fun Pearly Night - Ken to Janet no Okurimono'
   studio: J.C. Staff
   stations: Tokyo MX / Sun TV
-  premiere: 2015-12-02T07:20:00+0900
+  premiere: 2015-12-31T20:50:00+0900
   episodes: 1
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12130'
   extra_info: Especial de TV
 - name_ja: Urara Meirochou
   studio: J.C. Staff
   stations: TBS
-  premiere: 2016-01-01T05:25:00+0900
+  premiere: 2016-01-06T01:58:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11985'
   extra_info: Bloco TBS Thursday Late Night
 - name_ja: Yami Shibai 4
   studio: Studio ILCA
   stations: TV Tokyo
-  premiere: 2016-01-01T15:26:00+0900
+  premiere: 2016-01-16T02:05:00+0900
   season: 4
   episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12575'
@@ -451,7 +451,7 @@
 - name_ja: Youjo Senki
   studio: NUT
   stations: AT-X
-  premiere: 2016-01-01T06:22:00+0900
+  premiere: 2016-01-06T22:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11905'
   groups:
@@ -459,7 +459,7 @@
 - name_ja: Yowamushi Pedal New Generation
   studio: TMS Entertainment
   stations: TV Tokyo
-  premiere: 2016-01-01T09:25:00+0900
+  premiere: 2016-01-10T01:35:00+0900
   season: 3
   episodes: 25
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11689'

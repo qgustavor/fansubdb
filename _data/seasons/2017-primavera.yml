@@ -3,7 +3,7 @@
 - name_ja: 100% Pascal-sensei
   studio: OLM
   stations: TBS Nat. Net.
-  premiere: 2017-04-01T15:06:00+0900
+  premiere: 2017-04-15T06:30:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12410'
   is_short: true
   groups:
@@ -11,13 +11,13 @@
 - name_ja: Akindo Sei no Little Peso
   studio: Fanworks
   stations: Tokyo MX
-  premiere: 2017-04-01T03:21:00+0900
+  premiere: 2017-04-03T21:55:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12831'
   is_short: true
 - name_ja: Alice to Zouroku
   studio: J.C. Staff
   stations: Tokyo MX
-  premiere: 2017-04-01T02:22:00+0900
+  premiere: 2017-04-02T22:30:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12526'
   groups:
@@ -26,7 +26,7 @@
 - name_ja: Ani ni Tsukeru Kusuri wa Nai!
   studio: Fanworks
   stations: Tokyo MX
-  premiere: 2017-04-01T07:21:00+0900
+  premiere: 2017-04-07T21:55:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12921'
   is_short: true
   groups:
@@ -34,13 +34,13 @@
 - name_ja: 'Atom: The Beginning'
   studio: OLM / Production I.G
   stations: NHK-G
-  premiere: 2017-04-01T15:23:00+0900
+  premiere: 2017-04-15T23:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12148'
 - name_ja: Berserk (2016) 2
   studio: GEMBA / Millepensee
   stations: WOWOW
-  premiere: 2017-04-01T07:22:00+0900
+  premiere: 2017-04-07T22:00:00+0900
   season: 2
   episodes: 1-cour
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12414'
@@ -50,13 +50,13 @@
 - name_ja: Beyblade Burst God
   studio: OLM
   stations: TV Tokyo Nat. Net.
-  premiere: 2017-04-01T03:17:00+0900
+  premiere: 2017-04-03T17:55:00+0900
   season: 2
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12809'
 - name_ja: Boku no Hero Academia 2
   studio: Bones
   stations: Nippon TV Nat. Net.
-  premiere: 2017-04-01T01:17:00+0900
+  premiere: 2017-04-01T17:30:00+0900
   season: 2
   episodes: 25
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12233'
@@ -68,7 +68,7 @@
 - name_ja: 'Boruto: Naruto Next Generations'
   studio: Studio Pierrot
   stations: TV Tokyo Nat. Net.
-  premiere: 2017-04-01T05:17:00+0900
+  premiere: 2017-04-05T17:55:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12661'
   extra_info: 'Continuação de Naruto: Shippuuden'
   groups:
@@ -76,13 +76,13 @@
 - name_ja: Busou Shoujo Machiavellianism
   studio: Silver Link
   stations: AT-X
-  premiere: 2017-04-01T05:23:00+0900
+  premiere: 2017-04-05T23:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12230'
 - name_ja: Cinderella Girls Gekijou
   studio: Gathering
   stations: Tokyo MX / BS11
-  premiere: 2017-04-01T04:21:00+0900
+  premiere: 2017-04-04T21:55:00+0900
   episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12483'
   is_short: true
@@ -93,7 +93,7 @@
 - name_ja: Clockwork Planet
   studio: XEBEC
   stations: TBS
-  premiere: 2017-04-01T06:25:00+0900
+  premiere: 2017-04-07T01:58:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11857'
   extra_info: Bloco TBS Thursday Late Night
@@ -103,12 +103,12 @@
 - name_ja: Duel Masters (2017)
   studio: Shogakukan-Shueisha Productions
   stations: TV Tokyo Nat. Net.
-  premiere: 2017-04-01T02:08:00+0900
+  premiere: 2017-04-02T08:30:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12818'
 - name_ja: Eromanga-sensei
   studio: A-1 Pictures
   stations: Tokyo MX / BS11
-  premiere: 2017-04-01T08:24:00+0900
+  premiere: 2017-04-09T00:30:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11981'
   groups:
     Crunchyroll: stream
@@ -120,13 +120,13 @@
 - name_ja: Frame Arms Girl
   studio: Studio A-Cat / ZEXCS
   stations: Tokyo MX
-  premiere: 2017-04-01T03:25:00+0900
+  premiere: 2017-04-04T01:05:00+0900
   episodes: 1-cour
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12563'
 - name_ja: Fukumenkei Noise
   studio: Brain's Base
   stations: Tokyo MX
-  premiere: 2017-04-01T11:23:00+0900
+  premiere: 2017-04-11T23:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12088'
   groups:
@@ -134,14 +134,14 @@
 - name_ja: Furusato Meguri Nippon no Mukashibanashi
   studio: Tomason
   stations: TV Tokyo Nat. Net.
-  premiere: 2017-04-01T02:09:00+0900
+  premiere: 2017-04-02T09:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13050'
   groups:
     Crunchyroll: stream
 - name_ja: Future Card Buddyfight X
   studio: OLM / Xebec
   stations: TV Tokyo Nat. Net.
-  premiere: 2017-04-01T01:08:00+0900
+  premiere: 2017-04-01T08:00:00+0900
   season: 4
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12766'
   groups:
@@ -149,7 +149,7 @@
 - name_ja: Gin no Guardian
   studio: Emon
   stations: Tokyo MX
-  premiere: 2017-04-01T01:21:00+0900
+  premiere: 2017-04-01T21:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11840'
   is_short: true
   groups:
@@ -157,7 +157,7 @@
 - name_ja: Granblue Fantasy The Animation
   studio: A-1 Pictures
   stations: Tokyo MX / BS11
-  premiere: 2017-04-01T01:24:00+0900
+  premiere: 2017-04-02T00:00:00+0900
   episodes: 14
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11597'
   extra_info: 'Especiais Eps. 1-2: Tokyo MX - 01/21 @ 19:00'
@@ -167,7 +167,7 @@
 - name_ja: High School Fleet (OVA)
   studio: Production IMS
   stations: BS11
-  premiere: 2017-03-02T07:23:00+0900
+  premiere: 2017-03-31T23:30:00+0900
   episodes: 1 de 2
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12428'
   extra_info: OVA on TV
@@ -176,7 +176,7 @@
 - name_ja: Hinako Note
   studio: Passione
   stations: AT-X
-  premiere: 2017-04-01T07:21:00+0900
+  premiere: 2017-04-07T21:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12349'
   extra_info: 'Episódio 1 Preview indo ao ar em: AbemaTV - 03/26 @ 24:30'
@@ -186,7 +186,7 @@
 - name_ja: ID-0
   studio: Sanzigen
   stations: Tokyo MX
-  premiere: 2017-04-01T09:23:00+0900
+  premiere: 2017-04-09T23:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12318'
   groups:
@@ -194,13 +194,13 @@
 - name_ja: Idol Time PriPara
   studio: Dongwoo A&E / Tatsunoko Production
   stations: TV Tokyo Nat. Net.
-  premiere: 2017-04-01T04:17:00+0900
+  premiere: 2017-04-04T17:55:00+0900
   season: 4
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12737'
 - name_ja: Kabukibu!
   studio: Studio DEEN
   stations: TBS
-  premiere: 2017-04-01T06:26:00+0900
+  premiere: 2017-04-07T02:28:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12329'
   extra_info: Bloco TBS Thursday Late Night
@@ -209,7 +209,7 @@
 - name_ja: 'Kenka Banchou Otome: Girl Beats Boys'
   studio: Project No. 9 / A-Real
   stations: Tokyo MX
-  premiere: 2017-04-01T12:22:00+0900
+  premiere: 2017-04-12T22:30:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12608'
   is_short: true
@@ -218,7 +218,7 @@
 - name_ja: Kyoukai no Rinne 3
   studio: Brain's Base
   stations: NHK-E
-  premiere: 2017-04-01T08:17:00+0900
+  premiere: 2017-04-08T17:35:00+0900
   season: 3
   episodes: 25
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12426'
@@ -227,7 +227,7 @@
 - name_ja: 'Love Kome: We Love Rice'
   studio: Encourage Films
   stations: Tokyo MX
-  premiere: 2017-04-01T05:22:00+0900
+  premiere: 2017-04-05T22:50:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12553'
   is_short: true
   groups:
@@ -235,7 +235,7 @@
 - name_ja: Makeruna!! Aku no Gundan!
   studio: Tatsunoko Production
   stations: Tokyo MX
-  premiere: 2017-04-01T05:22:00+0900
+  premiere: 2017-04-05T22:45:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12804'
   is_short: true
   groups:
@@ -243,7 +243,7 @@
 - name_ja: Monster Strike 2nd Season
   studio: Studio Hibari
   stations: YouTube
-  premiere: 2017-04-01T01:19:00+0900
+  premiere: 2017-04-01T19:00:00+0900
   season: 2
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12703'
   is_short: true
@@ -252,7 +252,7 @@
 - name_ja: Natsume Yuujinchou Roku
   studio: Shuka
   stations: TV Tokyo
-  premiere: 2017-04-01T11:25:00+0900
+  premiere: 2017-04-12T01:35:00+0900
   season: 6
   episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12675'
@@ -262,7 +262,7 @@
 - name_ja: 'Nobunaga no Shinobi: Ise Kanegasaki-hen'
   studio: TMS Entertainment
   stations: Tokyo MX
-  premiere: 2017-04-01T07:25:00+0900
+  premiere: 2017-04-08T01:35:00+0900
   season: 2
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12900'
   is_short: true
@@ -271,7 +271,7 @@
 - name_ja: Oushitsu Kyoushi Haine
   studio: Bridge
   stations: TV Tokyo / TV Osaka
-  premiere: 2017-04-01T04:26:00+0900
+  premiere: 2017-04-05T02:05:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12485'
   groups:
@@ -279,7 +279,7 @@
 - name_ja: Puripuri Chii-chan!!
   studio: OLM
   stations: TBS Nat. Net.
-  premiere: 2017-04-01T15:06:00+0900
+  premiere: 2017-04-15T06:30:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12745'
   is_short: true
   groups:
@@ -287,7 +287,7 @@
 - name_ja: 'Re:Creators'
   studio: TROYCA
   stations: Tokyo MX / BS11
-  premiere: 2017-04-01T08:23:00+0900
+  premiere: 2017-04-08T23:30:00+0900
   episodes: 22
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12657'
   groups:
@@ -295,7 +295,7 @@
 - name_ja: Renai Boukun
   studio: EMT Squared
   stations: TV Tokyo
-  premiere: 2017-04-01T06:26:00+0900
+  premiere: 2017-04-07T02:35:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11822'
   groups:
@@ -305,13 +305,13 @@
 - name_ja: 'Rilu Rilu Fairilu: Mahou no Kagami'
   studio: Studio DEEN
   stations: TV Tokyo Nat. Net.
-  premiere: 2017-04-01T07:17:00+0900
+  premiere: 2017-04-07T17:55:00+0900
   season: 2
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12825'
 - name_ja: Rokudenashi Majutsu Koushi to Akashic Records
   studio: Liden Films
   stations: AT-X
-  premiere: 2017-04-01T04:20:00+0900
+  premiere: 2017-04-04T20:30:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11995'
   groups:
@@ -321,7 +321,7 @@
 - name_ja: Room Mate
   studio: Typhoon Graphics
   stations: Tokyo MX
-  premiere: 2017-04-01T12:22:00+0900
+  premiere: 2017-04-12T22:40:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12551'
   is_short: true
   groups:
@@ -329,7 +329,7 @@
 - name_ja: Saenai Heroine no Sodatekata Flat
   studio: A-1 Pictures
   stations: Fuji TV
-  premiere: 2017-04-01T13:24:00+0900
+  premiere: 2017-04-14T00:55:00+0900
   season: 2
   episodes: 11+1
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11221'
@@ -339,7 +339,7 @@
 - name_ja: Sagrada Reset
   studio: david production
   stations: Tokyo MX
-  premiere: 2017-04-01T05:23:00+0900
+  premiere: 2017-04-05T23:30:00+0900
   episodes: 24
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12422'
   groups:
@@ -348,7 +348,7 @@
 - name_ja: Sakura Quest
   studio: P.A. Works
   stations: Tokyo MX / AT-X
-  premiere: 2017-04-01T05:24:00+0900
+  premiere: 2017-04-06T00:00:00+0900
   episodes: 25
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12602'
   groups:
@@ -357,7 +357,7 @@
 - name_ja: Seikaisuru Kado
   studio: Toei Animation
   stations: Tokyo MX
-  premiere: 2017-04-01T07:22:00+0900
+  premiere: 2017-04-07T22:30:00+0900
   episodes: 12+2
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11762'
   extra_info: 'Episódio 0 Especial: Amazon Prime - 04/06'
@@ -366,7 +366,7 @@
 - name_ja: Sekai no Yami Zukan
   studio: Studio ILCA
   stations: TV Tokyo
-  premiere: 2017-04-01T02:27:00+0900
+  premiere: 2017-04-03T03:35:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12947'
   is_short: true
   groups:
@@ -375,7 +375,7 @@
 - name_ja: 'Shingeki no Bahamut: Virgin Soul'
   studio: MAPPA
   stations: TBS
-  premiere: 2017-04-01T07:25:00+0900
+  premiere: 2017-04-08T01:55:00+0900
   season: 2
   episodes: 24
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11223'
@@ -386,7 +386,7 @@
 - name_ja: Shingeki no Kyojin 2
   studio: Wit Studio
   stations: Tokyo MX
-  premiere: 2017-04-01T01:22:00+0900
+  premiere: 2017-04-01T22:00:00+0900
   season: 2
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10944'
@@ -395,7 +395,7 @@
 - name_ja: 'Shounen Ashibe: Go! Go! Goma-chan 2'
   studio: Bridge
   stations: NHK-E
-  premiere: 2017-04-01T04:18:00+0900
+  premiere: 2017-04-04T18:45:00+0900
   season: 4
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12904'
   is_short: true
@@ -404,7 +404,7 @@
 - name_ja: Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?
   studio: Satelight / C2C
   stations: AT-X
-  premiere: 2017-04-01T11:23:00+0900
+  premiere: 2017-04-11T23:30:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12238'
   groups:
@@ -414,7 +414,7 @@
 - name_ja: Sin Nanatsu no Taizai
   studio: TNK / Artland
   stations: AT-X
-  premiere: 2017-04-01T14:24:00+0900
+  premiere: 2017-04-15T00:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12324'
   groups:
@@ -423,19 +423,19 @@
 - name_ja: Souryo to Majiwaru Shikiyoku no Yoru ni...
   studio: Seven
   stations: Tokyo MX
-  premiere: 2017-04-01T02:25:00+0900
+  premiere: 2017-04-03T01:00:00+0900
   episodes: 12+1
   is_short: true
 - name_ja: Soutai Sekai
   studio: Craftar
   stations: Hulu
-  premiere: 2017-04-02T04:00:00+0900
+  premiere: 2017-04-28T00:00:00+0900
   episodes: 2
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13040'
 - name_ja: Starmyu 2
   studio: C-Station
   stations: 'Tokyo MX, BS11, etc.'
-  premiere: 2017-04-01T03:24:00+0900
+  premiere: 2017-04-04T00:00:00+0900
   season: 2
   episodes: 12
   groups:
@@ -443,7 +443,7 @@
 - name_ja: Sword Oratoria
   studio: J.C. Staff
   stations: 'Tokyo MX, BS11, etc.'
-  premiere: 2017-04-01T14:24:00+0900
+  premiere: 2017-04-15T00:30:00+0900
   episodes: 12
   extra_info: Spinoff de Dungeon ni Deai o Motomeru no wa Machigatteiru no Darou ka?
   groups:
@@ -451,17 +451,17 @@
 - name_ja: The Snack World
   studio: OLM
   stations: TV Tokyo Nat. Net.
-  premiere: 2017-04-01T13:19:00+0900
+  premiere: 2017-04-13T19:25:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11180'
 - name_ja: 'Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu'
   studio: OLM
   stations: TBS Nat. Net.
-  premiere: 2017-04-01T15:07:00+0900
+  premiere: 2017-04-15T07:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12721'
 - name_ja: Tsugumomo
   studio: Zero-G
   stations: BS-Animax
-  premiere: 2017-04-01T02:23:00+0900
+  premiere: 2017-04-02T23:30:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12395'
   extra_info: 'Preview dos Eps. 1-2 indo ao ar em: AbemaTV - 04/02 @ 20:00'
@@ -470,14 +470,14 @@
 - name_ja: Tsuki ga Kirei
   studio: feel.
   stations: Tokyo MX
-  premiere: 2017-04-01T06:24:00+0900
+  premiere: 2017-04-07T00:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12761'
   groups:
     Crunchyroll: stream
 - name_ja: Twin Angel Break
   studio: J.C. Staff
   stations: Tokyo MX
-  premiere: 2017-04-01T07:22:00+0900
+  premiere: 2017-04-07T22:00:00+0900
   episodes: 12+1
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12253'
   extra_info: Spinoff de Kaitou Tenshi Twin Angel
@@ -486,7 +486,7 @@
 - name_ja: Uchouten Kazoku 2
   studio: P.A. Works
   stations: Tokyo MX
-  premiere: 2017-04-01T09:22:00+0900
+  premiere: 2017-04-09T22:00:00+0900
   season: 2
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12417'
@@ -495,7 +495,7 @@
 - name_ja: Warau Salesman New
   studio: Shin-Ei Animation
   stations: Tokyo MX
-  premiere: 2017-04-01T03:23:00+0900
+  premiere: 2017-04-03T23:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12655'
   extra_info: Bloco Anime no Me
   groups:
@@ -503,7 +503,7 @@
 - name_ja: World Fool News Part II
   studio: CoMix Wave Films
   stations: Gunma TV
-  premiere: 2017-04-01T02:18:00+0900
+  premiere: 2017-04-02T18:45:00+0900
   season: 2
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13071'
   is_short: true
@@ -512,12 +512,12 @@
 - name_ja: Yu-Gi-Oh! VRAINS
   studio: Studio Gallop
   stations: TV Tokyo Nat. Net.
-  premiere: 2017-05-01T10:18:00+0900
+  premiere: 2017-05-10T18:25:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12659'
 - name_ja: Yume Oukoku to Nemureru 100-nin no Ouji-sama Short Stories
   studio: Satelight
   stations: YouTube
-  premiere: 2017-03-02T01:12:00+0900
+  premiere: 2017-03-25T12:00:00+0900
   episodes: 10
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12363'
   is_short: true
@@ -525,7 +525,7 @@
 - name_ja: Zero kara Hajimeru Mahou no Sho
   studio: White Fox
   stations: AT-X
-  premiere: 2017-04-01T10:23:00+0900
+  premiere: 2017-04-10T23:30:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12450'
   groups:

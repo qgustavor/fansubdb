@@ -3,7 +3,7 @@
 - name_ja: 'Ameiro Cocoa: Rainy Color e Youkoso'
   studio: EMT Squared
   stations: Tokyo MX
-  premiere: 2015-10-01T04:22:00+0900
+  premiere: 2015-10-04T22:15:00+0900
   season: 2
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11338'
@@ -11,7 +11,7 @@
 - name_ja: Ani Tore! EX
   studio: Rising Force
   stations: Tokyo MX
-  premiere: 2015-10-01T12:25:00+0900
+  premiere: 2015-10-13T01:11:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11540'
   is_short: true
@@ -20,7 +20,7 @@
 - name_ja: Brave Beats
   studio: BN Pictures
   stations: TV Asahi Nat. Net.
-  premiere: 2015-10-01T11:07:00+0900
+  premiere: 2015-10-11T07:00:00+0900
   episodes: 22
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11573'
   groups:
@@ -28,7 +28,7 @@
 - name_ja: 'Cardfight!! Vanguard G: Gears Crisis Hen'
   studio: TMS Entertainment
   stations: TV Tokyo Nat. Net.
-  premiere: 2015-10-01T11:10:00+0900
+  premiere: 2015-10-11T10:00:00+0900
   season: 6
   episodes: 26
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11485'
@@ -37,7 +37,7 @@
 - name_ja: Comet Lucifer
   studio: 8bit
   stations: Tokyo MX
-  premiere: 2015-10-01T04:22:00+0900
+  premiere: 2015-10-04T22:30:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11453'
   groups:
@@ -46,12 +46,12 @@
 - name_ja: Concrete Revolutio
   studio: Bones
   stations: Tokyo MX
-  premiere: 2015-10-01T04:23:00+0900
+  premiere: 2015-10-04T23:00:00+0900
   episodes: 13
 - name_ja: Dance with Devils
   studio: Brain's Base
   stations: Tokyo MX
-  premiere: 2015-10-01T07:23:00+0900
+  premiere: 2015-10-07T23:30:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11067'
   groups:
@@ -59,7 +59,7 @@
 - name_ja: 'DD Hokuto no Ken 2: Ichigo Aji+'
   studio: Ajia-dou
   stations: TV Tokyo / TV Osaka
-  premiere: 2015-10-01T06:25:00+0900
+  premiere: 2015-10-07T01:35:00+0900
   season: 3
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11289'
@@ -68,7 +68,7 @@
 - name_ja: 'Diabolik Lovers More, Blood'
   studio: ZEXCS
   stations: AT-X
-  premiere: 2015-09-01T23:24:00+0900
+  premiere: 2015-09-24T00:30:00+0900
   season: 2
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11068'
@@ -79,7 +79,7 @@
 - name_ja: Fushigi na Somera-chan
   studio: Seven
   stations: AT-X
-  premiere: 2015-10-01T07:23:00+0900
+  premiere: 2015-10-07T23:55:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11172'
   is_short: true
@@ -88,7 +88,7 @@
 - name_ja: Gakusen Toshi Asterisk
   studio: A-1 Pictures
   stations: BS-Animax
-  premiere: 2015-10-01T03:20:00+0900
+  premiere: 2015-10-03T20:30:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11177'
   groups:
@@ -98,14 +98,14 @@
 - name_ja: 'Garo: Guren no Tsuki'
   studio: MAPPA
   stations: TV Tokyo/TV Hokkaido
-  premiere: 2015-10-01T09:25:00+0900
+  premiere: 2015-10-10T01:23:00+0900
   season: 2
   episodes: 26
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11459'
 - name_ja: Gochuumon wa Usagi Desuka??
   studio: Kinema Citrus / White Fox
   stations: AT-X
-  premiere: 2015-10-01T10:21:00+0900
+  premiere: 2015-10-10T21:30:00+0900
   season: 2
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11049'
@@ -114,7 +114,7 @@
 - name_ja: Hacka Doll the Animation
   studio: Studio Trigger / Creators in Pack
   stations: Tokyo MX
-  premiere: 2015-10-01T02:23:00+0900
+  premiere: 2015-10-02T23:00:00+0900
   episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11218'
   is_short: true
@@ -124,7 +124,7 @@
 - name_ja: Haikyuu!! 2
   studio: Production I.G
   stations: MBS
-  premiere: 2015-10-01T03:26:00+0900
+  premiere: 2015-10-04T02:58:00+0900
   season: 2
   episodes: 25
   groups:
@@ -132,7 +132,7 @@
 - name_ja: Heavy Object
   studio: J.C. Staff
   stations: Tokyo MX
-  premiere: 2015-10-01T02:24:00+0900
+  premiere: 2015-10-03T00:30:00+0900
   episodes: 24
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10864'
   groups:
@@ -141,7 +141,7 @@
 - name_ja: Hidan no Aria AA
   studio: Doga Kobo
   stations: AT-X
-  premiere: 2015-10-01T06:23:00+0900
+  premiere: 2015-10-06T23:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10980'
   extra_info: Spinoff de Hidan no Aria
@@ -151,7 +151,7 @@
 - name_ja: Itoshi no Muco (2015)
   studio: DLE
   stations: TV Tokyo
-  premiere: 2015-10-01T03:09:00+0900
+  premiere: 2015-10-03T09:17:00+0900
   season: 3
   episodes: 25
   is_short: true
@@ -160,7 +160,7 @@
 - name_ja: JK Meshi!
   studio: Kyotoma / Office Noble
   stations: Tokyo MX
-  premiere: 2015-10-01T05:25:00+0900
+  premiere: 2015-10-06T01:00:00+0900
   episodes: 26
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11578'
   is_short: true
@@ -169,7 +169,7 @@
 - name_ja: K Return of Kings
   studio: GoHands
   stations: TBS
-  premiere: 2015-10-01T02:25:00+0900
+  premiere: 2015-10-03T01:55:00+0900
   season: 2
   episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10929'
@@ -179,7 +179,7 @@
 - name_ja: Kagewani
   studio: ToMovies
   stations: Tokyo MX
-  premiere: 2015-10-01T02:23:00+0900
+  premiere: 2015-10-02T23:17:00+0900
   episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11173'
   is_short: true
@@ -190,12 +190,12 @@
 - name_ja: 'Kamisama Minarai: Himitsu no Cocotama'
   studio: OLM
   stations: TV Tokyo Nat. Net.
-  premiere: 2015-10-01T01:18:00+0900
+  premiere: 2015-10-01T18:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11293'
 - name_ja: Ketsuekigata-kun! 3
   studio: feel.
   stations: Tokyo MX
-  premiere: 2015-10-01T12:25:00+0900
+  premiere: 2015-10-13T01:08:00+0900
   season: 3
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11569'
@@ -203,7 +203,7 @@
 - name_ja: 'Kidou Senshi Gundam: Tekketsu no Orphans'
   studio: Sunrise
   stations: TBS Nat. Net.
-  premiere: 2015-10-01T04:17:00+0900
+  premiere: 2015-10-04T17:00:00+0900
   episodes: 25
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11372'
   groups:
@@ -211,7 +211,7 @@
 - name_ja: Kindaichi Shounen no Jikenbo Returns 2
   studio: Toei Animation
   stations: Nippon TV Nat. Net.
-  premiere: 2015-10-01T03:17:00+0900
+  premiere: 2015-10-03T17:30:00+0900
   season: 2
   episodes: 22
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11367'
@@ -220,7 +220,7 @@
 - name_ja: Komori-san wa Kotowarenai!
   studio: Art Land
   stations: Tokyo MX / Sun TV
-  premiere: 2015-10-01T04:22:00+0900
+  premiere: 2015-10-04T22:27:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11323'
   is_short: true
@@ -229,7 +229,7 @@
 - name_ja: Kowabon
   studio: Studio ILCA
   stations: KBC
-  premiere: 2015-10-01T03:25:00+0900
+  premiere: 2015-10-04T01:42:00+0900
   episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11284'
   is_short: true
@@ -238,7 +238,7 @@
 - name_ja: Lance N' Masques
   studio: Studio Gokumi
   stations: TBS
-  premiere: 2015-10-01T01:25:00+0900
+  premiere: 2015-10-02T01:46:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10622'
   groups:
@@ -246,7 +246,7 @@
 - name_ja: 'Lupin III: L''avventura Italiana'
   studio: Telecom Animation Film
   stations: Nippon TV
-  premiere: 2015-10-01T01:25:00+0900
+  premiere: 2015-10-02T01:29:00+0900
   episodes: 24
   extra_info: 4ª série
   groups:
@@ -254,7 +254,7 @@
 - name_ja: Miss Monochrome -The Animation- 3
   studio: Liden Films / Sanzigen
   stations: AT-X
-  premiere: 2015-10-01T02:22:00+0900
+  premiere: 2015-10-02T22:30:00+0900
   season: 3
   episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11553'
@@ -265,13 +265,13 @@
 - name_ja: Monster Strike
   studio: Studio Hibari
   stations: YouTube
-  premiere: 2015-10-01T10:19:00+0900
+  premiere: 2015-10-10T19:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11238'
   is_short: true
 - name_ja: Noragami Aragoto
   studio: Bones
   stations: Tokyo MX
-  premiere: 2015-10-01T02:25:00+0900
+  premiere: 2015-10-03T01:05:00+0900
   season: 2
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11170'
@@ -280,7 +280,7 @@
 - name_ja: One-Punch Man
   studio: Madhouse
   stations: TV Tokyo
-  premiere: 2015-10-01T04:25:00+0900
+  premiere: 2015-10-05T01:05:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11123'
   groups:
@@ -288,7 +288,7 @@
 - name_ja: Onsen Yousei Hakone-chan
   studio: Production Reed / Asahi Production
   stations: BS-Animax
-  premiere: 2015-10-01T04:20:00+0900
+  premiere: 2015-10-04T20:55:00+0900
   episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11342'
   is_short: true
@@ -297,13 +297,13 @@
 - name_ja: Ore ga Ojou-sama Gakkou ni "Shomin Sample" Toshite Gets-sareta Ken
   studio: Silver Link
   stations: AT-X
-  premiere: 2015-10-01T07:23:00+0900
+  premiere: 2015-10-07T23:30:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10729'
 - name_ja: Oshiri Kajiri Mushi 4
   studio: Kinema Citrus
   stations: NHK-BSP
-  premiere: 2015-10-01T05:18:00+0900
+  premiere: 2015-10-05T18:25:00+0900
   season: 4
   episodes: 10
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11684'
@@ -313,7 +313,7 @@
 - name_ja: Osomatsu-san
   studio: Studio Pierrot
   stations: TV Tokyo / TV Osaka
-  premiere: 2015-10-01T05:25:00+0900
+  premiere: 2015-10-06T01:35:00+0900
   season: 3
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11347'
@@ -323,14 +323,14 @@
 - name_ja: 'Owari no Seraph: Nagoya Kessen Hen'
   studio: Wit Studio
   stations: Tokyo MX
-  premiere: 2015-10-01T10:22:00+0900
+  premiere: 2015-10-10T22:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10984'
   extra_info: 'Cour 2 de 2, Recap da 1 Temporada: Tokyo MX - 10/3 @ 22:00'
 - name_ja: Owarimonogatari
   studio: SHAFT
   stations: Tokyo MX
-  premiere: 2015-10-01T03:24:00+0900
+  premiere: 2015-10-04T00:00:00+0900
   season: 4
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11350'
@@ -341,7 +341,7 @@
 - name_ja: 'Peeping Life TV: Season 1??'
   studio: Forest Hunting One / CoMix Wave Films
   stations: Nippon TV
-  premiere: 2015-10-01T03:27:00+0900
+  premiere: 2015-10-04T03:05:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11550'
   groups:
@@ -349,7 +349,7 @@
 - name_ja: Rakudai Kishi no Cavalry
   studio: Silver Link / Nexus
   stations: AT-X
-  premiere: 2015-10-01T03:23:00+0900
+  premiere: 2015-10-03T23:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11126'
   groups:
@@ -358,7 +358,7 @@
 - name_ja: Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru
   studio: TROYCA
   stations: Tokyo MX
-  premiere: 2015-10-01T07:24:00+0900
+  premiere: 2015-10-08T00:30:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11104'
   groups:
@@ -367,7 +367,7 @@
     Eternal Animes-Shinkai: active
 - name_ja: Shin Atashin'chi
   stations: BS-Animax
-  premiere: 2015-10-01T06:19:00+0900
+  premiere: 2015-10-06T19:00:00+0900
   season: 2
   episodes: 26
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11198'
@@ -376,14 +376,14 @@
 - name_ja: Shingeki! Kyojin Chuugakkou
   studio: Production I.G
   stations: MBS
-  premiere: 2015-10-01T03:25:00+0900
+  premiere: 2015-10-04T01:58:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11468'
   extra_info: Spinoff de Shingeki no Kyojin
 - name_ja: Shinmai Maou no Testament BURST
   studio: Production IMS
   stations: Tokyo MX
-  premiere: 2015-10-01T09:25:00+0900
+  premiere: 2015-10-10T01:40:00+0900
   season: 2
   episodes: 10
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11142'
@@ -393,7 +393,7 @@
 - name_ja: 'Soukyuu no Fafner: Dead Aggressor - Exodus Part 2'
   studio: XEBECzwei
   stations: TBS
-  premiere: 2015-10-01T02:26:00+0900
+  premiere: 2015-10-03T02:25:00+0900
   season: 2
   episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11176'
@@ -403,7 +403,7 @@
 - name_ja: Starmyu
   studio: C-Station
   stations: Tokyo MX
-  premiere: 2015-10-01T05:24:00+0900
+  premiere: 2015-10-06T00:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11144'
   groups:
@@ -411,7 +411,7 @@
 - name_ja: Subete ga F ni Naru
   studio: A-1 Pictures
   stations: Fuji TV
-  premiere: 2015-10-01T08:24:00+0900
+  premiere: 2015-10-09T00:55:00+0900
   episodes: 11
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10950'
   extra_info: Bloco noitaminA
@@ -422,7 +422,7 @@
 - name_ja: Taimadou Gakuen 35 Shiken Shoutai
   studio: Silver Link
   stations: Tokyo MX
-  premiere: 2015-10-01T07:25:00+0900
+  premiere: 2015-10-08T01:05:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10598'
   groups:
@@ -430,7 +430,7 @@
 - name_ja: 'Tantei Team KZ: Jiken Note'
   studio: Signal MD
   stations: NHK-E
-  premiere: 2015-10-01T07:18:00+0900
+  premiere: 2015-10-07T18:45:00+0900
   episodes: 16
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11363'
   is_short: true
@@ -439,7 +439,7 @@
 - name_ja: Teekyuu 6
   studio: Millepensee
   stations: Tokyo MX
-  premiere: 2015-10-01T05:25:00+0900
+  premiere: 2015-10-06T01:05:00+0900
   season: 6
   episodes: 12
   is_short: true
@@ -448,7 +448,7 @@
 - name_ja: 'Utawarerumono: Itsuwari no Kamen'
   studio: White Fox
   stations: Tokyo MX
-  premiere: 2015-10-01T03:25:00+0900
+  premiere: 2015-10-04T01:00:00+0900
   season: 2
   episodes: 25
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11272'
@@ -458,7 +458,7 @@
 - name_ja: Valkyrie Drive -Mermaid-
   studio: ARMS
   stations: AT-X
-  premiere: 2015-10-01T10:23:00+0900
+  premiere: 2015-10-10T23:30:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11148'
   groups:
@@ -466,7 +466,7 @@
 - name_ja: 'World Trigger: Toubousha Hen'
   studio: Toei Animation
   stations: TV Asahi Nat. Net.
-  premiere: 2015-10-01T11:06:00+0900
+  premiere: 2015-10-11T06:30:00+0900
   season: 2
   episodes: 34
   groups:
@@ -474,7 +474,7 @@
 - name_ja: Young Black Jack
   studio: Tezuka Productions
   stations: TBS
-  premiere: 2015-10-01T01:26:00+0900
+  premiere: 2015-10-02T02:16:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11226'
   extra_info: Antecede Black Jack
@@ -484,7 +484,7 @@
 - name_ja: Yuru Yuri Nachuyachumi!+
   studio: TYO Animations
   stations: TV Tokyo
-  premiere: 2015-09-01T17:26:00+0900
+  premiere: 2015-09-18T02:35:00+0900
   episodes: 2 de 2
   extra_info: Especial de TV
   groups:
@@ -492,7 +492,7 @@
 - name_ja: Yuru Yuri San Hai!
   studio: TYO Animations
   stations: TV Tokyo
-  premiere: 2015-10-01T05:26:00+0900
+  premiere: 2015-10-06T02:05:00+0900
   season: 3
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11124'
