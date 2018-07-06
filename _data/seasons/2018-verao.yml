@@ -1,13 +1,20 @@
-# Auto-converted from https://fansubdb.com/w/index.php?title=Summer_2018&oldid=22851
+# Auto-converted from https://fansubdb.com/w/index.php?title=Summer_2018&oldid=23082
 
+- name_ja: 'Aguu: Tensai Ningyou'
+  studio: Studio DEEN
+  stations: Tokyo MX / BS11
+  premiere: 2018-07-01T09:24:00+0900
 - name_ja: 'Angolmois: Genkou Kassenki'
   studio: NAZ
+  stations: Amazon Prime / SUN
+  premiere: 2018-07-01T10:24:00+0900
   groups:
     Crunchyroll: stream
     Infinite: planned
 - name_ja: Ani ni Tsukeru Kusuri wa Nai! 2
   studio: Fanworks
   stations: Tokyo MX
+  premiere: 2018-07-01T09:21:00+0900
   season: 2
   episodes: 24
   is_short: true
@@ -15,21 +22,29 @@
     Infinite: planned
 - name_ja: Aru Zombie Shoujo no Sainan
   studio: GONZO / Stingray
-  premiere: 2018-07-01T04:00:00+0900
+  premiere: 2018-07-01T03:24:00+0900
+  episodes: 1
+  extra_info: Especial de internet
   groups:
     Crunchyroll: stream
 - name_ja: Asobi Asobase
   studio: Lerche
   stations: AT-X
   premiere: 2018-07-01T08:21:00+0900
-- name_ja: Back Street Girls
+  groups:
+    Crunchyroll: stream
+- name_ja: 'Back Street Girls: Gokudolls'
   studio: J.C. Staff
   stations: BS11
   premiere: 2018-07-01T03:25:00+0900
   groups:
-    Infinite: planned
+    Netflix: stream
+
 - name_ja: Baki
   studio: TMS Entertainment
+  stations: Netflix
+  premiere: 2018-06-02T01:00:00+0900
+  episodes: 26
   groups:
     Netflix: stream
     Infinite: planned
@@ -44,21 +59,27 @@
   studio: Sanzigen
   stations: Tokyo MX
   premiere: 2018-07-01T05:23:00+0900
-  extra_info: 'Curta?'
+  is_short: true
 - name_ja: Chio-chan no Tsuugakuro
   studio: Diomedea
-  stations: 'Tokyo MX, etc.'
-  premiere: 2018-07-01T22:00:00+0900
+  stations: Tokyo MX
+  premiere: 2018-07-01T06:22:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13250'
+  groups:
+    Crunchyroll: stream
 - name_ja: Chuukan Kanriroku Tonegawa
   studio: Madhouse
   stations: Nippon TV
   premiere: 2018-07-01T03:25:00+0900
   episodes: 2-cour
   extra_info: 'Spinoff de Kaiji, Bloco AnichU'
+  groups:
+    Crunchyroll: stream
 - name_ja: Cinderella Girls Gekijou 3
   studio: Gathering
   stations: Tokyo MX / BS11
+  premiere: 2018-07-01T03:21:00+0900
   season: 3
   is_short: true
   groups:
@@ -67,22 +88,26 @@
 - name_ja: Dies Irae
   studio: ACGT
   stations: AbemaTV
+  premiere: 2018-07-01T01:17:00+0900
   episodes: 6
-  extra_info: Episódios 12 ao 17
+  extra_info: Episódios 12 ao 17, Todos os 6 episódios lançados juntos
   groups:
     Crunchyroll: stream
 - name_ja: 'Fate/Extra: Last Encore - Irusterias Tendouron'
   studio: SHAFT
-  stations: 'Tokyo MX, BS11, etc.'
+  stations: Tokyo MX / BS11
+  premiere: 2018-07-02T05:19:00+0900
   episodes: 1
   extra_info: 'Episódio 11 de Fate/Extra: Last Encore, Especial de TV'
   groups:
     Netflix: stream
 - name_ja: Free! Dive to the Future
   studio: Kyoto Animation
-  stations: Tokyo MX / ABC Asahi
+  stations: Tokyo MX
+  premiere: 2018-07-01T11:24:00+0900
   season: 3
-  episodes: 12
+  episodes: 12+1
+  extra_info: 'Especial de Preview - Tokyo MX - 07/04 @ 24:00'
   groups:
     Crunchyroll: stream
 - name_ja: Future Card Shin Buddyfight
@@ -95,11 +120,11 @@
 - name_ja: 'Gintama: Shirogane no Tamashii-hen 2'
   studio: Bandai Namco Pictures
   stations: TV Tokyo
-  premiere: 2018-07-09T01:35:00+0900
+  premiere: 2018-07-01T08:25:00+0900
   season: 6
   extra_info: 2º Cour
   groups:
-    Crunchyroll: rumor
+    Crunchyroll: stream
 - name_ja: Grand Blue
   studio: Zero-G
   stations: MBS / TBS
@@ -110,8 +135,9 @@
     Kirinashi: planned
 - name_ja: Hanebado!
   studio: Lidenfilms
-  stations: Tokyo MX / AT-X / BS11
+  stations: Tokyo MX / BS11
   premiere: 2018-07-01T01:24:00+0900
+  episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13783'
   groups:
     Crunchyroll: stream
@@ -124,6 +150,10 @@
     Eternal Animes: planned
 - name_ja: Harukana Receive
   studio: C2C
+  stations: AT-X
+  premiere: 2018-07-01T06:21:00+0900
+  groups:
+    Crunchyroll: stream
 - name_ja: Hataraku Onii-san! No 2!
   studio: ToMovies
   stations: Tokyo MX
@@ -134,7 +164,7 @@
     Crunchyroll: stream
 - name_ja: Hataraku Saibou
   studio: David Production
-  stations: 'Tokyo MX, BS11, etc.'
+  stations: Tokyo MX / BS11
   premiere: 2018-07-01T07:24:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13743'
   groups:
@@ -147,6 +177,7 @@
   studio: EMT Squared
   stations: Tokyo MX / BS11
   premiere: 2018-07-01T07:25:00+0900
+  episodes: 12
   groups:
     Crunchyroll: stream
 - name_ja: Isekai Maou to Shoukan Shoujo no Dorei Majutsu
@@ -154,17 +185,21 @@
   stations: AT-X
   premiere: 2018-07-01T05:21:00+0900
   groups:
+    Crunchyroll: stream
     Eternal Animes: planned
     Kirinashi: planned
 - name_ja: Island
   studio: feel.
+  stations: Tokyo MX
+  premiere: 2018-07-01T01:22:00+0900
+  episodes: 12
   groups:
     Crunchyroll: stream
     Eternal Animes: planned
 - name_ja: Jashin-chan Dropkick
   studio: Nomad
-  stations: BS-Fuji
-  premiere: 2018-07-01T09:24:00+0900
+  stations: Amazon Prime Video
+  premiere: 2018-07-01T09:22:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13637'
   groups:
     Aenianos: planned
@@ -172,27 +207,40 @@
   studio: ark
   stations: ComicFesta
   premiere: 2018-07-01T01:24:00+0900
+  episodes: 9
+  is_short: true
 - name_ja: Kyoto Teramachi Sanjou no Holmes
   studio: Seven
   stations: TV Tokyo / TV Osaka
   premiere: 2018-07-01T09:26:00+0900
+  groups:
+    Crunchyroll: stream
+- name_ja: 'Lord of Vermilion: Guren no Ou'
+  studio: Asread / tear-studio
+  stations: Tokyo MX
+  premiere: 2018-07-01T13:25:00+0900
+  groups:
+    Crunchyroll: stream
 - name_ja: Muhyo to Rouji no Mahouritsu Soudan Jimusho
-  stations: BS-SKY PerfecTV! / BS-Animax
+  studio: Studio DEEN
+  stations: BS-SKY PerfecTV!
+  premiere: 2018-08-01T03:21:00+0900
 - name_ja: One Room 2
   studio: Zero-G
   stations: Tokyo MX
   premiere: 2018-07-01T02:25:00+0900
   season: 2
+  episodes: 12
   is_short: true
+  groups:
+    Crunchyroll: stream
 - name_ja: Ongaku Shoujo
   studio: Studio DEEN
   stations: AT-X
   premiere: 2018-07-01T06:23:00+0900
-- name_ja: 'Oshiete Fairilu: Mahou no Pendulum'
-  studio: Studio DEEN
-  stations: TV Tokyo Nat. Net.
-  season: 3
-  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13811'
+  episodes: 12
+  groups:
+    Crunchyroll: stream
 - name_ja: 'Oshiete Mahou no Pendulum: Rilu Rilu Fairilu'
   studio: Studio DEEN
   stations: Kids Station
@@ -200,14 +248,15 @@
   season: 3
 - name_ja: Overlord III
   studio: Madhouse
-  stations: 'AT-X, Tokyo MX, etc.'
+  stations: AT-X
+  premiere: 2018-07-01T10:22:00+0900
   season: 3
   groups:
     Crunchyroll: stream
 - name_ja: Phantom in the Twilight
   studio: Lidenfilms
   stations: Tokyo MX / BS Fuji
-  premiere: 2018-07-10T00:30:00+0900
+  premiere: 2018-07-01T09:24:00+0900
   groups:
     Crunchyroll: stream
 - name_ja: Planet With
@@ -218,16 +267,24 @@
     Crunchyroll: stream
 - name_ja: Satsuriku no Tenshi
   studio: J.C. Staff
+  stations: AT-X
+  premiere: 2018-07-01T06:20:00+0900
+  episodes: 16
+  extra_info: Episódios 13 adiante apenas via internet
+  groups:
+    Crunchyroll: stream
 - name_ja: Senjuushi
   studio: TMS Entertainment
   stations: Tokyo MX
   premiere: 2018-07-01T03:23:00+0900
-  episodes: 1-cour
+  episodes: 12
+  groups:
+    HIDIVE: stream
 - name_ja: Shichisei no Subaru
   studio: Lerche
   stations: TBS
   premiere: 2018-07-01T05:25:00+0900
-  extra_info: Bloco TBS Thursday Late Night
+  extra_info: Bloco Animerico
   groups:
     Bakemono: planned
 - name_ja: Shingeki no Kyojin 3
@@ -241,6 +298,8 @@
     Crunchyroll: stream
 - name_ja: Shinya! Tensai Bakabon
   studio: Studio Pierrot+
+  stations: TV Tokyo / TV Osaka
+  premiere: 2018-07-01T10:25:00+0900
   groups:
     Crunchyroll: stream
 - name_ja: Shoujo Kageki Revue Starlight
@@ -248,26 +307,44 @@
   stations: TBS
   premiere: 2018-07-01T12:25:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13152'
-  extra_info: Bloco TBS Thursday Late Night
+  extra_info: Bloco Animerico
   groups:
+    HIDIVE: stream
     Kirinashi: planned
 - name_ja: Sunohara-sou no Kanrinin-san
   studio: Silver Link
+  stations: AT-X
+  premiere: 2018-07-01T05:21:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13589'
 - name_ja: 'Sword Gai: The Animation Part II'
   studio: Production I.G / DLE
   stations: Netflix
+  premiere: 2018-07-02T06:00:00+0900
   season: 2
+  extra_info: Todos os episódios lançados juntos
   groups:
     Netflix: stream
 - name_ja: 'Tenrou: Sirius the Jeager'
   studio: P.A. Works
+  stations: AT-X
+  premiere: 2018-07-01T12:23:00+0900
 - name_ja: Tsukumogami Kashimasu
   studio: Telecom Animation Film
   stations: NHK-G
+  premiere: 2018-07-01T22:24:00+0900
+- name_ja: Yakusoku no Nanaya Matsuri
+  studio: Yokohama Animation Lab
+  stations: YouTube
+  premiere: 2018-07-01T07:19:00+0900
+  episodes: 1
+  extra_info: Web Special
+  groups:
+    Crunchyroll: stream
 - name_ja: 'Yama no Susume: Third Season'
   studio: 8bit
-  stations: Tokyo MX / AT-X
+  stations: Tokyo MX
+  premiere: 2018-07-01T02:25:00+0900
   season: 3
   episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13205'
@@ -277,16 +354,25 @@
 - name_ja: Yami Shibai 6
   studio: Studio ILCA
   stations: TV Tokyo
+  premiere: 2018-07-01T06:28:00+0900
   season: 6
   is_short: true
   groups:
     Crunchyroll: stream
 - name_ja: Yume Oukoku to Nemureru 100-nin no Ouji-sama
+  studio: Project No. 9
+  stations: AT-X
+  premiere: 2018-07-01T05:22:00+0900
+  groups:
+    HIDIVE: stream
 - name_ja: Yuragi-sou no Yuuna-san
   studio: XEBEC
-  stations: 'Tokyo MX, BS11, etc.'
+  stations: Tokyo MX / BS11
+  premiere: 2018-07-01T14:23:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13552'
   groups:
+    Crunchyroll: stream
     Infinite: planned
 - name_ja: Zoids Wild
   studio: OLM
