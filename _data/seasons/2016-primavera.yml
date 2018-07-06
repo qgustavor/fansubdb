@@ -129,8 +129,6 @@
   premiere: 2016-04-02T08:00:00+0900
   season: 3
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11960'
-  groups:
-    Crunchyroll: stream
 - name_ja: Gakusen Toshi Asterisk 2
   studio: A-1 Pictures
   stations: BS-Animax
@@ -230,6 +228,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10951'
   extra_info: 'Bloco noitaminA, Preview do episódio 1 foi ao ar em: Amazon Prime - 04/06 @ 24:00'
   groups:
+    Amazon Prime Video: stream
     Eternal Animes: active
     Shinkai: active
     aprm-Diogo4D: active
@@ -414,6 +413,7 @@
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11783'
   groups:
+    Amazon Prime Video: stream
     Crunchyroll: stream
     Illuminati: active
 - name_ja: 'Terra Formars: Revenge'

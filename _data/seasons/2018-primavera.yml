@@ -356,6 +356,8 @@
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13424'
   extra_info: Bloco Animeism
+  groups:
+    Amazon Prime Video: stream
 - name_ja: Major 2nd
   studio: NHK Enterprises
   stations: NHK-E
@@ -563,6 +565,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13293'
   extra_info: Bloco noitaminA
   groups:
+    Amazon Prime Video: stream
     Infinite: active
     Mundo do Shoujo: active
 - name_ja: 'Youkai Watch: Shadow Side'

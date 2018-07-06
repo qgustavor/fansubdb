@@ -189,6 +189,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11997'
   extra_info: Bloco noitaminA
   groups:
+    Amazon Prime Video: stream
     Infinite: active
 - name_ja: Gakuen Handsome
   studio: Team YokkyuFuman
@@ -583,6 +584,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12264'
   extra_info: Spinoff de Mahou Shoujo Lyrical Nanoha ViVid
   groups:
+    Amazon Prime Video: stream
     Eternal Animes: active
 - name_ja: Watashi ga Motete Dousunda
   studio: Brain's Base

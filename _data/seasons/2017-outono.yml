@@ -55,7 +55,6 @@
   episodes: 10
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13217'
   groups:
-    HIDIVE: stream
     Infinite: active
 - name_ja: 'Cardfight!! Vanguard G: Z'
   studio: OLM
@@ -113,8 +112,6 @@
   episodes: 12
   extra_info: Bloco TBS Thursday Late Night
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12731'
-  groups:
-    HIDIVE: stream
 - name_ja: EVIL OR LIVE
   studio: Emon
   stations: Tokyo MX
@@ -384,7 +381,6 @@
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13256'
   groups:
-    HIDIVE: stream
     Aenianos: active
     Diogo4D: active
     Eternal Animes: active

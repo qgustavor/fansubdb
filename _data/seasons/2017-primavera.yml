@@ -144,8 +144,6 @@
   premiere: 2017-04-01T08:00:00+0900
   season: 4
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12766'
-  groups:
-    Crunchyroll: stream
 - name_ja: Gin no Guardian
   studio: Emon
   stations: Tokyo MX
@@ -343,7 +341,6 @@
   episodes: 24
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12422'
   groups:
-    HIDIVE: stream
     Eternal Animes: active
 - name_ja: Sakura Quest
   studio: P.A. Works

@@ -113,6 +113,7 @@
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10733'
   groups:
+    Amazon Prime Video: stream
     Crunchyroll: stream
     Diogo4D-Kanade: active
     Moshi Moshi: active
@@ -308,6 +309,7 @@
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10888'
   groups:
+    Amazon Prime Video: stream
     Hacchi-Shinkai: active
 - name_ja: Sore ga Seiyuu!
   studio: GONZO

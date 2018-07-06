@@ -104,8 +104,6 @@
   season: 2
   episodes: 50
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11077'
-  groups:
-    Crunchyroll: stream
 - name_ja: Gintama (2015)
   studio: Bandai Namco Pictures
   stations: TV Tokyo Nat. Net.
@@ -193,6 +191,7 @@
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10663'
   groups:
+    Amazon Prime Video: stream
     Shinkai: planned
 - name_ja: Kyoukai no Rinne
   studio: Brain's Base

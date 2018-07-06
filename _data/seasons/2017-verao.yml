@@ -15,8 +15,6 @@
   episodes: 12
   extra_info: Bloco TBS Thursday Late Night
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12746'
-  groups:
-    HIDIVE: stream
 - name_ja: Aho Girl
   studio: Diomedea
   stations: Tokyo MX
@@ -35,6 +33,7 @@
   episodes: 24
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12700'
   groups:
+    Amazon Prime Video: stream
     Ichiban: active
     Mundo do Shoujo: planned
 - name_ja: Battle Girl High School
@@ -43,8 +42,6 @@
   premiere: 2017-07-03T00:30:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12080'
-  groups:
-    HIDIVE: stream
 - name_ja: Centaur no Nayami
   studio: Emon
   stations: Tokyo MX
@@ -71,6 +68,7 @@
     @ 24:00
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12652'
   groups:
+    Amazon Prime Video: stream
     Atântida Sub: active
 - name_ja: Dream Festival! 2
   studio: Bandai Namco Pictures
@@ -131,7 +129,6 @@
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12266'
   groups:
-    HIDIVE: stream
     Peak Spider: active
 - name_ja: 'Ikemen Sengoku: Toki wo Kakeru ga Koi wa Hajimaranai'
   studio: Jinni's Animation Studio / TMS Entertainment
@@ -351,6 +348,8 @@
   episodes: 24
   extra_info: Bloco Animeism
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12651'
+  groups:
+    Amazon Prime Video: stream
 - name_ja: Skirt no Naka wa Kedamono deshita.
   studio: Magic Bus
   stations: ComicFesta
