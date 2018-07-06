@@ -3,22 +3,21 @@ layout: null
 ---
 
 var idx = lunr(function () {
-  this.field('title')
-  this.field('excerpt')
-  this.field('categories')
-  this.field('tags')
+  this.field('name')
+  this.field('name_pt')
   this.ref('id')
 
   this.pipeline.remove(lunr.trimmer)
 
-  for (var item in store) {
-    this.add({
-      title: store[item].title,
-      excerpt: store[item].excerpt,
-      categories: store[item].categories,
-      tags: store[item].tags,
-      id: item
-    })
+  for (var season in store) {
+    for (var i = 0; i < store[season].length; i++) {
+      this.add({
+        name: store[season][i].name,
+        name_pt: store[season][i].name_pt,
+        season: season,
+        id: season + '/' + store[season][i].name
+      })
+    }
   }
 });
 
@@ -43,33 +42,36 @@ $(document).ready(function() {
     resultdiv.empty();
     resultdiv.prepend('<p class="results__found">'+result.length+' {{ site.data.ui-text[site.locale].results_found | default: "Result(s) found" }}</p>');
     for (var item in result) {
-      var ref = result[item].ref;
-      if(store[ref].teaser){
-        var searchitem =
-          '<div class="list__item">'+
-            '<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">'+
-              '<h2 class="archive__item-title" itemprop="headline">'+
-                '<a href="'+store[ref].url+'" rel="permalink">'+store[ref].title+'</a>'+
-              '</h2>'+
-              '<div class="archive__item-teaser">'+
-                '<img src="'+store[ref].teaser+'" alt="">'+
-              '</div>'+
-              '<p class="archive__item-excerpt" itemprop="description">'+store[ref].excerpt.split(" ").splice(0,20).join(" ")+'...</p>'+
-            '</article>'+
-          '</div>';
+      var ref = result[item].ref.split('/');
+      var item = store[ref[0]].find(function (e) {
+        return e.name === ref[1];
+      });
+      var season = ref[0].split('-')
+      var details = $('<p class="archive__item-excerpt" itemprop="description">')
+        .text('Temporada de ' + (season[1] === 'verao' ? 'verão' : season[1]) + ' de ' + season[0] + ' - ')
+      if (item.groups) {
+        details.append('Disponível em ')
+        var groups = []
+        for (var group in item.groups) {
+          groups.push([group, item.groups[group]])
+        }
+        for (var i = 0; i < groups.length; i++) {
+          details.append(
+            $('<span>').addClass('season-' + groups[i][1]).text(groups[i][0]),
+            i === groups.length - 1 ? '.' : i === groups.length - 2 ? ' e ' : ', '
+          )
+        }
+      } else {
+        details.append('Nenhuma tradução foi encontrada.')
       }
-      else{
-    	  var searchitem =
-          '<div class="list__item">'+
-            '<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">'+
-              '<h2 class="archive__item-title" itemprop="headline">'+
-                '<a href="'+store[ref].url+'" rel="permalink">'+store[ref].title+'</a>'+
-              '</h2>'+
-              '<p class="archive__item-excerpt" itemprop="description">'+store[ref].excerpt.split(" ").splice(0,20).join(" ")+'...</p>'+
-            '</article>'+
-          '</div>';
-      }
-      resultdiv.append(searchitem);
+    	$('<div class="list__item">').append(
+        $('<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">').append(
+          $('<h2 class="archive__item-title" itemprop="headline">').append(
+            $('<a rel="permalink">').attr('href', ref[0] + '#' + item.name.toLowerCase().replace(/\W/g, '-')).text(item.name)
+          ),
+          details
+        )
+      ).appendTo(resultdiv);
     }
   });
 });
