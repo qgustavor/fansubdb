@@ -73,10 +73,10 @@
                 <label for="comment-form-url">{{ site.data.ui-text[site.locale].comment_form_website_label | default: "Website (optional)" }}</label>
                 <input type="url" id="comment-form-url" name="fields[url]" tabindex="4"/>
               </div>
-              <div class="form-group hidden" style="display: none;">
+              <div class="form-group hidden" style="display/* display: block; */:none">
                 <input type="hidden" name="options[slug]" value="{{ page.slug }}">
-                <label for="comment-form-location">Not used. Leave blank if you are a human.</label>
-                <input type="text" id="comment-form-location" name="fields[hidden]" autocomplete="off"/>
+                <label for="age-verification">Se você conseguir ler ou estiver ouvindo isso algo está errado.</label>
+                <input type="number" id="age-verification" name="fields[age]" autocomplete="off"/>
                 <input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">
                 <input type="hidden" name="options[reCaptcha][secret]" value="{{ site.reCaptcha.secret }}">
               </div>
@@ -131,7 +131,7 @@
               <div class="form-group">
                 <label for="comment-form-message">{{ site.data.ui-text[site.locale].comment_form_comment_label | default: "Comment" }} <small class="required">*</small></label>
                 <textarea type="text" rows="3" id="comment-form-message" name="fields[message]" tabindex="1"></textarea>
-                <div class="small help-block"><a href="https://docs.microsoft.com/pt-br/contribute/help-crr/help-content/contribute/contribute-how-to-write-use-markdown#markdown-basics">{{ site.data.ui-text[site.locale].comment_form_md_info | default: "Markdown is supported." }}</a></div>
+                <div class="small help-block"><a href="https://docs.microsoft.com/pt-br/contribute/how-to-write-use-markdown#markdown-basics">{{ site.data.ui-text[site.locale].comment_form_md_info | default: "Markdown is supported." }}</a></div>
               </div>
               <div class="form-group">
                 <label for="comment-form-name">{{ site.data.ui-text[site.locale].comment_form_name_label | default: "Name" }} <small class="required">*</small></label>
@@ -145,10 +145,10 @@
                 <label for="comment-form-url">{{ site.data.ui-text[site.locale].comment_form_website_label | default: "Website (optional)" }}</label>
                 <input type="url" id="comment-form-url" name="fields[url]" tabindex="4"/>
               </div>
-              <div class="form-group hidden" style="display: none;">
+              <div class="form-group" style="display/* display: block; */:none">
                 <input type="hidden" name="options[slug]" value="{{ page.slug }}">
-                <label for="comment-form-location">Not used. Leave blank if you are a human.</label>
-                <input type="text" id="comment-form-location" name="fields[hidden]" autocomplete="off"/>
+                <label for="age-verification">Se você conseguir ler ou estiver ouvindo isso algo está errado.</label>
+                <input type="number" id="age-verification" name="fields[age]" autocomplete="off"/>
               </div>
               <!-- Start comment form alert messaging -->
               <p class="hidden js-notice">
