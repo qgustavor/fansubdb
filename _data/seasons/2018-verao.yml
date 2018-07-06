@@ -48,7 +48,7 @@
 - name_ja: Chio-chan no Tsuugakuro
   studio: Diomedea
   stations: 'Tokyo MX, etc.'
-  premiere: 2018-07-01T06:00:00+0900
+  premiere: 2018-07-01T22:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13250'
 - name_ja: Chuukan Kanriroku Tonegawa
   studio: Madhouse
@@ -68,6 +68,7 @@
   studio: ACGT
   stations: AbemaTV
   episodes: 6
+  extra_info: Episódios 12 ao 17
   groups:
     Crunchyroll: stream
 - name_ja: 'Fate/Extra: Last Encore - Irusterias Tendouron'
@@ -94,10 +95,11 @@
 - name_ja: 'Gintama: Shirogane no Tamashii-hen 2'
   studio: Bandai Namco Pictures
   stations: TV Tokyo
+  premiere: 2018-07-09T01:35:00+0900
   season: 6
   extra_info: 2º Cour
   groups:
-    Crunchyroll: stream
+    Crunchyroll: rumor
 - name_ja: Grand Blue
   studio: Zero-G
   stations: MBS / TBS
@@ -111,6 +113,8 @@
   stations: Tokyo MX / AT-X / BS11
   premiere: 2018-07-01T01:24:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13783'
+  groups:
+    Crunchyroll: stream
 - name_ja: Happy Sugar Life
   studio: Ezo'la
   stations: MBS / TBS

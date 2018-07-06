@@ -48,6 +48,8 @@
   stations: MBS / TBS
   premiere: 2018-01-13T01:55+0900
   episodes: 24
+  groups:
+    Amazon Prime Video: stream
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13500'
 - name_ja: 'Cardcaptor Sakura: Clear Card-hen'
   season: 2
@@ -290,6 +292,8 @@
   premiere: 2018-01-13T02:25+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12888'
+  groups:
+    Amazon Prime Video: stream
 - name_ja: Koi wa Ameagari no You ni
   name_pt: O Amor é Como o Fim de Uma Chuva
   studio: Wit Studio
@@ -306,6 +310,7 @@
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13513'
   groups:
+    Amazon Prime Video: stream
     Eternal Animes: active
 - name_ja: Mame Neko
   is_short: true
