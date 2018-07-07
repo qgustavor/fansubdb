@@ -69,7 +69,9 @@ $(document).ready(function() {
     	$('<div class="list__item">').append(
         $('<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">').append(
           $('<h2 class="archive__item-title" itemprop="headline">').append(
-            $('<a rel="permalink">').attr('href', ref[0] + '#' + item.name.toLowerCase().replace(/\W/g, '-')).text(item.name),
+            $('<a rel="permalink">')
+              .attr('href', ref[0] + '#' + item.name.toLowerCase().replace(/\W+/g, '-').replace(/^-+|-+$/g, ''))
+              .text(item.name),
           ),
           details
         )
