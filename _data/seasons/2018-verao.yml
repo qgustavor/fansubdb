@@ -39,7 +39,7 @@
   premiere: 2018-07-01T03:25:00+0900
   groups:
     Netflix: stream
-
+    Infinite: active
 - name_ja: Baki
   studio: TMS Entertainment
   stations: Netflix
@@ -55,6 +55,8 @@
   episodes: 24
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13536'
   extra_info: Bloco noitaminA
+  groups:
+    Aenianos: active
 - name_ja: Bang Dream! Garupa Pico
   studio: Sanzigen
   stations: Tokyo MX
@@ -139,6 +141,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13783'
   groups:
     Crunchyroll: stream
+    Ichiban-Kirinashi: active
 - name_ja: Happy Sugar Life
   studio: Ezo'la
   stations: MBS / TBS
@@ -371,7 +374,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13552'
   groups:
     Crunchyroll: stream
-    Infinite: planned
+    Infinite: active
 - name_ja: Zoids Wild
   studio: OLM
   stations: TBS Nat. Net.
