@@ -14,8 +14,7 @@ var idx = lunr(function () {
       this.add({
         name: store[season][i].name,
         name_pt: store[season][i].name_pt,
-        season: season,
-        id: season + '/' + store[season][i].name
+        id: season + '/' + i
       })
     }
   }
@@ -39,33 +38,38 @@ $(document).ready(function() {
       });
     resultdiv.empty();
     resultdiv.prepend('<p class="results__found">'+result.length+' {{ site.data.ui-text[site.locale].results_found | default: "Result(s) found" }}</p>');
+
     for (var item in result) {
       var ref = result[item].ref.split('/');
-      var item = store[ref[0]].find(function (e) {
-        return e.name === ref[1];
-      });
-      var season = ref[0].split('-')
+      var item = store[ref[0]][ref[1]];
+      var season = ref[0].split('-');
       var details = $('<p class="archive__item-excerpt" itemprop="description">')
-        .text('Temporada de ' + (season[1] === 'verao' ? 'verão' : season[1]) + ' de ' + season[0] + ' - ')
+        .text('Temporada de ' + (season[1] === 'verao' ? 'verão' : season[1]) + ' de ' + season[0] + ' - ');
+
+      if (item.name_pt) {
+        details.prepend($('<em>').text(item.name_pt), '<br>')
+      }
+
       if (item.groups) {
         details.append('Disponível em ')
-        var groups = []
+        var groups = [];
         for (var group in item.groups) {
-          groups.push([group, item.groups[group]])
+          groups.push([group, item.groups[group]]);
         }
         for (var i = 0; i < groups.length; i++) {
           details.append(
             $('<span>').addClass('season-' + groups[i][1]).text(groups[i][0]),
             i === groups.length - 1 ? '.' : i === groups.length - 2 ? ' e ' : ', '
-          )
+          );
         }
       } else {
-        details.append('Nenhuma tradução foi encontrada.')
+        details.append('Nenhuma tradução foi encontrada.');
       }
+
     	$('<div class="list__item">').append(
         $('<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">').append(
           $('<h2 class="archive__item-title" itemprop="headline">').append(
-            $('<a rel="permalink">').attr('href', ref[0] + '#' + item.name.toLowerCase().replace(/\W/g, '-')).text(item.name)
+            $('<a rel="permalink">').attr('href', ref[0] + '#' + item.name.toLowerCase().replace(/\W/g, '-')).text(item.name),
           ),
           details
         )
