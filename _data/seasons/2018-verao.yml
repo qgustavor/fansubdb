@@ -1,4 +1,4 @@
-# Auto-converted from https://fansubdb.com/w/index.php?title=Summer_2018&oldid=23082
+# Auto-converted from https://fansubdb.com/w/index.php?title=Summer_2018&oldid=23119
 
 - name_ja: 'Aguu: Tensai Ningyou'
   studio: Studio DEEN
@@ -8,6 +8,7 @@
   studio: NAZ
   stations: Amazon Prime / SUN
   premiere: 2018-07-01T10:24:00+0900
+  episodes: 12
   groups:
     Crunchyroll: stream
     Infinite: planned
@@ -131,6 +132,7 @@
   premiere: 2018-07-01T13:26:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13734'
   extra_info: Bloco Animeism
+  episodes: 12
   groups:
     Kirinashi: planned
 - name_ja: Hanebado!
@@ -153,6 +155,7 @@
   studio: C2C
   stations: AT-X
   premiere: 2018-07-01T06:21:00+0900
+  episodes: 12
   groups:
     Crunchyroll: stream
     Ichiban: active
@@ -161,6 +164,7 @@
   stations: Tokyo MX
   premiere: 2018-07-01T06:21:00+0900
   season: 2
+  episodes: 13
   is_short: true
   groups:
     Crunchyroll: stream
@@ -182,6 +186,7 @@
   episodes: 12
   groups:
     Crunchyroll: stream
+    Netflix: rumor
 - name_ja: Isekai Maou to Shoukan Shoujo no Dorei Majutsu
   studio: Ajia-dou
   stations: AT-X
@@ -220,6 +225,7 @@
   studio: Asread / tear-studio
   stations: Tokyo MX
   premiere: 2018-07-01T13:25:00+0900
+  episodes: 12
   groups:
     Crunchyroll: stream
 - name_ja: Muhyo to Rouji no Mahouritsu Soudan Jimusho
@@ -264,6 +270,7 @@
   studio: J.C. Staff
   stations: Tokyo MX
   premiere: 2018-07-01T08:22:00+0900
+  episodes: 12
   groups:
     Crunchyroll: stream
 - name_ja: Satsuriku no Tenshi
@@ -301,6 +308,7 @@
   studio: Studio Pierrot+
   stations: TV Tokyo / TV Osaka
   premiere: 2018-07-01T10:25:00+0900
+  episodes: 12
   groups:
     Crunchyroll: stream
 - name_ja: Shoujo Kageki Revue Starlight
@@ -330,6 +338,8 @@
   studio: P.A. Works
   stations: AT-X
   premiere: 2018-07-01T12:23:00+0900
+  groups:
+    Netflix: rumor
 - name_ja: Tsukumogami Kashimasu
   studio: Telecom Animation Film
   stations: NHK-G
@@ -364,6 +374,7 @@
   studio: Project No. 9
   stations: AT-X
   premiere: 2018-07-01T05:22:00+0900
+  episodes: 12
   groups:
     HIDIVE: stream
 - name_ja: Yuragi-sou no Yuuna-san
