@@ -330,6 +330,8 @@
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10984'
   extra_info: 'Cour 2 de 2, Recap da 1 Temporada: Tokyo MX - 10/3 @ 22:00'
+  groups:
+    Planime: active
 - name_ja: Owarimonogatari
   studio: SHAFT
   stations: Tokyo MX
