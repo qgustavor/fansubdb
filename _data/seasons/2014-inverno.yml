@@ -16,7 +16,6 @@
   season: 2
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10846'
-  extra_info: 'Especial de Preview: Tokyo MX / BS11 - 1/3 @ 24:00'
   groups:
     Crunchyroll: stream
     Eternal Animes: active

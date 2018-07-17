@@ -224,7 +224,6 @@
   premiere: 2016-07-12T00:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11803'
-  extra_info: 'Especial de Preview: Tokyo MX - 07/04 @ 24:00'
   groups:
     Crunchyroll: stream
 - name_ja: 'Nanatsu no Taizai: Seisen no Shirushi'
