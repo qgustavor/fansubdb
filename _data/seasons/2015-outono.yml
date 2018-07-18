@@ -330,7 +330,7 @@
   premiere: 2015-10-10T22:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10984'
-  extra_info: 'Cour 2 de 2, Recap da 1 Temporada: Tokyo MX - 10/3 @ 22:00'
+  extra_info: 'Cour 2 de 2'
   groups:
     Planime: active
 - name_ja: Owarimonogatari

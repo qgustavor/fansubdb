@@ -55,7 +55,7 @@
   stations: Tokyo MX
   premiere: 2014-04-06T23:00:00+0900
   episodes: 12
-  extra_info: Recompilation of movies with additional scenes
+  extra_info: Recompilação de filmes com cenas adicionais
   groups:
     Crunchyroll: stream
 - name_ja: Captain Earth
@@ -96,7 +96,7 @@
   stations: Fuji TV Nat. Net.
   premiere: 2014-04-06T09:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10452'
-  extra_info: Series Continuation
+  extra_info: Continuação da série
 - name_ja: Dragon Collection
   stations: TV Tokyo Nat. Net.
   premiere: 2014-04-07T18:15:00+0900
@@ -121,7 +121,7 @@
   studio: A-1 Pictures / Bridge
   stations: TV Tokyo Nat. Net.
   premiere: 2014-04-05T10:30:00+0900
-  extra_info: Series Continuation
+  extra_info: Continuação da série
   groups:
     Crunchyroll: stream
 - name_ja: Fuuun Ishin Dai Shougun
@@ -190,7 +190,6 @@
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10398'
   is_short: true
-  extra_info: 'Especial de Preview: TV Saitama - 04/03 @ 25:00'
   groups:
     Crunchyroll: stream
     Diogo4D: active
@@ -396,7 +395,6 @@
   season: 2
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10135'
   is_short: true
-  extra_info: New Episodes Every Weekday
 - name_ja: Ryuugajou Nanana no Maizoukin
   studio: A-1 Pictures
   stations: Fuji TV

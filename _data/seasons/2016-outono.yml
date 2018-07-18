@@ -517,6 +517,7 @@
   is_short: true
   groups:
     Crunchyroll: stream
+    Lolisub: active
 - name_ja: Tiger Mask W
   studio: Toei Animation
   stations: TV Asahi

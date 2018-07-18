@@ -7,7 +7,7 @@
   episodes: 50
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10727'
   is_short: true
-  extra_info: Airs Every Weekday
+  extra_info: Os episódios foram ao ar durante todos os dias da semana
 - name_ja: Aikatsu! 3
   studio: Sunrise
   stations: TV Tokyo Nat. Net.
@@ -106,7 +106,7 @@
   premiere: 2014-10-05T00:00:00+0900
   episodes: 1-cour
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9977'
-  extra_info: Remake de 2014
+  extra_info: Remake
   groups:
     Crunchyroll: stream
     Netflix: stream
@@ -400,9 +400,7 @@
   premiere: 2014-10-22T00:00:00+0900
   episodes: 10
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10785'
-  extra_info: >-
-    Spinoff de Wake Up, Girls!, Preview indo ao ar em: Episódio 1 - Youtube -
-    9/5
+  extra_info: 'Spinoff de Wake Up, Girls!'
 - name_ja: World Trigger
   studio: Toei Animation
   stations: TV Asahi Nat. Net.

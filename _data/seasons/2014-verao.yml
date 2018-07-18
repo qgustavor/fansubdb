@@ -299,6 +299,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9999'
   groups:
     Crunchyroll: stream
+    BTR: active
     Bakemono-Diogo4D: active
 - name_ja: 'Sengoku Basara: Judge End'
   studio: Telecom Animation Film

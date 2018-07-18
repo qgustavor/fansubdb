@@ -63,9 +63,7 @@
   stations: Fuji TV
   premiere: 2017-07-07T00:55:00+0900
   episodes: 12
-  extra_info: >-
-    Bloco noitaminA, Preview do Episódio 1 indo ao ar em - Amazon Prime - 07/05
-    @ 24:00
+  extra_info: Bloco noitaminA
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12652'
   groups:
     Amazon Prime Video: stream

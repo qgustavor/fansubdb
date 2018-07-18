@@ -71,7 +71,6 @@
   premiere: 2015-01-09T22:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11761'
-  extra_info: 'Preview do Especial: Tokyo MX - 01/02 @ 22:00'
   groups:
     Crunchyroll: stream
 - name_ja: Dagashi Kashi
@@ -218,7 +217,6 @@
   premiere: 2015-01-09T22:30:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11780'
-  extra_info: 'Preview do episódio 1 foi ao ar em: Tokyo MX - 12/31 @ 19:00'
   groups:
     Crunchyroll: stream
     Lolisub-The Motion Picture: active
@@ -291,7 +289,6 @@
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11322'
   is_short: true
-  extra_info: 'Preview do especial: TV Saitama - 12/31 @ 25:00'
   groups:
     Crunchyroll: stream
     Grilo Sub: active
@@ -338,7 +335,6 @@
   premiere: 2015-01-09T00:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11784'
-  extra_info: 'Preview do especial: AT-X - 12/29 @ 23:00'
 - name_ja: 'Rilu Rilu Fairilu: Yousei no Door'
   studio: Studio DEEN
   stations: TV Osaka

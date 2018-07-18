@@ -27,7 +27,6 @@
   premiere: 2016-04-05T00:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11253'
-  extra_info: 'Preview do episódio 1 foi ao ar em: Amazon Prime - 04/03 @ 24:00'
   groups:
     Crunchyroll: stream
 - name_ja: 'Battle Spirits: Double Drive'
@@ -226,7 +225,7 @@
   premiere: 2016-04-08T00:25:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10951'
-  extra_info: 'Bloco noitaminA, Preview do episódio 1 foi ao ar em: Amazon Prime - 04/06 @ 24:00'
+  extra_info: Bloco noitaminA
   groups:
     Amazon Prime Video: stream
     Eternal Animes: active
@@ -261,7 +260,6 @@
   premiere: 2016-04-03T22:30:00+0900
   episodes: 26
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10569'
-  extra_info: 'Preview do episódio 1 foi ao ar em: Tokyo MX / BS11 - 12/31 @ 18:00'
 - name_ja: 'Magi: Sinbad no Bouken (TV)'
   studio: Lay-Duce
   stations: TBS

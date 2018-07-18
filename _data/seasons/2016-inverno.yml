@@ -98,7 +98,6 @@
   premiere: 2016-01-08T00:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12374'
-  extra_info: 'Preview do Episódio 1 indo ao ar em: Amazon Prime - 01/06'
   groups:
     Crunchyroll: stream
     HTT: active

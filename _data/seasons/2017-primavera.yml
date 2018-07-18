@@ -60,7 +60,6 @@
   season: 2
   episodes: 25
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12233'
-  extra_info: 'Recap da 1ª Temporada: 03/25'
   groups:
     Crunchyroll: stream
     Aenianos: active
@@ -158,7 +157,6 @@
   premiere: 2017-04-02T00:00:00+0900
   episodes: 14
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11597'
-  extra_info: 'Especiais Eps. 1-2: Tokyo MX - 01/21 @ 19:00'
   groups:
     Crunchyroll: stream
     Eternal Animes: active
@@ -177,7 +175,6 @@
   premiere: 2017-04-07T21:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12349'
-  extra_info: 'Episódio 1 Preview indo ao ar em: AbemaTV - 03/26 @ 24:30'
   groups:
     Crunchyroll: stream
     Lolisub: active
@@ -331,7 +328,7 @@
   season: 2
   episodes: 11+1
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11221'
-  extra_info: 'Bloco noitaminA, Episódio 0 Especial: Amazon Prime - 04/05'
+  extra_info: Bloco noitaminA
   groups:
     Lolisub: dropped-active
 - name_ja: Sagrada Reset
@@ -357,7 +354,6 @@
   premiere: 2017-04-07T22:30:00+0900
   episodes: 12+2
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11762'
-  extra_info: 'Episódio 0 Especial: Amazon Prime - 04/06'
   groups:
     Crunchyroll: stream
 - name_ja: Sekai no Yami Zukan
@@ -461,7 +457,6 @@
   premiere: 2017-04-02T23:30:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12395'
-  extra_info: 'Preview dos Eps. 1-2 indo ao ar em: AbemaTV - 04/02 @ 20:00'
   groups:
     Crunchyroll: stream
 - name_ja: Tsuki ga Kirei
