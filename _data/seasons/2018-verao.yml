@@ -278,9 +278,10 @@
   stations: AT-X
   premiere: 2018-07-01T06:20:00+0900
   episodes: 16
-  extra_info: Episódios 13 adiante apenas via internet
+  extra_info: A partir do episódio 13 apenas via internet
   groups:
     Crunchyroll: stream
+    Diogo4D: active
 - name_ja: Senjuushi
   studio: TMS Entertainment
   stations: Tokyo MX
