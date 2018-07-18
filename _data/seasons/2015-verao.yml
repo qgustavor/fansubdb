@@ -105,6 +105,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10697'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
     Diogo4D-Kanade: active
 - name_ja: Gangsta.
   studio: Manglobe
@@ -135,6 +136,7 @@
   extra_info: Cour 1 de 2
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
 - name_ja: God Eater (TV)
   studio: ufotable
   stations: Tokyo MX
@@ -162,6 +164,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10972'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
     Aenianos: active
 - name_ja: Jitsu wa Watashi wa
   studio: TMS Entertainment
@@ -245,6 +248,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11130'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
     Diogo4D: active
 - name_ja: Non Non Biyori Repeat
   studio: Silver Link
@@ -358,6 +362,7 @@
   extra_info: '2ª Temporada: Primavera de 2016'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
     The Motion Picture: active
 - name_ja: VENUS PROJECT
   studio: NOMAD
@@ -374,6 +379,7 @@
   extra_info: Parte do bloco Ultra Super Anime Time
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
     The Motion Picture: active
 - name_ja: Wakako-zake
   studio: studio office DCI

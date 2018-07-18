@@ -130,6 +130,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12088'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
 - name_ja: Furusato Meguri Nippon no Mukashibanashi
   studio: Tomason
   stations: TV Tokyo Nat. Net.
@@ -440,6 +441,7 @@
   episodes: 12
   extra_info: Spinoff de Dungeon ni Deai o Motomeru no wa Machigatteiru no Darou ka?
   groups:
+    HIDIVE: stream
     Eternal Animes: active
 - name_ja: The Snack World
   studio: OLM
@@ -521,5 +523,6 @@
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12450'
   groups:
+    HIDIVE: stream
     Aenianos-Eternal Animes: active
     

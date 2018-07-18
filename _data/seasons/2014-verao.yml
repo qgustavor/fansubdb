@@ -17,6 +17,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10407'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
     Eternal Animes-Moshi Moshi: active
 - name_ja: Aldnoah.Zero
   studio: A-1 Pictures / TROYCA
@@ -45,6 +46,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10505'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
 - name_ja: Barakamon
   studio: Kinema Citrus
   stations: Nippon TV
@@ -103,6 +105,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10542'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
     Eternal Animes: active
     Mundo do Shoujo: active
 - name_ja: Glasslip
@@ -210,6 +213,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10403'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
 - name_ja: 'Mushishi Zoku Shou: Odoro no Michi'
   studio: Artland
   stations: BS11
@@ -282,6 +286,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10041'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
     Ichiban: active
 - name_ja: Sailor Moon Crystal
   studio: Toei Animation
@@ -347,6 +352,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10376'
   groups:
     Crunchyroll: stream
+    Netflix: stream
     Owari: active
 - name_ja: Tokyo ESP
   studio: Xebec
@@ -389,4 +395,5 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10537'
   extra_info: Bloco noitaminA
   groups:
+    Netflix: stream
     Diogo4D: active

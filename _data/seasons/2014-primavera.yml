@@ -66,6 +66,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10067'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
 - name_ja: Cardfight Vanguard Legion Mate-hen
   studio: TMS Entertainment
   stations: TV Tokyo Nat. Net.
@@ -149,6 +150,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10262'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
 - name_ja: Gokukoku no Brynhildr
   studio: ARMS
   stations: Tokyo MX
@@ -310,6 +312,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10182'
   groups:
     Crunchyroll: stream
+    Netflix: stream
 - name_ja: Majin Bone
   studio: Toei Animation
   stations: TV Tokyo Nat. Net.
@@ -326,6 +329,7 @@
   is_short: true
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
     Diogo4D: active
 - name_ja: Mekaku City Actors
   studio: SHAFT
@@ -350,6 +354,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10384'
   groups:
     Crunchyroll: stream
+    Netflix: stream
     Shinonome-The Motion Picture: active
 - name_ja: Nandaka Velonica
   studio: Cyclone Graphics
@@ -365,6 +370,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9998'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
 - name_ja: Oreca Battle
   stations: TV Tokyo Nat. Net.
   premiere: 2014-04-07T18:00:00+0900

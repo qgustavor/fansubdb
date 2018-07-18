@@ -145,6 +145,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11344'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
 - name_ja: 'Danganronpa 3: -The End of Kibougamine Gakuen- Kibou-hen'
   studio: Lerche
   stations: Tokyo MX / AT-X
@@ -181,6 +182,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12007'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
 - name_ja: Fune wo Amu
   studio: ZEXCS
   stations: Fuji TV

@@ -119,6 +119,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11469'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
     Fate4Anime: active
     Lolicons Anônimos: active
     Lolisub: active
@@ -356,6 +357,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11881'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
     MadSaint: active
 - name_ja: Sansha Sanyou
   studio: Doga Kobo

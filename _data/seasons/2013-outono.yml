@@ -41,6 +41,7 @@
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9717'
   groups:
+    Netflix: stream
     Koisuru-Wasureteta: active
     Mundo do Shoujo-ShiFansub: active
 - name_ja: Freezing Vibration
@@ -80,6 +81,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9771'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
     Kazenoken: active
 - name_ja: Gundam Build Fighters
   studio: Sunrise
@@ -129,6 +131,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9875'
   groups:
     Crunchyroll: stream
+    Netflix: stream
 - name_ja: 'Koroshiya-san: The Hired Gun'
   studio: OperaHouse
   stations: TV Saitama
@@ -180,6 +183,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9677'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
     Eternal Animes: active
 - name_ja: 'Lupin Sansei: Princess of the Breeze - Kakusareta Kuuchuu Toshi'
   studio: TMS Entertainment
@@ -196,6 +200,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9807'
   groups:
     Crunchyroll: stream
+    Netflix: stream
 - name_ja: Meganebu!
   studio: Studio DEEN
   stations: Tokyo MX

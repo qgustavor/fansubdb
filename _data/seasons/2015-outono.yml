@@ -42,6 +42,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11453'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
     Eternal Animes: active
 - name_ja: Concrete Revolutio
   studio: Bones
@@ -77,6 +78,7 @@
   is_short: true
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
     Mundo do Shoujo: active
 - name_ja: Fushigi na Somera-chan
   studio: Seven
@@ -131,6 +133,7 @@
   episodes: 25
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
     Ichiban: active
 - name_ja: Heavy Object
   studio: J.C. Staff
@@ -460,6 +463,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11272'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
     Eternal Animes: active
 - name_ja: Valkyrie Drive -Mermaid-
   studio: ARMS

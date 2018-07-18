@@ -79,6 +79,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10894'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
 - name_ja: 'Etotama: Eto Tamashii'
   studio: Encourage Films / Shirogumi
   stations: Tokyo MX
@@ -140,6 +141,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10603'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
     The Motion Picture: active
 - name_ja: Hibike! Euphonium
   studio: Kyoto Animation
@@ -166,6 +168,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10958'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
     Diogo4D: active
     Shinkai: planned
 - name_ja: Jewel Pet Magical Change
@@ -201,6 +204,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10936'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
     Shinonome: dropped-active
 - name_ja: Mahou Shoujo Lyrical Nanoha Vivid
   studio: A-1 Pictures
@@ -409,6 +413,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10292'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
     Mundo do Shoujo: active
 - name_ja: Vampire Holmes
   studio: Studio!cucuri

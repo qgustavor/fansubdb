@@ -66,6 +66,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10766'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
 - name_ja: Daitoshokan no Hitsujikai
   studio: Hoods Entertainment
   stations: Tokyo MX
@@ -149,6 +150,7 @@
   groups:
     Amazon Prime Video: stream
     Crunchyroll: stream
+    HIDIVE: stream
     Diogo4D: active
 - name_ja: Gugure! Kokkuri-san
   studio: TMS Entertainment
@@ -158,6 +160,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10530'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
 - name_ja: Gundam Build Fighters Try
   studio: Sunrise
   stations: TV Tokyo Nat. Net.
@@ -273,6 +276,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10589'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
     Infinite: active
 - name_ja: 'Ore, Twintails ni Narimasu.'
   studio: Production IMS
@@ -381,6 +385,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10814'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
 - name_ja: 'Trinity Seven: 7-nin no Masho Tsukai'
   studio: Seven Arcs
   stations: TV Tokyo

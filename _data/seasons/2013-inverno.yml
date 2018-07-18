@@ -89,6 +89,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9955'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
     Infinite-The Motion Picture: active
 - name_ja: 'Inari, Konkon, Koi Iroha'
   studio: Production IMS
