@@ -12,6 +12,8 @@ de língua portuguesa. Estamos hospedados no GitHub Pages para facilitar a colab
 
 As imagens que ilustram as temporadas vieram do [Unsplash](https://unsplash.com/).
 
+Gosta de números? Veja [as estatísticas do site](/estatisticas).
+
 ## Como colaborar
 
 É possível colaborar sem precisar de criar uma conta (ou até anonimamente) por via dos comentários, mas se quiser
