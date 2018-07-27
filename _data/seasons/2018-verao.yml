@@ -144,6 +144,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13783'
   groups:
     Crunchyroll: stream
+    Diogo4D: active
     Ichiban-Kirinashi: active
 - name_ja: Happy Sugar Life
   studio: Ezo'la
