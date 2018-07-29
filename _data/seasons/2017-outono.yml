@@ -435,6 +435,14 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12227'
   groups:
     HIDIVE: stream
+- name_ja: Pingu in the City
+  studio: Polygon Pictures
+  stations: NHK
+  premiere: 2017-07-17T00:00:00+0900
+  episodes: 26
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13421'
+  groups:
+    Kyoto: active
 - name_ja: Urahara
   studio: EMT Squared / Shirogumi
   stations: Abema TV
