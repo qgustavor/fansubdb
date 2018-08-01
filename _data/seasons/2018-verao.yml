@@ -115,6 +115,7 @@
   episodes: 12+1
   groups:
     Crunchyroll: stream
+    Kyoto: active
 - name_ja: Future Card Shin Buddyfight
   studio: OLM / XEBEC
   stations: TV Tokyo Nat. Net.
@@ -277,6 +278,7 @@
   episodes: 12
   groups:
     Crunchyroll: stream
+    Kirinashi: active
 - name_ja: Satsuriku no Tenshi
   studio: J.C. Staff
   stations: AT-X
