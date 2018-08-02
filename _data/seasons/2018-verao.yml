@@ -311,6 +311,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13241'
   groups:
     Crunchyroll: stream
+    Hacchi: active
 - name_ja: Shinya! Tensai Bakabon
   studio: Studio Pierrot+
   stations: TV Tokyo / TV Osaka
