@@ -209,6 +209,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13038'
   groups:
     Crunchyroll: stream
+    Infinite: active
     Mundo do Shoujo: active
 - name_ja: Just Because!
   studio: PINE JAM
