@@ -177,21 +177,10 @@ os animes vão ao ar);
 
 ## Formas de colaboração
 
-Aceitaremos colaboração via comentários (que não precisam de login), pull requests e issues (que precisam
-de login no GitHub, porém garantem que o usuário ficará registrado como contribuidor).
-
-Diferente do FansubDB todo o conteúdo do site é organizado em arquivos YAML. Caso queira contribuir por
-comentários ou issues não é necessário editar ele, mas caso queira contribuir por pull requests só editar
-os arquivos na pasta [`/_data/seasons`](https://github.com/qgustavor/fansubdb/tree/master/_data/seasons). O
-arquivo [`2017-inverno.yml`](https://github.com/qgustavor/fansubdb/blob/master/_data/seasons/2017-inverno.yml),
-que foi o primeiro a ser criado no site, tem todos os comentários e instruções necessárias para entender
-como o sistema funciona.
+Aceitaremos colaboração via comentários, pull requests e issues. Para mais informações leia o
+[CONTRIBUTING.md](https://github.com/qgustavor/fansubdb/blob/master/CONTRIBUTING.md).
 
 ## Meta-regras
 
 Caso ocorra uma situação que essas regras não cobrirem vale o bom senso. Poderão ser enviados pull requests
-mudando essas regras, que serão discutidos e avaliados. Caso alguma alteração altere o código do site, como
-JavaScript ou SCSS, ela deverá estar em inglês.
-
-A data usada nas postagens (para critério de ordem nos arquivos) será a data dos solstícios e equinócios
-das estações (que é uma data bem próxima do início dos animes das temporadas).
+mudando essas regras, que serão discutidos e avaliados.
