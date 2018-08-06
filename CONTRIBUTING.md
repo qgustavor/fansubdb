@@ -48,6 +48,27 @@ Para a inclusão de novas temporadas proceda da seguinte forma:
 6. Crie a postagem no `_posts`: pegue uma das postagens existentes e edite;
 7. Crie o commit e envie o pull request;
 
+### Atualização dos metadados de temporadas
+
+Verifique o que foi alterado:
+
+1. Abra o link que está na primeira linha do YAML da temporada;
+2. Clique no "diff" próximo de "Latest revision";
+
+Se houve poucas mudanças:
+
+1. Aplique as mudanças manualmente;
+2. Atualize o link na primeira linha do YAML;
+3. Crie o commit e envie o pull request;
+
+Se houve várias mudanças:
+
+1. Converta a nova página para YAML de acordo com instruções de inclusão de temporadas;
+2. Compare o YAML atual com o YAML gerado usando alguma ferramenta de diff;
+3. Copie os dados dos grupos e as correções do YAML antigo para o YAML novo;
+4. Substitua o YAML antigo pelo novo;
+5. Crie o commit e envie o pull request;
+
 ### Correções no código do site
 
 Caso alguma alteração altere o código do site, como JavaScript ou SCSS, o código e os comentários nele deverão
