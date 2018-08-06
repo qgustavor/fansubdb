@@ -134,6 +134,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10763'
   groups:
     Crunchyroll: stream
+    Mundo do Shoujo: active
 - name_ja: Kantai Collection
   studio: Diomedea
   stations: Tokyo MX / KBS Kyoto

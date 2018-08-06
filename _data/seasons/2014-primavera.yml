@@ -213,6 +213,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10206'
   groups:
     Crunchyroll: stream
+    Hacchi: active
 - name_ja: Kamigami no Asobi
   studio: Brain's Base
   stations: Tokyo MX
