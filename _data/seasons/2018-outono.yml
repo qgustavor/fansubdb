@@ -31,6 +31,7 @@
   stations: TV Tokyo Nat. Net.
   groups:
     Crunchyroll: stream
+    Infinite: planned
 - name_ja: Gaikotsu Shotenin Honda-san
   studio: DLE
 - name_ja: Gakuen Basara
@@ -80,6 +81,8 @@
     Netflix: stream
 - name_ja: Irozuku Sekai no Ashita kara
   studio: P.A. Works
+  groups:
+    Infinite: planned
 - name_ja: 'JoJo no Kimyou na Bouken: Ougon no Kaze'
   studio: David Production
   stations: Tokyo MX
@@ -101,6 +104,8 @@
   studio: Lidenfilms
   stations: MBS / TBS
   extra_info: Bloco Animeism
+  groups:
+    Infinite: planned
 - name_ja: 'Merc Storia: Mukiryoku Shounen to Bin no Naka no Shoujo'
   stations: 'Tokyo MX, BS11, etc.'
 - name_ja: Ore ga Suki nano wa Imouto dakedo Imouto ja Nai
@@ -128,6 +133,7 @@
   season: 2
   groups:
     Crunchyroll: stream
+    Infinite: planned
 - name_ja: Sora to Umi no Aida
   studio: TMS Entertainment
 - name_ja: 'Souten no Ken Re:Genesis 2'
@@ -152,6 +158,7 @@
   extra_info: Bloco Aniplex
   groups:
     Crunchyroll: stream
+    Infinite: planned
 - name_ja: Tensei shitara Slime Datta Ken
   studio: 8bit
   episodes: 2-cour
