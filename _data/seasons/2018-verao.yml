@@ -349,6 +349,7 @@
   premiere: 2018-07-01T12:23:00+0900
   groups:
     Netflix: rumor
+    Exception: active
 - name_ja: Tsukumogami Kashimasu
   studio: Telecom Animation Film
   stations: NHK-G

@@ -177,6 +177,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13165'
   groups:
     HIDIVE: stream
+    Exception: active
 - name_ja: Imouto sae Ireba Ii.
   studio: Silver Link
   stations: Tokyo MX
@@ -199,6 +200,7 @@
   extra_info: Bloco noitaminA
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12653'
   groups:
+    Exception: active
     Hacchi: active
 - name_ja: Itsudatte Bokura no Koi wa 10 Centi Datta.
   studio: Lay-Duce
