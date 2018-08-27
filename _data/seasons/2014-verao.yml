@@ -353,6 +353,7 @@
   groups:
     Crunchyroll: stream
     Netflix: stream
+    Bakemono: active
     Owari: active
 - name_ja: Tokyo ESP
   studio: Xebec

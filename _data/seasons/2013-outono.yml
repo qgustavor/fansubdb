@@ -318,6 +318,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9772'
   groups:
     Crunchyroll: stream
+    Infinite: active
 - name_ja: Super Seisyun Brothers
   studio: AIC Plus+
   stations: TV Tokyo

@@ -238,6 +238,8 @@
   studio: Studio DEEN
   stations: BS-SKY PerfecTV!
   premiere: 2018-08-01T03:21:00+0900
+  groups:
+    Crunchyroll: stream
 - name_ja: One Room 2
   studio: Zero-G
   stations: Tokyo MX

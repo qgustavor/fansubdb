@@ -127,6 +127,8 @@
 - name_ja: Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
   studio: CloverWorks
   extra_info: Bloco Aniplex
+  groups:
+    Bakemono: planned
 - name_ja: Senran Kagura Shinovi Master -Tokyo Youma-hen-
   studio: TNK
   stations: AT-X
@@ -159,6 +161,7 @@
   extra_info: Bloco Aniplex
   groups:
     Crunchyroll: stream
+    Bakemono: planned
     Infinite: planned
 - name_ja: Tensei shitara Slime Datta Ken
   studio: 8bit
