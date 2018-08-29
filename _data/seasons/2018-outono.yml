@@ -1,13 +1,21 @@
-# Auto-converted from https://fansubdb.com/w/index.php?title=Autumn_2018&oldid=23266
+# Auto-converted from https://fansubdb.com/w/index.php?title=Autumn_2018&oldid=23343
 
+- name_ja: Akanesasu Shoujo
+  studio: Dandelion Animation Studio / Juumonji
+  stations: BS-Animax
+  premiere: 2018-10-01T19:30:00+0900
 - name_ja: Anima Yell!
   studio: Doga Kobo
-  stations: 'AT-X, Tokyo MX, BS11'
+  stations: AT-X
+  premiere: 2018-10-07T23:30:00+0900
 - name_ja: 'Bakumatsu: Renai Bakumatsu Kareshi Gaiden'
   studio: Studio DEEN
   stations: TBS
   premiere: 2018-10-04T00:00:00+0900
   extra_info: Bloco Animerico
+- name_ja: Bakutsuri Bar Hunter
+  studio: Toei Animation / Studio Gallop
+  stations: TV Tokyo Nat. Net.
 - name_ja: Beatless
   studio: Diomedea
   stations: MBS / TBS
@@ -15,12 +23,16 @@
 - name_ja: Beelzebub-jou no Okinimesu mama.
   studio: Lidenfilms
   stations: 'Tokyo MX, BS11, etc.'
-  extra_info: Bloco Aniplex
-- name_ja: 'Conception: Ore no Kodomo o Undekure!'
+  extra_info: Bloco Aniplex Saturday Night
+- name_ja: Conception
   studio: GONZO
+  stations: SUN / BS11
+  premiere: 2018-10-10T01:30:00+0900
 - name_ja: Dakaretai Otoko 1-i ni Odosarete Imasu.
   studio: CloverWorks
-  extra_info: Bloco Aniplex
+  stations: 'Tokyo MX, BS11, etc.'
+  premiere: 2018-10-06T00:00:00+0900
+  extra_info: Bloco Aniplex Friday Night
 - name_ja: Double Decker! Doug & Kirill
   studio: Sunrise
   extra_info: Spinoff de Tiger & Bunny
@@ -29,11 +41,13 @@
 - name_ja: Fairy Tail
   studio: A-1 Pictures
   stations: TV Tokyo Nat. Net.
+  premiere: 2018-10-07T07:00:00+0900
   groups:
     Crunchyroll: stream
     Infinite: planned
-- name_ja: Gaikotsu Shotenin Honda-san
+- name_ja: Gaikotsu Shoten'in Honda-san
   studio: DLE
+  stations: 'Tokyo MX, BS11, etc'
 - name_ja: Gakuen Basara
   studio: Brain's Base
   stations: TBS
@@ -61,7 +75,6 @@
   season: 2
   groups:
     Crunchyroll: stream
-- name_ja: Hachigatsu no Cinderella
 - name_ja: Hangyakusei Million Arthur
   studio: J.C. Staff
   stations: Tokyo MX / BS11
@@ -72,6 +85,20 @@
   studio: GONZO
   stations: Abema TV / Tokyo MX
   premiere: 2018-10-05T22:00:00+0900
+- name_ja: Hoshi no Shima no Nyanko
+  studio: Animation Planet
+  stations: Tokyo MX
+  premiere: 2018-10-06T07:55:00+0900
+  is_short: true
+- name_ja: 'Idolmaster Side M: Wake Atte Mini!'
+  studio: Zero-G
+  stations: Tokyo MX / BS11
+  premiere: 2018-10-09T00:00:00+0900
+  is_short: true
+- name_ja: 'Inazuma Eleven: Orion'
+  studio: OLM
+  stations: TV Tokyo Nat. Net.
+  extra_info: '2nd of Inazuma Eleven: Ares'
 - name_ja: Ingress
   studio: Craftar
   stations: Fuji TV
@@ -83,9 +110,17 @@
   studio: P.A. Works
   groups:
     Infinite: planned
+  stations: MBS / TBS
+  extra_info: Bloco Animeism
+- name_ja: Jingai-san no Yome
+  studio: Saetta
+  stations: Tokyo MX
+  premiere: 2018-10-03T01:00:00+0900
+  is_short: true
 - name_ja: 'JoJo no Kimyou na Bouken: Ougon no Kaze'
   studio: David Production
   stations: Tokyo MX
+  premiere: 2018-10-06T01:05:00+0900
   season: 5
   groups:
     Crunchyroll: stream
@@ -100,14 +135,28 @@
 - name_ja: 'Ken En Ken: Aoki Kagayaki'
   studio: Studio DEEN
   stations: TV Tokyo
+- name_ja: Kirakira Happy Hirake! Cocotama
+  studio: OLM
+  stations: TV Tokyo Nat. Net.
+  premiere: 2018-09-06T17:55:00+0900
+  season: 2
 - name_ja: Kishuku Gakkou no Juliet
   studio: Lidenfilms
   stations: MBS / TBS
   extra_info: Bloco Animeism
   groups:
     Infinite: planned
+- name_ja: Kitsune no Koe
+  studio: Yumeta Company
+  stations: Tokyo MX
 - name_ja: 'Merc Storia: Mukiryoku Shounen to Bin no Naka no Shoujo'
+  studio: Encourage Films
   stations: 'Tokyo MX, BS11, etc.'
+- name_ja: 'Okoshiyasu, Chitose-chan'
+  studio: Gathering
+  stations: Tokyo MX / KBS Kyoto
+  premiere: 2018-10-07T01:35:00+0900
+  is_short: true
 - name_ja: Ore ga Suki nano wa Imouto dakedo Imouto ja Nai
   studio: NAZ / Magia Doraglier
 - name_ja: Radiant
@@ -120,27 +169,38 @@
     Eternal Animes: planned
 - name_ja: Release the Spyce
   studio: Lay-duce
+  stations: MBS
+  premiere: 2018-10-07T02:38:00+0900
 - name_ja: 'RErideD: Tokigoe no Derrida'
   studio: GEEKTOYS
+  stations: 'Tokyo MX, etc.'
   groups:
     Crunchyroll: stream
 - name_ja: Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
   studio: CloverWorks
-  extra_info: Bloco Aniplex
+  stations: ABC
+  premiere: 2018-10-04T02:15:00+0900
+  extra_info: Bloco Aniplex Saturday Night
   groups:
     Bakemono: planned
-- name_ja: Senran Kagura Shinovi Master -Tokyo Youma-hen-
+- name_ja: 'Senran Kagura: Shinovi Master - Tokyo Youma-hen'
   studio: TNK
   stations: AT-X
   season: 2
   groups:
     Crunchyroll: stream
     Infinite: planned
+- name_ja: 'Shuudengo, Capsule Hotel de, Joushi ni Binetsu Utawaru Yoru.'
+  studio: Namu Animation
+  stations: ComicFesta
+  is_short: true
 - name_ja: Sora to Umi no Aida
   studio: TMS Entertainment
+  stations: 'Tokyo MX, SUN, BS Fuji, etc.'
 - name_ja: 'Souten no Ken Re:Genesis 2'
   studio: Polygon Pictures
-  stations: Tokyo MX
+  stations: Amazon Prime Video
+  premiere: 2018-10-02T01:00:00+0900
   season: 2
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13843'
@@ -158,13 +218,16 @@
   studio: A-1 Pictures
   stations: 'Tokyo MX, BS11, etc.'
   season: 3
-  extra_info: Bloco Aniplex
+  extra_info: Bloco Aniplex Saturday Night
   groups:
     Crunchyroll: stream
     Bakemono: planned
+    Eternal Animes: planned
     Infinite: planned
 - name_ja: Tensei shitara Slime Datta Ken
   studio: 8bit
+  stations: Tokyo MX / BS11
+  premiere: 2018-10-02T00:00:00+0900
   episodes: 2-cour
   groups:
     Crunchyroll: stream
@@ -175,6 +238,7 @@
   premiere: 2018-10-05T22:00:00+0900
   season: 3
   groups:
+    Crunchyroll: stream
     Eternal Animes: planned
 - name_ja: 'Tokyo Ghoul:re 2'
   studio: Studio Pierrot / Studio Pierrot+
@@ -186,13 +250,16 @@
     Crunchyroll: stream
 - name_ja: Tonari no Kyuuketsuki-san
   studio: Studio Gokumi / AXsiZ
-- name_ja: Tsurune
+  stations: AT-X
+  premiere: 2018-10-05T21:00:00+0900
+- name_ja: 'Tsurune: Kazemai Koukou Kyuudoubu'
   studio: Kyoto Animation
   stations: NHK-G
   groups:
     Kyoto: planned
 - name_ja: Uchi no Maid ga Uzasugiru!
   studio: Doga Kobo
+  stations: 'AT-X, Tokyo MX, etc.'
 - name_ja: Uchuu Senkan Tiramisù II
   studio: GONZO
   stations: Tokyo MX
