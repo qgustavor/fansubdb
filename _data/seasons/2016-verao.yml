@@ -342,6 +342,8 @@
   extra_info: >-
     Os primeiros 18 episódios foram ao ar em versões curtas nos dias da semana,
     os episódios completos foram ao ar nos domingos
+  groups:
+    Infinite: active
 - name_ja: Scared Rider Xechs
   studio: Satelight
   stations: TV Tokyo
