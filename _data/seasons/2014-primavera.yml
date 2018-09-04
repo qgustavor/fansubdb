@@ -88,6 +88,8 @@
   season: 2
   episodes: 10
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9935'
+  groups:
+    Bakemono: active
 - name_ja: 'Disc Wars: Avengers'
   studio: Toei Animation
   stations: TV Tokyo Nat. Net.
