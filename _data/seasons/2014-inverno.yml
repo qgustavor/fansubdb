@@ -279,6 +279,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10585'
   extra_info: 'Cour 1 de 2'
   groups:
+    Bakemono: active
     Eternal Animes-Shiroki Tsubasa: active
     Ichiban: active
 - name_ja: The Rolling Girls

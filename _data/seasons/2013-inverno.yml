@@ -216,6 +216,7 @@
   is_short: true
   groups:
     Crunchyroll: stream
+    Bakemono: active
     Koisuru: active
 - name_ja: Pic-lele
   studio: Kachidoki Studio
