@@ -1,4 +1,4 @@
-# Auto-converted from https://fansubdb.com/w/index.php?title=Spring_2018&oldid=22648
+# Auto-converted from https://fansubdb.com/w/index.php?title=Spring_2018&oldid=23644
 
 - name_ja: '3D Kanojo: Real Girl'
   studio: Hoods Entertainment
@@ -10,7 +10,6 @@
   groups:
     HIDIVE: stream
     Infinite: active
-    Mundo do Shoujo: planned
 - name_ja: A.I.C.O. -Incarnation-
   studio: Bones
   stations: Netflix
@@ -42,6 +41,7 @@
   premiere: 2018-04-06T22:30:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13613'
   is_short: true
+  episodes: 25
   groups:
     Mundo do Shoujo: active
 - name_ja: 'Alice or Alice: Siscon Niisan to Futago no Imouto'
@@ -49,6 +49,7 @@
   stations: Tokyo MX
   premiere: 2018-04-04T22:25:00+0900
   is_short: true
+  episodes: 12
   groups:
     HIDIVE: stream
     Ichiban: active
@@ -88,6 +89,7 @@
   premiere: 2018-04-09T01:35:00+0900
   season: 3
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13706'
+  episodes: 12
   groups:
     Crunchyroll: stream
 - name_ja: Boku no Hero Academia 3
@@ -133,6 +135,7 @@
   stations: AT-X
   premiere: 2018-04-05T23:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13238'
+  episodes: 12
   groups:
     Crunchyroll: stream
 - name_ja: Cutie Honey Universe
@@ -140,6 +143,7 @@
   stations: AT-X
   premiere: 2018-04-08T21:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13676'
+  episodes: 12
   groups:
     HIDIVE: stream
 - name_ja: Devils Line
@@ -155,6 +159,7 @@
   stations: BS11
   premiere: 2018-04-13T01:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13505'
+  episodes: 12
   groups:
     HIDIVE: stream
 - name_ja: Duel Masters!
@@ -177,6 +182,7 @@
   stations: Tokyo MX
   premiere: 2018-04-10T01:15:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13753'
+  episodes: 1-cour
   is_short: true
 - name_ja: Gegege no Kitarou (2018)
   studio: Toei Animation
@@ -215,12 +221,13 @@
   stations: BS-SKY PerfecTV!
   premiere: 2018-04-06T22:30:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12995'
+  episodes: 12
 - name_ja: High School DxD Hero
   studio: Passione
   stations: AT-X
   premiere: 2018-04-10T23:00:00+0900
   season: 4
-  episodes: 13
+  episodes: 12+1
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12498'
   groups:
     Crunchyroll: stream
@@ -239,6 +246,7 @@
   stations: Tokyo MX / BS Fuji
   premiere: 2018-04-13T00:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13625'
+  episodes: 12
   groups:
     Aenianos: active
 - name_ja: 'Hoozuki no Reitetsu 2: Sono Ni'
@@ -257,16 +265,20 @@
   premiere: 2018-04-06T17:55:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12292'
   extra_info: 'Episódio 1: especial de uma hora'
+  episodes: 26
 - name_ja: 'Isekai Izakaya: Koto Aitheria no Izakaya Nobu'
   studio: Sunrise
   stations: Bandai Channel
   premiere: 2018-04-13T12:00:00+0900
+  is_short: true
+  episodes: 24
   groups:
     Crunchyroll: stream
 - name_ja: 'Jikken-hin Kazoku: Creatures Family Days'
   studio: KJJ Animation
   stations: Tokyo MX
   premiere: 2018-04-09T19:30:00+0900
+  is_short: true
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12739'
 - name_ja: Juushinki Pandora
   studio: Satelight
@@ -296,6 +308,7 @@
   is_short: true
   extra_info: 'Continuação de Koneko no Chi: Ponpora no Daibouken'
   groups:
+    Amazon Prime Video: stream
     Peak Spider: active
 - name_ja: Ladyspo
   stations: Tokyo MX
@@ -328,6 +341,7 @@
   premiere: 2018-04-07T00:30:00+0900
   season: 4
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12686'
+  episodes: 12
   groups:
     Crunchyroll: stream
     Eternal Animes: active
@@ -364,13 +378,16 @@
   premiere: 2018-04-07T17:35:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13518'
   extra_info: Continuação de Major
+  episodes: 25
+  groups:
+    Crunchyroll: stream
 - name_ja: Megalo Box
   studio: TMS Entertainment
   stations: TBS
   premiere: 2018-04-06T01:28:00+0900
   episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13517'
-  extra_info: Bloco TBS Thursday Late Night
+  extra_info: Bloco Animerico
   groups:
     Crunchyroll: stream
     Atântida-OldAge: active
@@ -380,6 +397,8 @@
   premiere: 2018-04-08T22:00:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12333'
+  groups:
+    Crunchyroll: stream
 - name_ja: 'Nobunaga no Shinobi: Anegawa Ishiyama-hen'
   studio: TMS Entertainment
   stations: Tokyo MX / KBS
@@ -387,6 +406,7 @@
   season: 3
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13740'
   is_short: true
+  episodes: 26
   groups:
     Crunchyroll: stream
 - name_ja: Omae wa Mada Gunma o Shiranai
@@ -402,11 +422,12 @@
   premiere: 2018-04-02T18:25:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13733'
 - name_ja: Persona 5 The Animation
-  studio: A-1 Pictures
+  studio: CloverWorks
   stations: 'Tokyo MX, BS11, etc.'
   premiere: 2018-04-08T00:30:00+0900
-  episodes: 2-cour
+  episodes: 24
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13331'
+  extra_info: Bloco Aniplex Saturday Night
   groups:
     Crunchyroll: stream
     Aenianos: active
@@ -417,17 +438,20 @@
   stations: NHK-G
   premiere: 2018-04-09T00:10:00+0900
   episodes: 12
+  groups:
+    Netflix: stream
 - name_ja: Rokuhoudou Yotsuiro Biyori
   studio: ZEXCS
   stations: AT-X
   premiere: 2018-04-11T00:30:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13502'
+  episodes: 12
 - name_ja: Saredo Tsumibito wa Ryuu to Odoru
-  studio: Seven Arcs
+  studio: Seven Arcs Pictures
   stations: TBS
   premiere: 2018-04-06T01:58:00+0900
   episodes: 12
-  extra_info: Bloco TBS Thursday Late Night
+  extra_info: Bloco Animerico
   groups:
     Crunchyroll: stream
 - name_ja: 'Shokugeki no Souma: San no Sara - Toutsuki Ressha-hen'
@@ -435,6 +459,7 @@
   stations: Tokyo MX / BS11
   premiere: 2018-04-09T00:30:00+0900
   season: 3
+  episodes: 13
   extra_info: Cour 2 de 2
   groups:
     Crunchyroll: stream
@@ -450,14 +475,15 @@
 - name_ja: SNS Police
   stations: Yahoo GyaO!
   premiere: 2018-03-24T00:00:00+0900
-  episodes: 9
+  episodes: 24
   is_short: true
 - name_ja: 'Souten no Ken Re:Genesis'
   studio: Polygon Pictures
   stations: Amazon Prime Video
   premiere: 2018-04-03T01:00:00+0900
-  episodes: 24
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13540'
+  extra_info: 2ª temporada, 1º Cour
   groups:
     Crunchyroll: stream
 - name_ja: Steins;Gate 0
@@ -476,7 +502,8 @@
   stations: 'Tokyo MX, BS11, etc.'
   premiere: 2018-04-08T00:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13494'
-  extra_info: Spinoff de Sword Art Online II
+  extra_info: Spinoff de Sword Art Online II, Bloco Aniplex Saturday Night
+  episodes: 12
   groups:
     Crunchyroll: stream
     Bakemono: active
@@ -503,6 +530,7 @@
   premiere: 2018-04-04T01:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13656'
   is_short: true
+  episodes: 12
   groups:
     Crunchyroll: stream
     Ichiban: active
@@ -533,6 +561,7 @@
   season: 3
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13499'
+  extra_info: 1º Cour
   groups:
     Crunchyroll: stream
     Planime: active
@@ -542,6 +571,7 @@
   premiere: 2018-04-03T01:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13426'
   is_short: true
+  episodes: 13
   groups:
     Crunchyroll: stream
 - name_ja: 'Uma Musume: Pretty Derby'
@@ -558,11 +588,13 @@
   stations: TV Tokyo Nat. Net.
   premiere: 2018-04-08T07:14:00+0900
   is_short: true
+  episodes: 24
 - name_ja: Wotaku ni Koi wa Muzukashii
   studio: A-1 Pictures
   stations: Fuji TV
   premiere: 2018-04-13T00:55:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13293'
+  episodes: 11
   extra_info: Bloco noitaminA
   groups:
     Amazon Prime Video: stream

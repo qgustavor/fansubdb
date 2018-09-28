@@ -1,4 +1,4 @@
-# Auto-converted from https://fansubdb.com/w/index.php?title=Summer_2018&oldid=23119
+# Auto-converted from https://fansubdb.com/w/index.php?title=Summer_2018&oldid=23646
 
 - name_ja: 'Aguu: Tensai Ningyou'
   studio: Studio DEEN
@@ -20,7 +20,6 @@
   episodes: 24
   is_short: true
   groups:
-    Infinite: planned
     Peak Spider: active
 - name_ja: Aru Zombie Shoujo no Sainan
   studio: GONZO / Stingray
@@ -49,7 +48,6 @@
   episodes: 26
   groups:
     Netflix: stream
-    Infinite: planned
 - name_ja: Banana Fish
   studio: MAPPA
   stations: Fuji TV
@@ -77,7 +75,7 @@
   studio: Madhouse
   stations: Nippon TV
   premiere: 2018-07-01T03:25:00+0900
-  episodes: 2-cour
+  episodes: 24
   extra_info: 'Spinoff de Kaiji, Bloco AnichU'
   groups:
     Crunchyroll: stream
@@ -102,8 +100,8 @@
   studio: SHAFT
   stations: Tokyo MX / BS11
   premiere: 2018-07-02T05:19:00+0900
-  episodes: 1
-  extra_info: 'Episódio 11 de Fate/Extra: Last Encore, Especial de TV'
+  episodes: 3
+  extra_info: 'Episódios 11-13 de Fate/Extra: Last Encore, Especial de TV'
   groups:
     Netflix: stream
     Eternal Animes: active
@@ -127,6 +125,7 @@
   premiere: 2018-07-01T08:25:00+0900
   season: 6
   extra_info: 2º Cour
+  episodes: 14
   groups:
     Crunchyroll: stream
 - name_ja: Grand Blue
@@ -153,6 +152,7 @@
   stations: MBS / TBS
   premiere: 2018-07-01T13:25:00+0900
   extra_info: Bloco Animeism
+  episodes: 12
   groups:
     Diogo4D: active
     Eternal Animes: active
@@ -185,6 +185,7 @@
   studio: J.C. Staff
   stations: Tokyo MX / BS11
   premiere: 2018-07-01T13:24:00+0900
+  episodes: 12+3
 - name_ja: Hyakuren no Haou to Seiyaku no Valkyria
   studio: EMT Squared
   stations: Tokyo MX / BS11
@@ -213,6 +214,7 @@
   stations: Amazon Prime Video
   premiere: 2018-07-01T09:22:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13637'
+  episodes: 11+1
   groups:
     Aenianos: active
 - name_ja: Joshi Ochi! 2-kai kara Onnanoko ga... Futte Kita!?
@@ -225,6 +227,7 @@
   studio: Seven
   stations: TV Tokyo / TV Osaka
   premiere: 2018-07-01T09:26:00+0900
+  episodes: 12
   groups:
     Crunchyroll: stream
 - name_ja: 'Lord of Vermilion: Guren no Ou'
@@ -238,6 +241,7 @@
   studio: Studio DEEN
   stations: BS-SKY PerfecTV!
   premiere: 2018-08-01T03:21:00+0900
+  episodes: 12
   groups:
     Crunchyroll: stream
 - name_ja: One Room 2
@@ -266,12 +270,14 @@
   stations: AT-X
   premiere: 2018-07-01T10:22:00+0900
   season: 3
+  episodes: 13
   groups:
     Crunchyroll: stream
 - name_ja: Phantom in the Twilight
   studio: Lidenfilms
   stations: Tokyo MX / BS Fuji
   premiere: 2018-07-01T09:24:00+0900
+  episodes: 12
   groups:
     Crunchyroll: stream
 - name_ja: Planet With
@@ -302,6 +308,7 @@
   studio: Lerche
   stations: TBS
   premiere: 2018-07-01T05:25:00+0900
+  episodes: 12
   extra_info: Bloco Animerico
   groups:
     Bakemono: active
@@ -327,10 +334,10 @@
   stations: TBS
   premiere: 2018-07-01T12:25:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13152'
+  episodes: 12
   extra_info: Bloco Animerico
   groups:
     HIDIVE: stream
-    Kirinashi: planned
 - name_ja: Sunohara-sou no Kanrinin-san
   studio: Silver Link
   stations: AT-X
@@ -342,6 +349,7 @@
   stations: Netflix
   premiere: 2018-07-02T06:00:00+0900
   season: 2
+  episodes: 12
   extra_info: Todos os episódios lançados juntos
   groups:
     Netflix: stream
@@ -356,6 +364,7 @@
   studio: Telecom Animation Film
   stations: NHK-G
   premiere: 2018-07-01T22:24:00+0900
+  episodes: 12
 - name_ja: Yakusoku no Nanaya Matsuri
   studio: Yokohama Animation Lab
   stations: YouTube

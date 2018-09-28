@@ -347,7 +347,6 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13309'
   groups:
     Crunchyroll: stream
-    Atlântida-HTT: planned
 - name_ja: Nanatsu no Bitoku
   is_short: true
   extra_info: Spin-off de "Sin Nanatsu no Taizai"
@@ -378,7 +377,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12952'
   groups:
     Crunchyroll: stream
-    Illuminati: planned
+    Illuminati: active
 - name_ja: 'Pochitto Hatsumei: Pikachin-Kit'
   studio: OLM / Shin-Ei Animation
   stations: TV Tokyo Nat. Net.
