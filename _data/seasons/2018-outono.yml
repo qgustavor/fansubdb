@@ -1,70 +1,104 @@
-# Auto-converted from https://fansubdb.com/w/index.php?title=Autumn_2018&oldid=23343
+# Auto-converted from https://fansubdb.com/w/index.php?title=Autumn_2018&oldid=23645
 
 - name_ja: Akanesasu Shoujo
-  studio: Dandelion Animation Studio / Juumonji
+  studio: DandeLion Animation Studio / Jumonji
   stations: BS-Animax
   premiere: 2018-10-01T19:30:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13956'
+  groups:
+    HIDIVE: stream
 - name_ja: Anima Yell!
   studio: Doga Kobo
   stations: AT-X
   premiere: 2018-10-07T23:30:00+0900
-- name_ja: 'Bakumatsu: Renai Bakumatsu Kareshi Gaiden'
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13756'
+- name_ja: Bakumatsu
   studio: Studio DEEN
   stations: TBS
-  premiere: 2018-10-04T00:00:00+0900
+  premiere: 2018-10-05T01:58:00+0900
   extra_info: Bloco Animerico
 - name_ja: Bakutsuri Bar Hunter
   studio: Toei Animation / Studio Gallop
   stations: TV Tokyo Nat. Net.
+  premiere: 2018-10-02T17:55:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13739'
 - name_ja: Beatless
   studio: Diomedea
-  stations: MBS / TBS
-  extra_info: 'Episódios 21-24 de Beatless, Bloco Animeism'
+  stations: MBS
+  premiere: 2018-09-26T03:00:00+0900
+  episodes: 4
 - name_ja: Beelzebub-jou no Okinimesu mama.
   studio: Lidenfilms
-  stations: 'Tokyo MX, BS11, etc.'
+  stations: ABC
+  premiere: 2018-10-11T02:50:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14025'
   extra_info: Bloco Aniplex Saturday Night
 - name_ja: Conception
   studio: GONZO
   stations: SUN / BS11
   premiere: 2018-10-10T01:30:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14068'
 - name_ja: Dakaretai Otoko 1-i ni Odosarete Imasu.
   studio: CloverWorks
   stations: 'Tokyo MX, BS11, etc.'
   premiere: 2018-10-06T00:00:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13979'
   extra_info: Bloco Aniplex Friday Night
+  groups:
+    Crunchyroll: stream
+- name_ja: Devidol!
+  stations: Tokyo MX
+  premiere: 2018-10-05T01:05:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14389'
+  is_short: true
 - name_ja: Double Decker! Doug & Kirill
   studio: Sunrise
+  stations: Tokyo MX
+  premiere: 2018-09-30T22:30:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13923'
   extra_info: Spinoff de Tiger & Bunny
   groups:
     Crunchyroll: stream
 - name_ja: Fairy Tail
-  studio: A-1 Pictures
+  studio: A-1 Pictures / Bridge
   stations: TV Tokyo Nat. Net.
   premiere: 2018-10-07T07:00:00+0900
+  extra_info: 'Continuação da Série, Temporada Final'
   groups:
     Crunchyroll: stream
     Infinite: planned
 - name_ja: Gaikotsu Shoten'in Honda-san
   studio: DLE
-  stations: 'Tokyo MX, BS11, etc'
+  stations: BS11
+  premiere: 2018-10-08T00:30:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13440'
+  is_short: true
 - name_ja: Gakuen Basara
   studio: Brain's Base
   stations: TBS
-  premiere: 2018-10-04T00:00:00+0900
+  premiere: 2018-10-05T01:28:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14001'
   extra_info: 'Spinoff de Sengoku Basara, Bloco Animerico'
 - name_ja: Goblin Slayer
   studio: White Fox
+  stations: AT-X
+  premiere: 2018-10-07T00:30:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13831'
+  groups:
+    Crunchyroll: stream
 - name_ja: Golden Kamuy 2
   studio: Geno Studio
   stations: Tokyo MX
-  season: 2
+  premiere: 2018-10-08T23:00:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14185'
+  extra_info: 2º Cour
   groups:
     Crunchyroll: stream
     Eternal Animes: planned
 - name_ja: Gurazeni 2
   studio: Studio DEEN
   stations: BS-SKY PerfecTV!
+  premiere: 2018-10-05T22:30:00+0900
   season: 2
   groups:
     Crunchyroll: stream
@@ -73,68 +107,108 @@
   stations: Nippon TV Nat. Net.
   premiere: 2018-10-06T17:30:00+0900
   season: 2
+  episodes: 2-cour
   groups:
     Crunchyroll: stream
 - name_ja: Hangyakusei Million Arthur
   studio: J.C. Staff
-  stations: Tokyo MX / BS11
+  stations: Tokyo MX
+  premiere: 2018-10-25T22:00:00+0900
+  episodes: 1-cour
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13952'
+  extra_info: 1º Cour
+- name_ja: Hashiri Tsuzukete Yokattatte.
+  studio: Signal MD
+  stations: Amazon Prime Video
+  premiere: 2018-10-09T02:30:00+0900
+  episodes: 4
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14349'
+  is_short: true
 - name_ja: Himote House
   studio: Bouncy
+  stations: BS11
+  premiere: 2018-10-08T00:45:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13629'
   is_short: true
 - name_ja: Hinomaru Zumou
   studio: GONZO
-  stations: Abema TV / Tokyo MX
+  stations: AbemaTV / Tokyo MX
   premiere: 2018-10-05T22:00:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13695'
 - name_ja: Hoshi no Shima no Nyanko
   studio: Animation Planet
   stations: Tokyo MX
   premiere: 2018-10-06T07:55:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14254'
   is_short: true
+- name_ja: Ichinichi Gaishutsuroku Hanchou
+  studio: Madhouse
+  stations: Nippon TV
+  premiere: 2018-10-10T01:59:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14417'
+  extra_info: 'Spinoff de Kaiji, Bloco AnichU'
 - name_ja: 'Idolmaster Side M: Wake Atte Mini!'
   studio: Zero-G
   stations: Tokyo MX / BS11
-  premiere: 2018-10-09T00:00:00+0900
+  premiere: 2018-10-09T21:54:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14295'
   is_short: true
+  extra_info: "Spinoff de The IDOLM@ASTER: Side M"
 - name_ja: 'Inazuma Eleven: Orion'
   studio: OLM
   stations: TV Tokyo Nat. Net.
-  extra_info: '2nd of Inazuma Eleven: Ares'
+  premiere: 2018-10-05T17:55:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14327'
+  extra_info: '2ª parte de Inazuma Eleven: Ares'
 - name_ja: Ingress
   studio: Craftar
   stations: Fuji TV
+  premiere: 2018-10-18T00:55:00+0900
   episodes: 1-cour
   extra_info: Bloco +Ultra
   groups:
     Netflix: stream
 - name_ja: Irozuku Sekai no Ashita kara
   studio: P.A. Works
+  stations: TBS
+  premiere: 2018-10-06T01:55:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13925'
+  extra_info: Bloco Animeism
   groups:
     Infinite: planned
-  stations: MBS / TBS
-  extra_info: Bloco Animeism
 - name_ja: Jingai-san no Yome
   studio: Saetta
   stations: Tokyo MX
   premiere: 2018-10-03T01:00:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14174'
   is_short: true
 - name_ja: 'JoJo no Kimyou na Bouken: Ougon no Kaze'
   studio: David Production
   stations: Tokyo MX
   premiere: 2018-10-06T01:05:00+0900
   season: 5
+  episodes: 39
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14173'
   groups:
     Crunchyroll: stream
 - name_ja: Karakuri Circus
   studio: Studio VOLN
-  stations: Tokyo MX / BS11
+  stations: Tokyo MX
+  premiere: 2018-10-11T22:30:00+0900
   episodes: 36
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13898'
 - name_ja: Kaze ga Tsuyoku Fuiteiru
   studio: Production I.G
   stations: Nippon TV
+  premiere: 2018-10-03T01:29:00+0900
+  episodes: 23
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14109'
   extra_info: Bloco AnichU
 - name_ja: 'Ken En Ken: Aoki Kagayaki'
   studio: Studio DEEN
   stations: TV Tokyo
+  premiere: 2018-10-02T02:05:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14237'
 - name_ja: Kirakira Happy Hirake! Cocotama
   studio: OLM
   stations: TV Tokyo Nat. Net.
@@ -142,26 +216,46 @@
   season: 2
 - name_ja: Kishuku Gakkou no Juliet
   studio: Lidenfilms
-  stations: MBS / TBS
+  stations: TBS
+  premiere: 2018-10-06T01:25:00+0900
+  episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13911'
   extra_info: Bloco Animeism
   groups:
     Infinite: planned
 - name_ja: Kitsune no Koe
   studio: Yumeta Company
-  stations: Tokyo MX
+  stations: AT-X
+  premiere: 2018-10-05T22:30:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13735'
+  is_short: true
 - name_ja: 'Merc Storia: Mukiryoku Shounen to Bin no Naka no Shoujo'
   studio: Encourage Films
-  stations: 'Tokyo MX, BS11, etc.'
+  stations: AT-X
+  premiere: 2018-10-11T22:30:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13768'
 - name_ja: 'Okoshiyasu, Chitose-chan'
   studio: Gathering
-  stations: Tokyo MX / KBS Kyoto
-  premiere: 2018-10-07T01:35:00+0900
+  stations: Tokyo MX / KBS
+  premiere: 2018-10-06T01:35:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14241'
   is_short: true
 - name_ja: Ore ga Suki nano wa Imouto dakedo Imouto ja Nai
   studio: NAZ / Magia Doraglier
+  stations: AT-X
+  premiere: 2018-10-10T22:00:00+0900
+  episodes: 10
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13534'
+- name_ja: Otona no Bouguya-san
+  studio: Imagica Imageworks
+  stations: GANMA! App
+  premiere: 2018-10-09T00:00:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14412'
+  is_short: true
 - name_ja: Radiant
   studio: Lerche
   stations: NHK-E
+  premiere: 2018-10-06T17:35:00+0900
   episodes: 21
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13767'
   groups:
@@ -172,33 +266,51 @@
   studio: Lay-duce
   stations: MBS
   premiere: 2018-10-07T02:38:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13760'
 - name_ja: 'RErideD: Tokigoe no Derrida'
   studio: GEEKTOYS
-  stations: 'Tokyo MX, etc.'
+  stations: Tokyo MX / KBS
+  premiere: 2018-10-04T01:05:00+0900
+  episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13254'
+  extra_info: 'Episódios 1-4: Crunchyroll - 09/22'
   groups:
     Crunchyroll: stream
 - name_ja: Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
   studio: CloverWorks
   stations: ABC
   premiere: 2018-10-04T02:15:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13900'
   extra_info: Bloco Aniplex Saturday Night
   groups:
+    Crunchyroll: stream
     Bakemono: planned
     Infinite: planned
 - name_ja: 'Senran Kagura: Shinovi Master - Tokyo Youma-hen'
   studio: TNK
   stations: AT-X
+  premiere: 2018-10-13T00:00:00+0900
   season: 2
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13341'
   groups:
     Crunchyroll: stream
     Infinite: planned
 - name_ja: 'Shuudengo, Capsule Hotel de, Joushi ni Binetsu Utawaru Yoru.'
   studio: Namu Animation
   stations: ComicFesta
+  premiere: 2018-10-08T00:00:00+0900
+  is_short: true
+- name_ja: 'Sono Toki, Kanojo wa.'
+  studio: MASTER LIGHTS
+  stations: KBC
+  premiere: 2018-10-07T00:35:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14339'
   is_short: true
 - name_ja: Sora to Umi no Aida
   studio: TMS Entertainment
-  stations: 'Tokyo MX, SUN, BS Fuji, etc.'
+  stations: Tokyo MX / SUN
+  premiere: 2018-10-04T00:00:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13312'
 - name_ja: 'Souten no Ken Re:Genesis 2'
   studio: Polygon Pictures
   stations: Amazon Prime Video
@@ -206,12 +318,13 @@
   season: 2
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13843'
-  extra_info: 2º cour
+  extra_info: 2º Cour
   groups:
     Crunchyroll: stream
 - name_ja: SSSS.Gridman
   studio: Trigger / Tsuburaya Productions
-  stations: 'Tokyo MX, MBS, etc.'
+  stations: WOWOW
+  premiere: 2018-10-07T00:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13260'
   groups:
     Crunchyroll: stream
@@ -219,18 +332,22 @@
 - name_ja: 'Sword Art Online: Alicization'
   studio: A-1 Pictures
   stations: 'Tokyo MX, BS11, etc.'
+  premiere: 2018-10-07T00:00:00+0900
   season: 3
+  episodes: 4-cour
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13493'
   extra_info: Bloco Aniplex Saturday Night
   groups:
     Crunchyroll: stream
     Bakemono: planned
     Eternal Animes: planned
     Infinite: planned
-- name_ja: Tensei shitara Slime Datta Ken
+- name_ja: Tensei Shitara Slime Datta Ken
   studio: 8bit
   stations: Tokyo MX / BS11
   premiere: 2018-10-02T00:00:00+0900
   episodes: 2-cour
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13871'
   groups:
     Crunchyroll: stream
     Eternal Animes: planned
@@ -239,33 +356,45 @@
   stations: AT-X
   premiere: 2018-10-05T22:00:00+0900
   season: 3
+  episodes: 26
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13481'
   groups:
     Crunchyroll: stream
     Eternal Animes: planned
 - name_ja: 'Tokyo Ghoul:re 2'
   studio: Studio Pierrot / Studio Pierrot+
   stations: Tokyo MX
+  premiere: 2018-10-09T23:00:00+0900
   season: 3
   episodes: 12
-  extra_info: 2º cour
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14059'
+  extra_info: 2º Cour
   groups:
     Crunchyroll: stream
 - name_ja: Tonari no Kyuuketsuki-san
   studio: Studio Gokumi / AXsiZ
   stations: AT-X
   premiere: 2018-10-05T21:00:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13966'
 - name_ja: 'Tsurune: Kazemai Koukou Kyuudoubu'
   studio: Kyoto Animation
   stations: NHK-G
+  premiere: 2018-10-15T00:10:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13538'
   groups:
     Kyoto: planned
 - name_ja: Uchi no Maid ga Uzasugiru!
   studio: Doga Kobo
-  stations: 'AT-X, Tokyo MX, etc.'
+  stations: AT-X
+  premiere: 2018-10-05T23:00:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14026'
 - name_ja: Uchuu Senkan Tiramisù II
   studio: GONZO
   stations: Tokyo MX
+  premiere: 2018-10-02T01:00:00+0900
   season: 2
+  episodes: 13+4
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14187'
   is_short: true
   groups:
     Crunchyroll: stream
@@ -273,9 +402,21 @@
   studio: AXsiZ
   stations: Tokyo MX
   premiere: 2018-10-07T22:00:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13498'
   groups:
     Crunchyroll: stream
 - name_ja: Yagate Kimi ni Naru
   studio: TROYCA
+  stations: AT-X
+  premiere: 2018-10-05T21:30:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14053'
+  groups:
+    HIDIVE: stream
 - name_ja: Zombieland Saga
   studio: MAPPA
+  stations: AbemaTV / AT-X
+  premiere: 2018-10-04T23:30:00+0900
+  episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14198'
+  groups:
+    Crunchyroll: stream
