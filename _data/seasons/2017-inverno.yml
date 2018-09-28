@@ -303,6 +303,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12906'
   groups:
     Amazon Prime Video: stream
+    ECN-Shinkai: active
     Infinite: active
 - name_ja: Kokkoku
   studio: Geno Studio
