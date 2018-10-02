@@ -12,6 +12,8 @@
   stations: AT-X
   premiere: 2018-10-07T23:30:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13756'
+  groups:
+    Crunchyroll: stream
 - name_ja: Bakumatsu
   studio: Studio DEEN
   stations: TBS
@@ -42,6 +44,7 @@
   studio: CloverWorks
   stations: 'Tokyo MX, BS11, etc.'
   premiere: 2018-10-06T00:00:00+0900
+  episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13979'
   extra_info: Bloco Aniplex Friday Night
   groups:
@@ -55,6 +58,7 @@
   studio: Sunrise
   stations: Tokyo MX
   premiere: 2018-09-30T22:30:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13923'
   extra_info: Spinoff de Tiger & Bunny
   groups:
@@ -182,6 +186,8 @@
   premiere: 2018-10-03T01:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14174'
   is_short: true
+  groups:
+    Crunchyroll: stream
 - name_ja: 'JoJo no Kimyou na Bouken: Ougon no Kaze'
   studio: David Production
   stations: Tokyo MX
@@ -204,11 +210,15 @@
   episodes: 23
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14109'
   extra_info: Bloco AnichU
+  groups:
+    Crunchyroll: stream
 - name_ja: 'Ken En Ken: Aoki Kagayaki'
   studio: Studio DEEN
   stations: TV Tokyo
   premiere: 2018-10-02T02:05:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14237'
+  groups:
+    Crunchyroll: stream
 - name_ja: Kirakira Happy Hirake! Cocotama
   studio: OLM
   stations: TV Tokyo Nat. Net.
@@ -267,6 +277,8 @@
   stations: MBS
   premiere: 2018-10-07T02:38:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13760'
+  groups:
+    HIDIVE: stream
 - name_ja: 'RErideD: Tokigoe no Derrida'
   studio: GEEKTOYS
   stations: Tokyo MX / KBS
@@ -310,7 +322,10 @@
   studio: TMS Entertainment
   stations: Tokyo MX / SUN
   premiere: 2018-10-04T00:00:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13312'
+  groups:
+    Crunchyroll: stream
 - name_ja: 'Souten no Ken Re:Genesis 2'
   studio: Polygon Pictures
   stations: Amazon Prime Video
@@ -346,7 +361,7 @@
   studio: 8bit
   stations: Tokyo MX / BS11
   premiere: 2018-10-02T00:00:00+0900
-  episodes: 2-cour
+  episodes: 24
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13871'
   groups:
     Crunchyroll: stream
@@ -375,7 +390,10 @@
   studio: Studio Gokumi / AXsiZ
   stations: AT-X
   premiere: 2018-10-05T21:00:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13966'
+  groups:
+    Crunchyroll: stream
 - name_ja: 'Tsurune: Kazemai Koukou Kyuudoubu'
   studio: Kyoto Animation
   stations: NHK-G
@@ -402,6 +420,7 @@
   studio: AXsiZ
   stations: Tokyo MX
   premiere: 2018-10-07T22:00:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13498'
   groups:
     Crunchyroll: stream
