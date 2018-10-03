@@ -365,7 +365,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13871'
   groups:
     Crunchyroll: stream
-    Eternal Animes: planned
+    Eternal Animes: active
 - name_ja: Toaru Majutsu no Index III
   studio: J.C. Staff
   stations: AT-X
