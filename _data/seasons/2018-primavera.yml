@@ -280,6 +280,8 @@
   premiere: 2018-04-09T19:30:00+0900
   is_short: true
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12739'
+  group:
+    Crunchyroll: stream
 - name_ja: Juushinki Pandora
   studio: Satelight
   stations: Netflix

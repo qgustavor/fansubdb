@@ -1,4 +1,4 @@
-# Auto-converted from https://fansubdb.com/w/index.php?title=Autumn_2018&oldid=23645
+# Auto-converted from https://fansubdb.com/w/index.php?title=Autumn_2018&oldid=23714
 
 - name_ja: Akanesasu Shoujo
   studio: DandeLion Animation Studio / Jumonji
@@ -19,6 +19,8 @@
   stations: TBS
   premiere: 2018-10-05T01:58:00+0900
   extra_info: Bloco Animerico
+  groups:
+    Crunchyroll: stream
 - name_ja: Bakutsuri Bar Hunter
   studio: Toei Animation / Studio Gallop
   stations: TV Tokyo Nat. Net.
@@ -40,6 +42,8 @@
   stations: SUN / BS11
   premiere: 2018-10-10T01:30:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14068'
+  groups:
+    Crunchyroll: stream
 - name_ja: Dakaretai Otoko 1-i ni Odosarete Imasu.
   studio: CloverWorks
   stations: 'Tokyo MX, BS11, etc.'
@@ -63,7 +67,7 @@
   extra_info: Spinoff de Tiger & Bunny
   groups:
     Crunchyroll: stream
-- name_ja: Fairy Tail
+- name_ja: 'Fairy Tail: Final Series'
   studio: A-1 Pictures / Bridge
   stations: TV Tokyo Nat. Net.
   premiere: 2018-10-07T07:00:00+0900
@@ -77,12 +81,16 @@
   premiere: 2018-10-08T00:30:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13440'
   is_short: true
+  groups:
+    Crunchyroll: stream
 - name_ja: Gakuen Basara
   studio: Brain's Base
   stations: TBS
   premiere: 2018-10-05T01:28:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14001'
   extra_info: 'Spinoff de Sengoku Basara, Bloco Animerico'
+  groups:
+    HIDIVE: stream
 - name_ja: Goblin Slayer
   studio: White Fox
   stations: AT-X
@@ -134,11 +142,15 @@
   premiere: 2018-10-08T00:45:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13629'
   is_short: true
+  groups:
+    Crunchyroll: stream
 - name_ja: Hinomaru Zumou
   studio: GONZO
   stations: AbemaTV / Tokyo MX
   premiere: 2018-10-05T22:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13695'
+  groups:
+    Crunchyroll: stream
 - name_ja: Hoshi no Shima no Nyanko
   studio: Animation Planet
   stations: Tokyo MX
@@ -158,6 +170,8 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14295'
   is_short: true
   extra_info: "Spinoff de The IDOLM@ASTER: Side M"
+  groups:
+    Crunchyroll: stream
 - name_ja: 'Inazuma Eleven: Orion'
   studio: OLM
   stations: TV Tokyo Nat. Net.
@@ -184,6 +198,7 @@
   studio: Saetta
   stations: Tokyo MX
   premiere: 2018-10-03T01:00:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14174'
   is_short: true
   groups:
@@ -239,11 +254,15 @@
   premiere: 2018-10-05T22:30:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13735'
   is_short: true
+  groups:
+    Crunchyroll: stream
 - name_ja: 'Merc Storia: Mukiryoku Shounen to Bin no Naka no Shoujo'
   studio: Encourage Films
   stations: AT-X
   premiere: 2018-10-11T22:30:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13768'
+  groups:
+    Crunchyroll: stream
 - name_ja: 'Okoshiyasu, Chitose-chan'
   studio: Gathering
   stations: Tokyo MX / KBS
@@ -275,6 +294,7 @@
 - name_ja: Release the Spyce
   studio: Lay-duce
   stations: MBS
+  episodes: 12
   premiere: 2018-10-07T02:38:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13760'
   groups:
@@ -292,12 +312,13 @@
   studio: CloverWorks
   stations: ABC
   premiere: 2018-10-04T02:15:00+0900
+  episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13900'
   extra_info: Bloco Aniplex Saturday Night
   groups:
     Crunchyroll: stream
     Bakemono: planned
-    Infinite: planned
+    Infinite: active
 - name_ja: 'Senran Kagura: Shinovi Master - Tokyo Youma-hen'
   studio: TNK
   stations: AT-X
