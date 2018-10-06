@@ -1,4 +1,4 @@
-# Auto-converted from https://fansubdb.com/w/index.php?title=Autumn_2018&oldid=23714
+# Auto-converted from https://fansubdb.com/w/index.php?title=Autumn_2018&oldid=23751
 
 - name_ja: Akanesasu Shoujo
   studio: DandeLion Animation Studio / Jumonji
@@ -68,7 +68,7 @@
   groups:
     Crunchyroll: stream
 - name_ja: 'Fairy Tail: Final Series'
-  studio: A-1 Pictures / Bridge
+  studio: A-1 Pictures / CloverWorks / Bridge
   stations: TV Tokyo Nat. Net.
   premiere: 2018-10-07T07:00:00+0900
   extra_info: 'Continuação da Série, Temporada Final'
@@ -148,6 +148,7 @@
   studio: GONZO
   stations: AbemaTV / Tokyo MX
   premiere: 2018-10-05T22:00:00+0900
+  episodes: 24
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13695'
   groups:
     Crunchyroll: stream
@@ -163,6 +164,8 @@
   premiere: 2018-10-10T01:59:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14417'
   extra_info: 'Spinoff de Kaiji, Bloco AnichU'
+  groups:
+    Crunchyroll: rumor
 - name_ja: 'Idolmaster Side M: Wake Atte Mini!'
   studio: Zero-G
   stations: Tokyo MX / BS11
@@ -172,12 +175,12 @@
   extra_info: "Spinoff de The IDOLM@ASTER: Side M"
   groups:
     Crunchyroll: stream
-- name_ja: 'Inazuma Eleven: Orion'
+- name_ja: 'Inazuma Eleven: Orion no Kokuin'
   studio: OLM
   stations: TV Tokyo Nat. Net.
   premiere: 2018-10-05T17:55:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14327'
-  extra_info: '2ª parte de Inazuma Eleven: Ares'
+  extra_info: '2ª parte de Inazuma Eleven: Ares no Tenbin'
 - name_ja: Ingress
   studio: Craftar
   stations: Fuji TV
@@ -194,6 +197,7 @@
   extra_info: Bloco Animeism
   groups:
     Infinite: planned
+    Kirinashi: planned
 - name_ja: Jingai-san no Yome
   studio: Saetta
   stations: Tokyo MX
@@ -247,7 +251,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13911'
   extra_info: Bloco Animeism
   groups:
-    Infinite: planned
+    Kirinashi: planned
 - name_ja: Kitsune no Koe
   studio: Yumeta Company
   stations: AT-X
@@ -317,7 +321,7 @@
   extra_info: Bloco Aniplex Saturday Night
   groups:
     Crunchyroll: stream
-    Bakemono: planned
+    Bakemono: active
     Infinite: active
 - name_ja: 'Senran Kagura: Shinovi Master - Tokyo Youma-hen'
   studio: TNK
@@ -386,7 +390,9 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13871'
   groups:
     Crunchyroll: stream
+    Bakemono: planned
     Eternal Animes: active
+    Kirinashi: active
 - name_ja: Toaru Majutsu no Index III
   studio: J.C. Staff
   stations: AT-X
@@ -415,6 +421,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13966'
   groups:
     Crunchyroll: stream
+    Kirinashi: planned
 - name_ja: 'Tsurune: Kazemai Koukou Kyuudoubu'
   studio: Kyoto Animation
   stations: NHK-G
@@ -427,6 +434,8 @@
   stations: AT-X
   premiere: 2018-10-05T23:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14026'
+  groups:
+    Crunchyroll: stream
 - name_ja: Uchuu Senkan Tiramisù II
   studio: GONZO
   stations: Tokyo MX
@@ -449,9 +458,11 @@
   studio: TROYCA
   stations: AT-X
   premiere: 2018-10-05T21:30:00+0900
+  episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14053'
   groups:
     HIDIVE: stream
+    Kirinashi: planned
 - name_ja: Zombieland Saga
   studio: MAPPA
   stations: AbemaTV / AT-X
