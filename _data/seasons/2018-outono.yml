@@ -98,6 +98,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13831'
   groups:
     Crunchyroll: stream
+    Eternal Animes: active
 - name_ja: Golden Kamuy 2
   studio: Geno Studio
   stations: Tokyo MX
@@ -106,7 +107,6 @@
   extra_info: 2º Cour
   groups:
     Crunchyroll: stream
-    Eternal Animes: planned
 - name_ja: Gurazeni 2
   studio: Studio DEEN
   stations: BS-SKY PerfecTV!
@@ -279,6 +279,8 @@
   premiere: 2018-10-10T22:00:00+0900
   episodes: 10
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13534'
+  groups:
+    Eternal Animes: planned
 - name_ja: Otona no Bouguya-san
   studio: Imagica Imageworks
   stations: GANMA! App
@@ -293,7 +295,6 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13767'
   groups:
     Crunchyroll: stream
-    Eternal Animes: planned
     Infinite: planned
 - name_ja: Release the Spyce
   studio: Lay-duce
