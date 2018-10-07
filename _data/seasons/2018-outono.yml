@@ -197,7 +197,6 @@
   extra_info: Bloco Animeism
   groups:
     Infinite: planned
-    Kirinashi: planned
 - name_ja: Jingai-san no Yome
   studio: Saetta
   stations: Tokyo MX
@@ -369,6 +368,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13260'
   groups:
     Crunchyroll: stream
+    Kirinashi: planned
     Kyoto: planned
 - name_ja: 'Sword Art Online: Alicization'
   studio: A-1 Pictures
@@ -384,6 +384,7 @@
     Eternal Animes: planned
     Infinite: planned
 - name_ja: Tensei Shitara Slime Datta Ken
+  name_pt: Sobre Reencarnar Como Slime
   studio: 8bit
   stations: Tokyo MX / BS11
   premiere: 2018-10-02T00:00:00+0900
