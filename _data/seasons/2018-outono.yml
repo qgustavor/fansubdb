@@ -295,7 +295,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13767'
   groups:
     Crunchyroll: stream
-    Infinite: planned
+    Infinite: active
 - name_ja: Release the Spyce
   studio: Lay-duce
   stations: MBS
@@ -472,3 +472,4 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14198'
   groups:
     Crunchyroll: stream
+    Kirinashi: active
