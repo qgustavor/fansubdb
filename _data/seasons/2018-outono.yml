@@ -368,8 +368,8 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13260'
   groups:
     Crunchyroll: stream
-    Kirinashi: planned
-    Kyoto: planned
+    Kirinashi: active
+    Kyoto: active
 - name_ja: 'Sword Art Online: Alicization'
   studio: A-1 Pictures
   stations: 'Tokyo MX, BS11, etc.'
@@ -380,7 +380,7 @@
   extra_info: Bloco Aniplex Saturday Night
   groups:
     Crunchyroll: stream
-    Bakemono: planned
+    Bakemono: active
     Eternal Animes: planned
     Infinite: planned
 - name_ja: Tensei Shitara Slime Datta Ken
@@ -404,7 +404,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13481'
   groups:
     Crunchyroll: stream
-    Eternal Animes: planned
+    Eternal Animes: active
 - name_ja: 'Tokyo Ghoul:re 2'
   studio: Studio Pierrot / Studio Pierrot+
   stations: Tokyo MX
