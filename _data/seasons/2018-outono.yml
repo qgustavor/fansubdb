@@ -74,7 +74,7 @@
   extra_info: 'Continuação da Série, Temporada Final'
   groups:
     Crunchyroll: stream
-    Infinite: planned
+    Infinite: active
 - name_ja: Gaikotsu Shoten'in Honda-san
   studio: DLE
   stations: BS11
@@ -196,7 +196,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13925'
   extra_info: Bloco Animeism
   groups:
-    Infinite: planned
+    Infinite: active
 - name_ja: Jingai-san no Yome
   studio: Saetta
   stations: Tokyo MX
