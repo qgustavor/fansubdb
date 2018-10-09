@@ -1,4 +1,4 @@
-# Auto-converted from https://fansubdb.com/w/index.php?title=Autumn_2018&oldid=23751
+# Auto-converted from https://fansubdb.com/w/index.php?title=Autumn_2018&oldid=23772
 
 - name_ja: Akanesasu Shoujo
   studio: DandeLion Animation Studio / Jumonji
@@ -11,6 +11,7 @@
   studio: Doga Kobo
   stations: AT-X
   premiere: 2018-10-07T23:30:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13756'
   groups:
     Crunchyroll: stream
@@ -18,6 +19,7 @@
   studio: Studio DEEN
   stations: TBS
   premiere: 2018-10-05T01:58:00+0900
+  episodes: 12
   extra_info: Bloco Animerico
   groups:
     Crunchyroll: stream
@@ -71,6 +73,7 @@
   studio: A-1 Pictures / CloverWorks / Bridge
   stations: TV Tokyo Nat. Net.
   premiere: 2018-10-07T07:00:00+0900
+  episodes: 25
   extra_info: 'Continuação da Série, Temporada Final'
   groups:
     Crunchyroll: stream
@@ -87,6 +90,7 @@
   studio: Brain's Base
   stations: TBS
   premiere: 2018-10-05T01:28:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14001'
   extra_info: 'Spinoff de Sengoku Basara, Bloco Animerico'
   groups:
@@ -95,6 +99,7 @@
   studio: White Fox
   stations: AT-X
   premiere: 2018-10-07T00:30:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13831'
   groups:
     Crunchyroll: stream
@@ -119,7 +124,7 @@
   stations: Nippon TV Nat. Net.
   premiere: 2018-10-06T17:30:00+0900
   season: 2
-  episodes: 2-cour
+  episodes: 24
   groups:
     Crunchyroll: stream
 - name_ja: Hangyakusei Million Arthur
@@ -140,6 +145,7 @@
   studio: Bouncy
   stations: BS11
   premiere: 2018-10-08T00:45:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13629'
   is_short: true
   groups:
@@ -365,6 +371,7 @@
   studio: Trigger / Tsuburaya Productions
   stations: WOWOW
   premiere: 2018-10-07T00:00:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13260'
   groups:
     Crunchyroll: stream
@@ -435,6 +442,7 @@
   studio: Doga Kobo
   stations: AT-X
   premiere: 2018-10-05T23:00:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14026'
   groups:
     Crunchyroll: stream
