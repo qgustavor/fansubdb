@@ -249,6 +249,7 @@
   premiere: 2018-09-06T17:55:00+0900
   season: 2
 - name_ja: Kishuku Gakkou no Juliet
+  name_pt: Juliet do Internato
   studio: Lidenfilms
   stations: TBS
   premiere: 2018-10-06T01:25:00+0900
@@ -256,7 +257,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13911'
   extra_info: Bloco Animeism
   groups:
-    Kirinashi: planned
+    Kirinashi: active
 - name_ja: Kitsune no Koe
   studio: Yumeta Company
   stations: AT-X
@@ -388,7 +389,7 @@
   groups:
     Crunchyroll: stream
     Bakemono: active
-    Eternal Animes: planned
+    Eternal Animes: active
     Infinite: planned
 - name_ja: Tensei Shitara Slime Datta Ken
   name_pt: Sobre Reencarnar Como Slime
@@ -423,6 +424,7 @@
   groups:
     Crunchyroll: stream
 - name_ja: Tonari no Kyuuketsuki-san
+  name_ja: Vampira do Bairro
   studio: Studio Gokumi / AXsiZ
   stations: AT-X
   premiere: 2018-10-05T21:00:00+0900
@@ -430,7 +432,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13966'
   groups:
     Crunchyroll: stream
-    Kirinashi: planned
+    Kirinashi: active
 - name_ja: 'Tsurune: Kazemai Koukou Kyuudoubu'
   studio: Kyoto Animation
   stations: NHK-G
