@@ -424,7 +424,7 @@
   groups:
     Crunchyroll: stream
 - name_ja: Tonari no Kyuuketsuki-san
-  name_ja: Vampira do Bairro
+  name_pt: Vampira do Bairro
   studio: Studio Gokumi / AXsiZ
   stations: AT-X
   premiere: 2018-10-05T21:00:00+0900
@@ -467,6 +467,7 @@
   groups:
     Crunchyroll: stream
 - name_ja: Yagate Kimi ni Naru
+  name_jp: Me Tornando Você
   studio: TROYCA
   stations: AT-X
   premiere: 2018-10-05T21:30:00+0900
@@ -474,7 +475,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14053'
   groups:
     HIDIVE: stream
-    Kirinashi: planned
+    Kirinashi: active
 - name_ja: Zombieland Saga
   studio: MAPPA
   stations: AbemaTV / AT-X
