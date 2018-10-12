@@ -56,7 +56,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13536'
   extra_info: Bloco noitaminA
   groups:
-    Aenianos: active
+    Aenianos: dropped-active
     Moshi Moshi: active
 - name_ja: Bang Dream! Garupa Pico
   studio: Sanzigen
@@ -216,7 +216,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13637'
   episodes: 11+1
   groups:
-    Aenianos: active
+    Aenianos: dropped-active
 - name_ja: Joshi Ochi! 2-kai kara Onnanoko ga... Futte Kita!?
   studio: ark
   stations: ComicFesta
