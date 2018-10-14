@@ -34,3 +34,8 @@ ul li, ol li {
   font-size: 0.9em;
   white-space: nowrap;
 }
+
+.graph-svg-tip.comparison li {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
