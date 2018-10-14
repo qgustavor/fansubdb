@@ -1,9 +1,10 @@
-# Auto-converted from https://fansubdb.com/w/index.php?title=Autumn_2018&oldid=23772
+# Auto-converted from https://fansubdb.com/w/index.php?title=Autumn_2018&oldid=23801
 
 - name_ja: Akanesasu Shoujo
   studio: DandeLion Animation Studio / Jumonji
   stations: BS-Animax
   premiere: 2018-10-01T19:30:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13956'
   groups:
     HIDIVE: stream
@@ -37,8 +38,11 @@
   studio: Lidenfilms
   stations: ABC
   premiere: 2018-10-11T02:50:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14025'
   extra_info: Bloco Aniplex Saturday Night
+  groups:
+    Crunchyroll: stream
 - name_ja: Conception
   studio: GONZO
   stations: SUN / BS11
@@ -171,7 +175,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14417'
   extra_info: 'Spinoff de Kaiji, Bloco AnichU'
   groups:
-    Crunchyroll: rumor
+    Crunchyroll: stream
 - name_ja: 'Idolmaster Side M: Wake Atte Mini!'
   studio: Zero-G
   stations: Tokyo MX / BS11
@@ -286,7 +290,8 @@
   episodes: 10
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13534'
   groups:
-    Eternal Animes: planned
+    Crunchyroll: stream
+    Eternal Animes: active
 - name_ja: Otona no Bouguya-san
   studio: Imagica Imageworks
   stations: GANMA! App
@@ -302,7 +307,7 @@
   groups:
     Crunchyroll: stream
     Infinite: active
-- name_ja: Release the Spyce
+- name_ja: RELEASE THE SPYCE
   studio: Lay-duce
   stations: MBS
   episodes: 12
@@ -383,9 +388,9 @@
   stations: 'Tokyo MX, BS11, etc.'
   premiere: 2018-10-07T00:00:00+0900
   season: 3
-  episodes: 4-cour
+  episodes: 24
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13493'
-  extra_info: Bloco Aniplex Saturday Night
+  extra_info: 1º Cour, Bloco Aniplex Saturday Night
   groups:
     Crunchyroll: stream
     Bakemono: active
@@ -393,7 +398,7 @@
     Infinite: planned
 - name_ja: Tensei Shitara Slime Datta Ken
   name_pt: Sobre Reencarnar Como Slime
-  studio: 8bit
+  studio: Eightbit
   stations: Tokyo MX / BS11
   premiere: 2018-10-02T00:00:00+0900
   episodes: 24
