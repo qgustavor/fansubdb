@@ -106,7 +106,7 @@
       }).length * 100 / window.store[seasonKey].length
     })
   }, {
-    name: 'Só via streaming',
+    name: 'Só em streaming',
     values: seasonOrder.map(function (seasonKey) {
       return window.store[seasonKey].filter(function (entry) {
         if (!entry.groups) return false
@@ -176,9 +176,28 @@
             return Math.max(sum, groupCount)
           }, 0)
         })
+      }, {
+        name: 'Quant. de oversub',
+        values: seasonOrder.map(function (seasonKey) {
+          return window.store[seasonKey].reduce(function (sum, entry) {
+            if (!entry.groups) return sum
+            var groupCount = 0
+            for (var group in entry.groups) {
+              if (entry.groups[group] === 'stream') continue
+              if (entry.groups[group] === 'rumor') continue
+              groupCount++
+            }
+            return groupCount > 1 ? sum + 1 : sum
+          }, 0)
+        })
       }]
     }
   })
+
+  container.append($('<p>')
+    .text('"Oversub máx." é a quantidade máxima de fansubs traduzindo um único anime em uma temporada. ' +
+    '"Quant. de oversub" é a quantidade de animes traduzidos por mais de uma fansub em uma temporada')
+  )
 
   var streamingServices = []
   $.each(window.store, function (seasonKey, season) {
