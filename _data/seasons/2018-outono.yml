@@ -8,6 +8,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13956'
   groups:
     HIDIVE: stream
+    Isekai Subs: active
 - name_ja: Anima Yell!
   studio: Doga Kobo
   stations: AT-X
@@ -147,6 +148,8 @@
   episodes: 4
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14349'
   is_short: true
+  group:
+    Isekai Subs: active
 - name_ja: Himote House
   studio: Bouncy
   stations: BS11
@@ -233,6 +236,8 @@
   premiere: 2018-10-11T22:30:00+0900
   episodes: 36
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13898'
+  groups:
+    Isekai Subs: active
 - name_ja: Kaze ga Tsuyoku Fuiteiru
   studio: Production I.G
   stations: Nippon TV
@@ -285,6 +290,8 @@
   premiere: 2018-10-06T01:35:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14241'
   is_short: true
+  groups:
+    Isekai Subs: active
 - name_ja: Ore ga Suki nano wa Imouto dakedo Imouto ja Nai
   studio: NAZ / Magia Doraglier
   stations: AT-X
