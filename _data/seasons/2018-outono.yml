@@ -108,6 +108,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13831'
   groups:
     Crunchyroll: stream
+    Diogo4D: active
     Eternal Animes: active
 - name_ja: Golden Kamuy 2
   studio: Geno Studio
