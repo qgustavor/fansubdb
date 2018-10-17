@@ -149,6 +149,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14349'
   is_short: true
   group:
+    Infinite: active
     Isekai Subs: active
 - name_ja: Himote House
   studio: Bouncy
