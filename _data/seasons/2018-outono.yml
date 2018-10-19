@@ -344,7 +344,7 @@
   groups:
     Crunchyroll: stream
     Bakemono: active
-    IlluminatiSubs: active
+    Illuminati: active
     Infinite: active
 - name_ja: 'Senran Kagura: Shinovi Master - Tokyo Youma-hen'
   studio: TNK
@@ -464,6 +464,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14026'
   groups:
     Crunchyroll: stream
+    Konbini: active
 - name_ja: Uchuu Senkan Tiramisù II
   studio: GONZO
   stations: Tokyo MX
