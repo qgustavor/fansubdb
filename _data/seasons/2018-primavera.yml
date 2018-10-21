@@ -184,6 +184,8 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13753'
   episodes: 1-cour
   is_short: true
+  groups:
+    Lolisub: active
 - name_ja: Gegege no Kitarou (2018)
   studio: Toei Animation
   stations: Fuji TV Nat. Net.

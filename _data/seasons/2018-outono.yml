@@ -366,6 +366,8 @@
   premiere: 2018-10-07T00:35:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14339'
   is_short: true
+  groups:
+    Infinite: active
 - name_ja: Sora to Umi no Aida
   studio: TMS Entertainment
   stations: Tokyo MX / SUN
