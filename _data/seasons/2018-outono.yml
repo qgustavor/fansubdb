@@ -206,12 +206,14 @@
   groups:
     Netflix: stream
 - name_ja: Irozuku Sekai no Ashita kara
+  name_pt: 'IRODUKU: O MUNDO EM CORES'
   studio: P.A. Works
   stations: TBS
   premiere: 2018-10-06T01:55:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13925'
   extra_info: Bloco Animeism
   groups:
+    Amazon Prime Video: stream
     Infinite: active
 - name_ja: Jingai-san no Yome
   studio: Saetta
@@ -346,6 +348,7 @@
     Bakemono: active
     Illuminati: active
     Infinite: active
+    Kirinashi: active
 - name_ja: 'Senran Kagura: Shinovi Master - Tokyo Youma-hen'
   studio: TNK
   stations: AT-X
