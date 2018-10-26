@@ -328,6 +328,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13760'
   groups:
     HIDIVE: stream
+    Infinite: active
 - name_ja: 'RErideD: Tokigoe no Derrida'
   studio: GEEKTOYS
   stations: Tokyo MX / KBS
@@ -498,6 +499,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14053'
   groups:
     HIDIVE: stream
+    Diogo4D: active
     Kirinashi: active
 - name_ja: Zombieland Saga
   studio: MAPPA
