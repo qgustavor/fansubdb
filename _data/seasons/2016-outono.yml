@@ -42,6 +42,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11580'
   groups:
     Crunchyroll: stream
+    Crow: active
 - name_ja: Ameiro Cocoa in Hawaii
   studio: EMT Squared
   stations: Sun TV
