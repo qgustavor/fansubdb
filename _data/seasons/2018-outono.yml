@@ -273,6 +273,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13911'
   extra_info: Bloco Animeism
   groups:
+    Amazon Prime Video: stream
     Kirinashi: active
 - name_ja: Kitsune no Koe
   studio: Yumeta Company
