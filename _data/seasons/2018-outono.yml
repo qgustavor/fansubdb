@@ -225,6 +225,7 @@
   is_short: true
   groups:
     Crunchyroll: stream
+    Infinite: active
 - name_ja: 'JoJo no Kimyou na Bouken: Ougon no Kaze'
   studio: David Production
   stations: Tokyo MX
