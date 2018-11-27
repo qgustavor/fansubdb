@@ -428,7 +428,6 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13871'
   groups:
     Crunchyroll: stream
-    Bakemono: planned
     Eternal Animes: active
     Illuminati: active
     Kirinashi: active

@@ -155,6 +155,7 @@
   premiere: 2018-07-01T13:25:00+0900
   extra_info: Bloco Animeism
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13944'
   groups:
     Amazon Prime Video: stream
     Diogo4D: active
