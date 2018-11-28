@@ -498,7 +498,6 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11167'
   extra_info: Continuação de Steins;Gate
   groups:
-    Crunchyroll: stream
     Eternal Animes: active
     Ichiban-Lolisub: active
 - name_ja: 'Sword Art Online Alternative: Gun Gale Online'
