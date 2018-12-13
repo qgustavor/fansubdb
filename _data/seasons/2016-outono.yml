@@ -440,6 +440,7 @@
   is_short: true
   groups:
     Crunchyroll: stream
+    Infinite: active
 - name_ja: 'Persona 5 The Animation: The Day Breakers'
   studio: A-1 Pictures
   stations: Tokyo MX

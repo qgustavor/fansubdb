@@ -270,6 +270,7 @@
   is_short: true
   groups:
     Crunchyroll: stream
+    Infinite: active
 - name_ja: Over Lord
   studio: Madhouse
   stations: AT-X
