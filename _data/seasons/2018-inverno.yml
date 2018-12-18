@@ -3,6 +3,7 @@
 - name_ja: '3D Kanojo: Real Girl 2'
   studio: Hoods Entertainment
   stations: Nippon TV
+  premiere: 2018-01-09T01:59:00+0900
   season: 2
   episodes: 1-cour
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14165'
@@ -73,6 +74,8 @@
   stations: WOWOW
   premiere: 2018-01-04T21:30:00+0900
   episodes: 12
+  groups:
+    Kyoto: planned
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14447'
 - name_ja: Endro~!
   studio: Studio Gokumi
@@ -166,6 +169,8 @@
   extra_info: Bloco Animeism
 - name_ja: Manaria Friends
   studio: CygamesPictures
+  stations: Tokyo MX
+  premiere: 2018-01-21T00:30:00+0900
   is_short: true
   extra_info: Spinoff de Shingeki no Bahamut
 - name_ja: Meiji Tokyo Renka
@@ -175,6 +180,7 @@
   studio: Project No. 9
   stations: AT-X
   premiere: 2018-01-06T01:55:00+0900
+  episodes: 11
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14489'
   is_short: true
   extra_info: Spinoff de Toji no Miko
