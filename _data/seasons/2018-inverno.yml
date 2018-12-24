@@ -1,4 +1,4 @@
-# Auto-converted from https://fansubdb.com/w/index.php?title=Winter_2018&oldid=23997
+# Auto-converted from https://fansubdb.com/w/index.php?title=Winter_2018&oldid=24130
 
 - name_ja: '3D Kanojo: Real Girl 2'
   studio: Hoods Entertainment
@@ -10,9 +10,19 @@
   extra_info: Bloco AnichU
   groups:
     HIDIVE: stream
+- name_ja: 'Aggressive Retsuko: We Wish You a Metal Christmas'
+  studio: Fanworks
+  stations: Netflix
+  premiere: 2017-12-20T00:00:00+0900
+  episodes: 1
+  is_short: true
+  extra_info: Web Special
+  groups:
+    Netflix: stream
 - name_ja: Ameiro Cocoa side G
   studio: EMT Squared
-  stations: 'Tokyo MX, AT-X, etc.'
+  stations: Tokyo MX
+  premiere: 2018-01-09T01:35:00+0900
   season: 5
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14039'
   is_short: true
@@ -22,37 +32,46 @@
   premiere: 2018-01-12T00:00:00+0900
   season: 2
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13495'
-  extra_info: Bloco Aniplex Saturday Night
+  extra_info: Bloco  Aniplex Saturday Night
   groups:
     Crunchyroll: stream
-- name_ja: BanG Dream! 2
-  studio: Sanzigen
-  stations: Tokyo MX / AT-X
+- name_ja: BanG Dream! 2nd Season
+  studio: Passione / Sanzigen / Creators in Pack
+  stations: AbemaTV
+  premiere: 2018-01-03T22:30:00+0900
   season: 2
   episodes: 1-cour
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14075'
   groups:
     HIDIVE: stream
+    Kirinashi: planned
 - name_ja: 'Bermuda Triangle: Colorful Pastrale'
   studio: Seven Arcs Pictures
-  stations: Tokyo MX
-  premiere: 2018-01-12T22:00:00+0900
+  stations: AbemaTV
+  premiere: 2018-01-12T21:30:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13912'
   extra_info: Spinoff de Cardfight!! Vanguard
 - name_ja: Boogiepop wa Warawanai
   studio: Madhouse
-  stations: 'AT-X, Tokyo MX, etc.'
-  premiere: 2018-01-04T00:00:00+0900
+  stations: AT-X
+  premiere: 2018-01-04T21:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13899'
   extra_info: Remake da série dos anos 2000
 - name_ja: Circlet Princess
   studio: Silver Link
+  stations: Tokyo MX
+  premiere: 2018-01-08T23:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14255'
 - name_ja: Date A Live III
   studio: J.C. Staff
+  stations: AT-X
+  premiere: 2018-01-11T21:30:00+0900
   season: 3
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13533'
 - name_ja: Dimension High School
   studio: Polygon Pictures
+  stations: Tokyo MX
+  premiere: 2018-01-10T22:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14427'
 - name_ja: Domestic na Kanojo
   studio: Diomedea
@@ -75,16 +94,17 @@
   premiere: 2018-01-04T21:30:00+0900
   episodes: 12
   groups:
-    Kyoto: planned
+    Kyoto: planned  
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14447'
 - name_ja: Endro~!
   studio: Studio Gokumi
   stations: Tokyo MX / BS11
   premiere: 2018-01-13T01:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14232'
-- name_ja: Flying Babies
-  studio: GAINA
-  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12522'
+- name_ja: 'Fight League: Gear Gadget Generators'
+  studio: BN Pictures
+  stations: YouTube
+  premiere: 2018-02-14T20:00:00+0900
 - name_ja: 'Fukigen na Mononokean: Tsuzuki'
   studio: Pierrot Plus
   stations: AT-X
@@ -98,12 +118,16 @@
   stations: AT-X
   premiere: 2018-01-10T23:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14113'
+  groups:
+    Kirinashi: planned
 - name_ja: Go-toubun no Hanayome
   studio: Tezuka Productions
   stations: TBS
   premiere: 2018-01-11T01:28:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14247'
   extra_info: Bloco Animerico
+  groups:
+    Kirinashi: planned
 - name_ja: Grimms Notes The Animation
   studio: Brain's Base
   stations: TBS
@@ -124,12 +148,27 @@
   extra_info: Todos os 15 episódios lançados juntos
   groups:
     Netflix: stream
+- name_ja: Hulaing Babies
+  studio: GAINA (como "Fukushima Gaina")
+  stations: TV Tokyo
+  premiere: 2018-01-11T03:05:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12522'
+  is_short: true
+- name_ja: 'Ikkitousen: Western Wolves'
+  studio: ARMS
+  stations: AT-X
+  premiere: 2018-01-03T21:00:00+0900
+  episodes: 3
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14420'
+  extra_info: Novos episódios todo mês
 - name_ja: 'Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen'
   studio: A-1 Pictures
   stations: 'Tokyo MX, BS11, etc.'
   premiere: 2018-01-12T23:30:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14111'
   extra_info: Bloco Aniplex Saturday Night
+  groups:
+    Crunchyroll: stream
 - name_ja: Kakegurui××
   studio: MAPPA
   stations: MBS
@@ -149,8 +188,9 @@
     Crunchyroll: stream
 - name_ja: Kemurikusa
   studio: Yaoyorozu
-  stations: BS Fuji
+  stations: Amazon Prime Video
   premiere: 2018-01-09T22:15:00+0900
+  episodes: 12
 - name_ja: Kouya no Kotobuki Hikoutai
   studio: GEMBA
   stations: Tokyo MX
@@ -159,7 +199,7 @@
 - name_ja: Lord El-Melloi II Case Files
   studio: TROYCA
   stations: 'Tokyo MX, BS11, etc.'
-  premiere: 2017-12-31T00:00:00+0900
+  premiere: 2017-12-31T21:00:00+0900
   extra_info: Especial de TV
 - name_ja: Mahou Shoujo Tokushusen Asuka
   studio: Lidenfilms
@@ -171,16 +211,29 @@
   studio: CygamesPictures
   stations: Tokyo MX
   premiere: 2018-01-21T00:30:00+0900
+  episodes: 10
   is_short: true
   extra_info: Spinoff de Shingeki no Bahamut
+- name_ja: Mannaka no Rikkun
+  studio: Sakura Create
+  stations: TV Tokyo
+  premiere: 2018-01-09T07:30:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13955'
+- name_ja: Märchen Mädchen
+  studio: Hoods Entertainment
+  episodes: 2
+  groups:
+    Crunchyroll: stream
 - name_ja: Meiji Tokyo Renka
   studio: TMS Entertainment
+  stations: Tokyo MX
+  premiere: 2018-01-09T23:30:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12461'
 - name_ja: Mini Toji
   studio: Project No. 9
   stations: AT-X
   premiere: 2018-01-06T01:55:00+0900
-  episodes: 11
+  episodes: 11+1
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14489'
   is_short: true
   extra_info: Spinoff de Toji no Miko
@@ -192,6 +245,11 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13939'
   groups:
     Crunchyroll: stream
+- name_ja: 'Papa Datte, Shitai'
+  studio: Magic Bus
+  stations: ComicFesta
+  premiere: 2018-01-07T00:00:00+0900
+  is_short: true
 - name_ja: Pastel Memories
   studio: Project No. 9
   stations: 'Tokyo MX, etc.'
@@ -222,8 +280,11 @@
   groups:
     Netflix: stream
 - name_ja: Rinshi!! Ekoda-chan
-  stations: 'Tokyo MX, AT-X, etc.'
+  stations: Tokyo MX
+  premiere: 2018-01-09T01:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14258'
+  is_short: true
+  extra_info: 2ª série
 - name_ja: 'Saiki Kusuo no Psi Nan: Kanketsu-hen'
   studio: J.C. Staff / EGG FIRM
   stations: TV Tokyo Nat. Net.
@@ -237,10 +298,17 @@
   premiere: 2017-12-10T19:00:00+0900
   groups:
     Crunchyroll: stream
+- name_ja: Star Twinkle Precure
+  studio: Toei Animation
+  stations: TV Asahi Nat. Net.
+  premiere: 2018-02-03T08:30:00+0900
+  episodes: 4-cour
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14459'
+  extra_info: 15ª série
 - name_ja: 'Tantei Opera Milky Holmes: Psycho no Aisatsu'
   studio: J.C. Staff
   stations: Tokyo MX
-  premiere: 2017-12-31T00:00:00+0900
+  premiere: 2017-12-31T19:30:00+0900
   episodes: 1
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14135'
   extra_info: 'Especial de TV, final da série, crossover com Cardfight! Vanguard'
@@ -252,12 +320,18 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13246'
   groups:
     Crunchyroll: stream
-    Eternal Animes: planned
+    Eternal Animes: planned                           
 - name_ja: Ueno-san wa Bukiyou
   studio: Lesprit
-  stations: BS11
+  stations: BS11 / AbemaTV
   premiere: 2018-01-07T00:30:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14094'
+  is_short: true
+- name_ja: Virtual-san wa Miteiru
+  studio: Lide
+  stations: Tokyo MX
+  premiere: 2018-01-10T00:30:00+0900
+  episodes: 12
 - name_ja: W'z
   studio: GoHands
   stations: Tokyo MX
@@ -266,7 +340,8 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13934'
 - name_ja: Watashi ni Tenshi ga Maiorita!
   studio: Doga Kobo
-  stations: 'AT-X, Tokyo MX, etc.'
+  stations: AT-X
+  premiere: 2018-01-08T22:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14156'
 - name_ja: Yakusoku no Neverland
   studio: CloverWorks
@@ -277,3 +352,6 @@
   extra_info: >-
     Bloco noitaminA. Preview do episódio 1 indo ao ar em Amazon Prime Video,
     na meia noite do dia 10 de janeiro.
+  groups:
+    Crunchyroll: stream
+    Kirinashi: planned
