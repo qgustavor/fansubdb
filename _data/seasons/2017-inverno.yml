@@ -160,6 +160,8 @@
   premiere: 2016-12-31T22:00:00+0900
   episodes: 1
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13643'
+  groups:
+    Eternal Animes: active
 - name_ja: Gakuen Babysitters
   studio: Brain's Base
   stations: Tokyo MX
