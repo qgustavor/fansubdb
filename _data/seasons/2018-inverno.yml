@@ -1,4 +1,4 @@
-# Auto-converted from https://fansubdb.com/w/index.php?title=Winter_2018&oldid=24130
+# Auto-converted from https://fansubdb.com/w/index.php?title=Winter_2018&oldid=24148
 
 - name_ja: '3D Kanojo: Real Girl 2'
   studio: Hoods Entertainment
@@ -94,6 +94,7 @@
   premiere: 2018-01-04T21:30:00+0900
   episodes: 12
   groups:
+    Crunchyroll: stream
     Kyoto: planned  
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14447'
 - name_ja: Endro~!
@@ -119,6 +120,7 @@
   premiere: 2018-01-10T23:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14113'
   groups:
+    Crunchyroll: stream
     Kirinashi: planned
 - name_ja: Go-toubun no Hanayome
   studio: Tezuka Productions
@@ -140,6 +142,8 @@
   premiere: 2017-12-27T00:30:00+0900
   episodes: 1
   extra_info: Especial de TV
+  groups:
+    Crunchyroll: stream
 - name_ja: Hero Mask
   studio: Studio Pierrot
   stations: Netflix
@@ -214,6 +218,8 @@
   episodes: 10
   is_short: true
   extra_info: Spinoff de Shingeki no Bahamut
+  groups:
+    Kirinashi: active
 - name_ja: Mannaka no Rikkun
   studio: Sakura Create
   stations: TV Tokyo
@@ -222,6 +228,7 @@
 - name_ja: Märchen Mädchen
   studio: Hoods Entertainment
   episodes: 2
+  extra_info: Episódios 11 e 12
   groups:
     Crunchyroll: stream
 - name_ja: Meiji Tokyo Renka
@@ -262,6 +269,8 @@
   episodes: 1
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14421'
   extra_info: Especial de TV
+  groups:
+    Crunchyroll: stream
 - name_ja: Piano no Mori 2
   studio: GAINA
   stations: NHK-G
