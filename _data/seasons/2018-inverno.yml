@@ -68,6 +68,8 @@
   premiere: 2018-01-11T21:30:00+0900
   season: 3
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13533'
+  groups:
+    Bakemono: planned
 - name_ja: Dimension High School
   studio: Polygon Pictures
   stations: Tokyo MX
@@ -329,6 +331,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13246'
   groups:
     Crunchyroll: stream
+    Bakemono: planned                           
     Eternal Animes: planned                           
 - name_ja: Ueno-san wa Bukiyou
   studio: Lesprit
