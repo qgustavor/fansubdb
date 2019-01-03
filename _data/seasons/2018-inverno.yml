@@ -1,4 +1,4 @@
-# Auto-converted from https://fansubdb.com/w/index.php?title=Winter_2018&oldid=24148
+# Auto-converted from https://fansubdb.com/w/index.php?title=Winter_2018&oldid=24216
 
 - name_ja: '3D Kanojo: Real Girl 2'
   studio: Hoods Entertainment
@@ -61,12 +61,14 @@
   studio: Silver Link
   stations: Tokyo MX
   premiere: 2018-01-08T23:00:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14255'
 - name_ja: Date A Live III
   studio: J.C. Staff
   stations: AT-X
   premiere: 2018-01-11T21:30:00+0900
   season: 3
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13533'
   groups:
     Bakemono: planned
@@ -83,22 +85,30 @@
   extra_info: Bloco Animeism
 - name_ja: Dororo
   studio: MAPPA / Tezuka Productions
-  stations: Tokyo MX
-  premiere: 2018-01-07T22:00:00+0900
+  stations: Amazon Prime Video
+  premiere: 2018-01-07T00:00:00+0900
+- name_ja: Double Decker! Doug & Kirill
+  studio: Sunrise
+  stations: Bandai Channel
+  episodes: 3
+  extra_info: Novos episódios todo mês
+  groups:
+    Crunchyroll: stream
 - name_ja: 'Doukyonin wa Hiza, Tokidoki, Atama no Ue.'
   studio: Zero-G
   stations: AT-X
   premiere: 2018-01-09T23:30:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14253'
 - name_ja: Egao no Daika
   studio: Tatsunoko Production
   stations: WOWOW
   premiere: 2018-01-04T21:30:00+0900
   episodes: 12
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14447'
   groups:
     Crunchyroll: stream
     Kyoto: planned  
-  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14447'
 - name_ja: Endro~!
   studio: Studio Gokumi
   stations: Tokyo MX / BS11
@@ -202,10 +212,20 @@
   stations: Tokyo MX
   premiere: 2018-01-13T22:30:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14392'
-- name_ja: Lord El-Melloi II Case Files
+- name_ja: 'Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi'
   studio: TROYCA
   stations: 'Tokyo MX, BS11, etc.'
   premiere: 2017-12-31T21:00:00+0900
+  episodes: 1
+  extra_info: Especial de TV
+  groups:
+    Crunchyroll: stream
+    Eternal Animes: active
+- name_ja: 'Lupin Sansei: Goodbye Partner'
+  studio: TMS Entertainment
+  stations: Nippon TV Nat. Net.
+  premiere: 2018-01-25T21:00:00+0900
+  episodes: 1
   extra_info: Especial de TV
 - name_ja: Mahou Shoujo Tokushusen Asuka
   studio: Lidenfilms
@@ -263,6 +283,7 @@
   studio: Project No. 9
   stations: 'Tokyo MX, etc.'
   premiere: 2018-01-08T00:30:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13839'
 - name_ja: 'Persona 5 the Animation: Dark Sun...'
   studio: CloverWorks
@@ -285,9 +306,9 @@
   studio: Shirogumi
   stations: Fuji TV
   premiere: 2018-01-10T00:55:00+0900
-  episodes: 1-cour
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13891'
-  extra_info: Bloco +Ultra
+  extra_info: Bloco +Ultra, todos os episódios serão lançados na Netflix Japão dia 10 de janeiro
   groups:
     Netflix: stream
 - name_ja: Rinshi!! Ekoda-chan
@@ -337,12 +358,15 @@
   studio: Lesprit
   stations: BS11 / AbemaTV
   premiere: 2018-01-07T00:30:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14094'
   is_short: true
+  groups:
+    HIDIVE: stream
 - name_ja: Virtual-san wa Miteiru
   studio: Lide
   stations: Tokyo MX
-  premiere: 2018-01-10T00:30:00+0900
+  premiere: 2018-01-10T00:00:00+0900
   episodes: 12
 - name_ja: W'z
   studio: GoHands
@@ -350,6 +374,8 @@
   premiere: 2018-01-06T01:30:00+0900
   episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13934'
+  groups:
+    HIDIVE: stream
 - name_ja: Watashi ni Tenshi ga Maiorita!
   studio: Doga Kobo
   stations: AT-X
