@@ -108,7 +108,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14447'
   groups:
     Crunchyroll: stream
-    Kyoto: planned  
+    Kyoto: active  
 - name_ja: Endro~!
   studio: Studio Gokumi
   stations: Tokyo MX / BS11
