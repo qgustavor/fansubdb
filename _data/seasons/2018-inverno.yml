@@ -1,4 +1,4 @@
-# Auto-converted from https://fansubdb.com/w/index.php?title=Winter_2018&oldid=24216
+# Auto-converted from https://fansubdb.com/w/index.php?title=Winter_2018&oldid=24259
 
 - name_ja: '3D Kanojo: Real Girl 2'
   studio: Hoods Entertainment
@@ -32,7 +32,7 @@
   premiere: 2018-01-12T00:00:00+0900
   season: 2
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13495'
-  extra_info: Bloco  Aniplex Saturday Night
+  extra_info: Bloco Aniplex Friday Night
   groups:
     Crunchyroll: stream
 - name_ja: BanG Dream! 2nd Season
@@ -51,12 +51,16 @@
   premiere: 2018-01-12T21:30:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13912'
   extra_info: Spinoff de Cardfight!! Vanguard
+  groups:
+    HIDIVE: stream
 - name_ja: Boogiepop wa Warawanai
   studio: Madhouse
   stations: AT-X
   premiere: 2018-01-04T21:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13899'
   extra_info: Remake da série dos anos 2000
+  groups:
+    Crunchyroll: stream
 - name_ja: Circlet Princess
   studio: Silver Link
   stations: Tokyo MX
@@ -76,13 +80,18 @@
   studio: Polygon Pictures
   stations: Tokyo MX
   premiere: 2018-01-10T22:00:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14427'
+  groups:
+    Crunchyroll: stream
 - name_ja: Domestic na Kanojo
   studio: Diomedea
   stations: MBS / TBS
   premiere: 2018-01-12T01:55:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14213'
   extra_info: Bloco Animeism
+  groups:
+    HIDIVE: stream
 - name_ja: Dororo
   studio: MAPPA / Tezuka Productions
   stations: Amazon Prime Video
@@ -123,6 +132,7 @@
   stations: AT-X
   premiere: 2018-01-05T21:00:00+0900
   season: 2
+  episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14177'
   groups:
     Crunchyroll: stream
@@ -222,7 +232,7 @@
     Crunchyroll: stream
     Eternal Animes: active
     Kirinashi: active
-- name_ja: 'Lupin Sansei: Goodbye Partner'
+- name_ja: 'Lupin III: Goodbye Partner'
   studio: TMS Entertainment
   stations: Nippon TV Nat. Net.
   premiere: 2018-01-25T21:00:00+0900
@@ -234,6 +244,8 @@
   premiere: 2018-01-12T02:25:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14229'
   extra_info: Bloco Animeism
+  groups:
+    Crunchyroll: stream
 - name_ja: Manaria Friends
   studio: CygamesPictures
   stations: Tokyo MX
@@ -242,23 +254,20 @@
   is_short: true
   extra_info: Spinoff de Shingeki no Bahamut
   groups:
+    HIDIVE: rumor
     Kirinashi: active
 - name_ja: Mannaka no Rikkun
   studio: Sakura Create
   stations: TV Tokyo
   premiere: 2018-01-09T07:30:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13955'
-- name_ja: Märchen Mädchen
-  studio: Hoods Entertainment
-  episodes: 2
-  extra_info: Episódios 11 e 12
-  groups:
-    Crunchyroll: stream
 - name_ja: Meiji Tokyo Renka
   studio: TMS Entertainment
   stations: Tokyo MX
   premiere: 2018-01-09T23:30:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12461'
+  groups:
+    Crunchyroll: stream
 - name_ja: Mini Toji
   studio: Project No. 9
   stations: AT-X
@@ -267,6 +276,8 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14489'
   is_short: true
   extra_info: Spinoff de Toji no Miko
+  groups:
+    Crunchyroll: stream
 - name_ja: Mob Psycho 100 II
   studio: Bones
   stations: Tokyo MX
@@ -286,6 +297,8 @@
   premiere: 2018-01-08T00:30:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13839'
+  groups:
+    HIDIVE: stream
 - name_ja: 'Persona 5 the Animation: Dark Sun...'
   studio: CloverWorks
   stations: 'Tokyo MX, BS11, etc.'
@@ -382,6 +395,8 @@
   stations: AT-X
   premiere: 2018-01-08T22:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14156'
+  groups:
+    Crunchyroll: stream
 - name_ja: Yakusoku no Neverland
   studio: CloverWorks
   stations: Fuji TV
@@ -393,4 +408,5 @@
     na meia noite do dia 10 de janeiro.
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
     Kirinashi: planned
