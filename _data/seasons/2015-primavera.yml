@@ -431,7 +431,6 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10601'
   groups:
     Crunchyroll: stream
-    Grilo Sub: active-dropped
     Moshi Moshi: active
 - name_ja: Yamada-kun to 7-nin no Majo
   studio: Liden Films

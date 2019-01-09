@@ -329,6 +329,8 @@
   season: 2
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10374'
   is_short: true
+  groups:
+    Crunchyroll: stream
 - name_ja: Toaru Hikuushi e no Koiuta
   studio: TMS Entertainment / 3xCube
   stations: Tokyo MX

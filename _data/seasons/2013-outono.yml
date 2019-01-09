@@ -345,6 +345,8 @@
   premiere: 2013-10-06T02:20:00+0900
   episodes: 　
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10010'
+  groups:
+    Crunchyroll: stream
 - name_ja: Tokyo Ravens
   studio: 8bit
   stations: Tokyo MX/Sun TV
