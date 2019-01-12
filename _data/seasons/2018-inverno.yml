@@ -1,11 +1,11 @@
-# Auto-converted from https://fansubdb.com/w/index.php?title=Winter_2018&oldid=24259
+# Auto-converted from https://fansubdb.com/w/index.php?title=Winter_2018&oldid=24313
 
 - name_ja: '3D Kanojo: Real Girl 2'
   studio: Hoods Entertainment
   stations: Nippon TV
   premiere: 2018-01-09T01:59:00+0900
   season: 2
-  episodes: 1-cour
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14165'
   extra_info: Bloco AnichU
   groups:
@@ -26,6 +26,8 @@
   season: 5
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14039'
   is_short: true
+  groups:
+    Crunchyroll: stream
 - name_ja: 'B-Project: Zecchou Emotion'
   studio: BN Pictures
   stations: 'Tokyo MX, BS11, etc.'
@@ -57,6 +59,7 @@
   studio: Madhouse
   stations: AT-X
   premiere: 2018-01-04T21:00:00+0900
+  episodes: 18
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13899'
   extra_info: Remake da série dos anos 2000
   groups:
@@ -75,6 +78,7 @@
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13533'
   groups:
+    Crunchyroll: stream
     Bakemono: planned
 - name_ja: Dimension High School
   studio: Polygon Pictures
@@ -88,6 +92,7 @@
   studio: Diomedea
   stations: MBS / TBS
   premiere: 2018-01-12T01:55:00+0900
+  episodes: 1-cour
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14213'
   extra_info: Bloco Animeism
   groups:
@@ -96,6 +101,7 @@
   studio: MAPPA / Tezuka Productions
   stations: Amazon Prime Video
   premiere: 2018-01-07T00:00:00+0900
+  episodes: 2-cour?
 - name_ja: Double Decker! Doug & Kirill
   studio: Sunrise
   stations: Bandai Channel
@@ -109,6 +115,8 @@
   premiere: 2018-01-09T23:30:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14253'
+  groups:
+    Crunchyroll: stream
 - name_ja: Egao no Daika
   studio: Tatsunoko Production
   stations: WOWOW
@@ -123,6 +131,8 @@
   stations: Tokyo MX / BS11
   premiere: 2018-01-13T01:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14232'
+  groups:
+    Crunchyroll: stream
 - name_ja: 'Fight League: Gear Gadget Generators'
   studio: BN Pictures
   stations: YouTube
@@ -140,6 +150,7 @@
   studio: Satelight
   stations: AT-X
   premiere: 2018-01-10T23:00:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14113'
   groups:
     Crunchyroll: stream
@@ -148,9 +159,11 @@
   studio: Tezuka Productions
   stations: TBS
   premiere: 2018-01-11T01:28:00+0900
+  episodes: 1-cour
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14247'
   extra_info: Bloco Animerico
   groups:
+    Crunchyroll: stream
     Kirinashi: planned
 - name_ja: Grimms Notes The Animation
   studio: Brain's Base
@@ -209,6 +222,7 @@
   stations: TV Tokyo
   premiere: 2018-01-08T02:05:00+0900
   season: 2
+  episodes: 1-cour
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13055'
   groups:
     Crunchyroll: stream
@@ -217,11 +231,15 @@
   stations: Amazon Prime Video
   premiere: 2018-01-09T22:15:00+0900
   episodes: 12
+  groups:
+    Amazon Prime Video: stream
 - name_ja: Kouya no Kotobuki Hikoutai
   studio: GEMBA
   stations: Tokyo MX
   premiere: 2018-01-13T22:30:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14392'
+  groups:
+    HIDIVE: stream
 - name_ja: 'Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi'
   studio: TROYCA
   stations: 'Tokyo MX, BS11, etc.'
@@ -242,6 +260,7 @@
   studio: Lidenfilms
   stations: MBS / TBS
   premiere: 2018-01-12T02:25:00+0900
+  episodes: 1-cour
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14229'
   extra_info: Bloco Animeism
   groups:
@@ -254,7 +273,7 @@
   is_short: true
   extra_info: Spinoff de Shingeki no Bahamut
   groups:
-    HIDIVE: rumor
+    Crunchyroll: stream
     Kirinashi: active
 - name_ja: Mannaka no Rikkun
   studio: Sakura Create
@@ -265,6 +284,7 @@
   studio: TMS Entertainment
   stations: Tokyo MX
   premiere: 2018-01-09T23:30:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12461'
   groups:
     Crunchyroll: stream
@@ -283,6 +303,7 @@
   stations: Tokyo MX
   premiere: 2018-01-07T23:00:00+0900
   season: 2
+  episodes: 1-cour
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13939'
   groups:
     Crunchyroll: stream
@@ -313,6 +334,7 @@
   stations: NHK-G
   premiere: 2018-01-28T00:10:00+0900
   season: 2
+  episodes: 1-cour
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14193'
   groups:
     Netflix: stream
@@ -326,11 +348,15 @@
   groups:
     Netflix: stream
 - name_ja: Rinshi!! Ekoda-chan
+  studio: Various
   stations: Tokyo MX
   premiere: 2018-01-09T01:00:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14258'
   is_short: true
   extra_info: 2ª série
+  groups:
+    Crunchyroll: stream
 - name_ja: 'Saiki Kusuo no Psi Nan: Kanketsu-hen'
   studio: J.C. Staff / EGG FIRM
   stations: TV Tokyo Nat. Net.
@@ -362,7 +388,7 @@
   studio: Kinema Citrus
   stations: AT-X
   premiere: 2018-01-09T22:00:00+0900
-  episodes: 2-cour
+  episodes: 25
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13246'
   groups:
     Crunchyroll: stream
@@ -381,19 +407,21 @@
   studio: Lide
   stations: Tokyo MX
   premiere: 2018-01-10T00:00:00+0900
-  episodes: 12
+  episodes: 12+2
 - name_ja: W'z
   studio: GoHands
   stations: Tokyo MX
   premiere: 2018-01-06T01:30:00+0900
   episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13934'
+  extra_info: 'Continuação de "Hand Shakers"'
   groups:
     HIDIVE: stream
 - name_ja: Watashi ni Tenshi ga Maiorita!
   studio: Doga Kobo
   stations: AT-X
   premiere: 2018-01-08T22:00:00+0900
+  episodes: 12+1
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14156'
   groups:
     Crunchyroll: stream
@@ -401,7 +429,7 @@
   studio: CloverWorks
   stations: Fuji TV
   premiere: 2018-01-11T00:55:00+0900
-  episodes: 1-cour
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14051'
   extra_info: >-
     Bloco noitaminA. Preview do episódio 1 indo ao ar em Amazon Prime Video,
