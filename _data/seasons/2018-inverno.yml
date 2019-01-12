@@ -10,6 +10,7 @@
   extra_info: Bloco AnichU
   groups:
     HIDIVE: stream
+    Infinite: active
 - name_ja: 'Aggressive Retsuko: We Wish You a Metal Christmas'
   studio: Fanworks
   stations: Netflix
@@ -102,6 +103,8 @@
   stations: Amazon Prime Video
   premiere: 2018-01-07T00:00:00+0900
   episodes: 2-cour?
+  groups:
+    Ichiban: active
 - name_ja: Double Decker! Doug & Kirill
   studio: Sunrise
   stations: Bandai Channel
@@ -438,3 +441,4 @@
     Crunchyroll: stream
     HIDIVE: stream
     Kirinashi: planned
+    ToMo: active

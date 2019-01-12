@@ -222,6 +222,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13199'
   groups:
     HIDIVE: stream
+    ECN: active
     Infinite: active
 - name_ja: Juuni Taisen
   studio: Graphinica
