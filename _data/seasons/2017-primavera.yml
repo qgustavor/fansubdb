@@ -331,6 +331,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11221'
   extra_info: Bloco noitaminA
   groups:
+    Infinite: active
     Lolisub: dropped-active
 - name_ja: Sagrada Reset
   studio: david production
