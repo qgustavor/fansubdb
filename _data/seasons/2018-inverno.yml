@@ -81,6 +81,7 @@
   groups:
     Crunchyroll: stream
     Bakemono: planned
+    Infinite: active
 - name_ja: Dimension High School
   studio: Polygon Pictures
   stations: Tokyo MX
@@ -168,7 +169,7 @@
   extra_info: Bloco Animerico
   groups:
     Crunchyroll: stream
-    Kirinashi: planned
+    Kirinashi: active
 - name_ja: Grimms Notes The Animation
   studio: Brain's Base
   stations: TBS
@@ -311,6 +312,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13939'
   groups:
     Crunchyroll: stream
+    ToMo: active
 - name_ja: 'Papa Datte, Shitai'
   studio: Magic Bus
   stations: ComicFesta
