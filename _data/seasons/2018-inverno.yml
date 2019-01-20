@@ -207,6 +207,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14420'
   extra_info: Novos episódios todo mês
 - name_ja: 'Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen'
+  name_pt: Kaguya Quer Receber Uma Declaração
   studio: A-1 Pictures
   stations: 'Tokyo MX, BS11, etc.'
   premiere: 2018-01-12T23:30:00+0900
@@ -214,6 +215,8 @@
   extra_info: Bloco Aniplex Saturday Night
   groups:
     Crunchyroll: stream
+    Infinite: rumor
+    Kirinashi: active
 - name_ja: Kakegurui××
   studio: MAPPA
   stations: MBS
