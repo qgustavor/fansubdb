@@ -112,7 +112,7 @@
   studio: Sunrise
   stations: Bandai Channel
   episodes: 3
-  extra_info: Novos episódios todo mês
+  extra_info: Episódios novos todo mês
   groups:
     Crunchyroll: stream
 - name_ja: 'Doukyonin wa Hiza, Tokidoki, Atama no Ue.'
@@ -205,7 +205,7 @@
   premiere: 2018-01-03T21:00:00+0900
   episodes: 3
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14420'
-  extra_info: Novos episódios todo mês
+  extra_info: Episódios novos todo mês
 - name_ja: 'Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen'
   name_pt: Kaguya Quer Receber Uma Declaração
   studio: A-1 Pictures
