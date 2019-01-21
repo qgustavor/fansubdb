@@ -402,7 +402,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13246'
   groups:
     Crunchyroll: stream
-    Bakemono: planned                           
+    Bakemono: active                           
     ECN: active                           
     Eternal Animes: active                           
 - name_ja: Ueno-san wa Bukiyou
