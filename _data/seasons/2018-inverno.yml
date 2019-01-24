@@ -9,7 +9,6 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14165'
   extra_info: Bloco AnichU
   groups:
-    HIDIVE: stream
     Infinite: active
 - name_ja: 'Aggressive Retsuko: We Wish You a Metal Christmas'
   studio: Fanworks
@@ -46,7 +45,6 @@
   episodes: 1-cour
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14075'
   groups:
-    HIDIVE: stream
     Kirinashi: planned
 - name_ja: 'Bermuda Triangle: Colorful Pastrale'
   studio: Seven Arcs Pictures
@@ -54,8 +52,6 @@
   premiere: 2018-01-12T21:30:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13912'
   extra_info: Spinoff de Cardfight!! Vanguard
-  groups:
-    HIDIVE: stream
 - name_ja: Boogiepop wa Warawanai
   studio: Madhouse
   stations: AT-X
@@ -99,7 +95,6 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14213'
   extra_info: Bloco Animeism
   groups:
-    HIDIVE: stream
     Infinite: active
 - name_ja: Dororo
   studio: MAPPA / Tezuka Productions
@@ -246,8 +241,6 @@
   stations: Tokyo MX
   premiere: 2018-01-13T22:30:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14392'
-  groups:
-    HIDIVE: stream
 - name_ja: 'Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi'
   studio: TROYCA
   stations: 'Tokyo MX, BS11, etc.'
@@ -327,8 +320,6 @@
   premiere: 2018-01-08T00:30:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13839'
-  groups:
-    HIDIVE: stream
 - name_ja: 'Persona 5 the Animation: Dark Sun...'
   studio: CloverWorks
   stations: 'Tokyo MX, BS11, etc.'
@@ -411,8 +402,6 @@
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14094'
   is_short: true
-  groups:
-    HIDIVE: stream
 - name_ja: Virtual-san wa Miteiru
   studio: Lide
   stations: Tokyo MX
@@ -425,8 +414,6 @@
   episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13934'
   extra_info: 'Continuação de "Hand Shakers"'
-  groups:
-    HIDIVE: stream
 - name_ja: Watashi ni Tenshi ga Maiorita!
   studio: Doga Kobo
   stations: AT-X
@@ -446,7 +433,6 @@
     na meia noite do dia 10 de janeiro.
   groups:
     Crunchyroll: stream
-    HIDIVE: stream
     Aenianos-Kirinashi: active
     Moshi Moshi: active
     ToMo: active
