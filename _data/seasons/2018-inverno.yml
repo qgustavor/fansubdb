@@ -423,6 +423,8 @@
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14094'
   is_short: true
+  groups:
+    Crunchyroll: stream
 - name_ja: Virtual-san wa Miteiru
   studio: Lide
   stations: Tokyo MX
