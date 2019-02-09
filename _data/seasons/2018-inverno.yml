@@ -398,6 +398,8 @@
   episodes: 4-cour
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14459'
   extra_info: 15ª série
+  groups:
+    Aenianos: active
 - name_ja: 'Tantei Opera Milky Holmes: Psycho no Aisatsu'
   studio: J.C. Staff
   stations: Tokyo MX
@@ -449,6 +451,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14156'
   groups:
     Crunchyroll: stream
+    Lolisub: active
 - name_ja: Yakusoku no Neverland
   studio: CloverWorks
   stations: Fuji TV
