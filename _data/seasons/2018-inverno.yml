@@ -79,7 +79,6 @@
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13533'
   groups:
-    Crunchyroll: stream
     Bakemono: active
     Infinite: active
 - name_ja: Dimension High School
