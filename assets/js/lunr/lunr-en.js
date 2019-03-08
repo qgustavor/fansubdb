@@ -42,6 +42,7 @@ $(document).ready(function () {
         }
       }
     })
+    resultdiv.empty()
   }
 
   function handleSearch () {
