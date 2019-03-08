@@ -147,6 +147,9 @@
   stations: YouTube
   premiere: 2018-02-14T20:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14498'
+  is_short: true
+  groups:
+    Crunchyroll: stream
 - name_ja: 'Fukigen na Mononokean: Tsuzuki'
   studio: Pierrot Plus
   stations: AT-X
@@ -170,7 +173,7 @@
   studio: Tezuka Productions
   stations: TBS
   premiere: 2018-01-11T01:28:00+0900
-  episodes: 1-cour
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14247'
   extra_info: Bloco Animerico
   groups:
@@ -180,8 +183,11 @@
   studio: Brain's Base
   stations: TBS
   premiere: 2018-01-11T01:58:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13745'
   extra_info: Bloco Animerico
+  groups:
+    Crunchyroll: stream
 - name_ja: 'Hataraku Saibou: Kaze Shoukougun'
   studio: David Production
   stations: 'Tokyo MX, BS11, etc.'
@@ -235,9 +241,9 @@
 - name_ja: Kemono Friends 2
   studio: Tomason
   stations: TV Tokyo
-  premiere: 2018-01-08T02:05:00+0900
+  premiere: 2018-01-15T02:05:00+0900
   season: 2
-  episodes: 1-cour
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13055'
   extra_notes: 'Versão alternativa de "Kemono Friends (2017)"'
   groups:
@@ -274,13 +280,13 @@
   stations: Nippon TV Nat. Net.
   premiere: 2018-01-25T21:00:00+0900
   episodes: 1
-  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13266'
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14501'
   extra_info: Especial de TV
 - name_ja: Mahou Shoujo Tokushusen Asuka
   studio: Lidenfilms
   stations: MBS / TBS
   premiere: 2018-01-12T02:25:00+0900
-  episodes: 1-cour
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14229'
   extra_info: Bloco Animeism
   groups:
@@ -290,8 +296,8 @@
   stations: Tokyo MX
   premiere: 2018-01-21T00:30:00+0900
   episodes: 10
-  is_short: true
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11544'
+  is_short: true
   extra_info: Spinoff de Shingeki no Bahamut
   groups:
     Crunchyroll: stream
@@ -321,10 +327,10 @@
     Crunchyroll: stream
 - name_ja: Mob Psycho 100 II
   studio: Bones
-  stations: Tokyo MX
+  stations: Tokyo MX / AbemaTV
   premiere: 2018-01-07T23:00:00+0900
   season: 2
-  episodes: 1-cour
+  episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13939'
   groups:
     Crunchyroll: stream

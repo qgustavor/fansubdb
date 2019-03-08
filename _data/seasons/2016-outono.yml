@@ -511,6 +511,7 @@
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11883'
   groups:
+    Crunchyroll: stream
     Fansub Anime Land: active
 - name_ja: Teekyuu 8
   studio: Millepensee
