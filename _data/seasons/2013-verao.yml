@@ -33,7 +33,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9555'
   groups:
     Aenianos: active
-    Bakemono-Planime: active-dropped
+    Bakemono-Planime: dropped-active
     Moshi Moshi: active
 - name_ja: Fantasista Doll
   studio: Hoods Entertainment

@@ -214,7 +214,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10795'
   extra_info: Spinoff de Mahou Shoujo Lyrical Nanoha
   groups:
-    - Eternal Animes-Shiroki Tsubasa: active
+    Eternal Animes-Shiroki Tsubasa: active
 - name_ja: Mikagura Gakuen Kumikyoku
   studio: Doga Kobo
   stations: TV Aichi

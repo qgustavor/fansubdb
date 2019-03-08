@@ -64,61 +64,81 @@
   })
 
   var chart2El = $('<div>').appendTo(container)
-  var distributionDataset = [{
-    name: 'Não traduzidos',
-    values: seasonOrder.map(function (seasonKey) {
-      return window.store[seasonKey].filter(function (entry) {
-        if (!entry.groups) return true
-        for (var group in entry.groups) {
-          if (entry.groups[group] === 'stream' || entry.groups[group] === 'active') {
-            return false
+  var includePlanned = false
+  var includeDropped = false
+
+  function generateDistributionDataset () {
+    return [{
+      name: 'Não traduzidos',
+      values: seasonOrder.map(function (seasonKey) {
+        return window.store[seasonKey].filter(function (entry) {
+          if (!entry.groups) return true
+          for (var group in entry.groups) {
+            if (entry.groups[group] === 'stream' || entry.groups[group] === 'active') {
+              return false
+            }
+            if (includePlanned && entry.groups[group] === 'planned') {
+              return false
+            }
+            if (includeDropped && entry.groups[group].indexOf('dropped') === 0) {
+              return false
+            }
           }
-        }
-        return true
-      }).length * 100 / window.store[seasonKey].length
-    })
-  }, {
-    name: 'Só em fansubs',
-    values: seasonOrder.map(function (seasonKey) {
-      return window.store[seasonKey].filter(function (entry) {
-        if (!entry.groups) return false
-        var found = false
-        for (var group in entry.groups) {
-          if (entry.groups[group] === 'stream') return false
-          if (entry.groups[group] === 'active') found = true
-        }
-        return found
-      }).length * 100 / window.store[seasonKey].length
-    })
-  }, {
-    name: 'Em ambos',
-    values: seasonOrder.map(function (seasonKey) {
-      return window.store[seasonKey].filter(function (entry) {
-        if (!entry.groups) return false
-        var foundFansub = false
-        var foundStream = false
-        for (var group in entry.groups) {
-          if (entry.groups[group] === 'active') foundFansub = true
-          if (entry.groups[group] === 'stream') foundStream = true
-          if (foundFansub && foundStream) return true
-        }
-        return false
-      }).length * 100 / window.store[seasonKey].length
-    })
-  }, {
-    name: 'Só em streaming',
-    values: seasonOrder.map(function (seasonKey) {
-      return window.store[seasonKey].filter(function (entry) {
-        if (!entry.groups) return false
-        var found = false
-        for (var group in entry.groups) {
-          if (entry.groups[group] === 'active') return false
-          if (entry.groups[group] === 'stream') found = true
-        }
-        return found
-      }).length * 100 / window.store[seasonKey].length
-    })
-  }]
+          return true
+        }).length * 100 / window.store[seasonKey].length
+      })
+    }, {
+      name: 'Só em fansubs',
+      values: seasonOrder.map(function (seasonKey) {
+        return window.store[seasonKey].filter(function (entry) {
+          if (!entry.groups) return false
+          var found = false
+          for (var group in entry.groups) {
+            if (entry.groups[group] === 'stream') return false
+            var isFansub = entry.groups[group] === 'active' ||
+              (includePlanned && entry.groups[group] === 'planned') ||
+              (includeDropped && entry.groups[group].indexOf('dropped') === 0)
+            if (isFansub) found = true
+          }
+          return found
+        }).length * 100 / window.store[seasonKey].length
+      })
+    }, {
+      name: 'Em ambos',
+      values: seasonOrder.map(function (seasonKey) {
+        return window.store[seasonKey].filter(function (entry) {
+          if (!entry.groups) return false
+          var foundFansub = false
+          var foundStream = false
+          for (var group in entry.groups) {
+            var isFansub = entry.groups[group] === 'active' ||
+              (includePlanned && entry.groups[group] === 'planned') ||
+              (includeDropped && entry.groups[group].indexOf('dropped') === 0)
+            if (isFansub) foundFansub = true
+            if (entry.groups[group] === 'stream') foundStream = true
+            if (foundFansub && foundStream) return true
+          }
+          return false
+        }).length * 100 / window.store[seasonKey].length
+      })
+    }, {
+      name: 'Só em streaming',
+      values: seasonOrder.map(function (seasonKey) {
+        return window.store[seasonKey].filter(function (entry) {
+          if (!entry.groups) return false
+          var found = false
+          for (var group in entry.groups) {
+            var isFansub = entry.groups[group] === 'active' ||
+              (includePlanned && entry.groups[group] === 'planned') ||
+              (includeDropped && entry.groups[group].indexOf('dropped') === 0)
+            if (isFansub) return false
+            if (entry.groups[group] === 'stream') found = true
+          }
+          return found
+        }).length * 100 / window.store[seasonKey].length
+      })
+    }]
+  }
   var chart2 = new window.frappe.Chart(chart2El[0], {
     title: 'Distribuição de traduções entre fansubs e streamings',
     type: 'bar',
@@ -134,9 +154,33 @@
     },
     data: {
       labels: seasonNames,
-      datasets: distributionDataset
+      datasets: generateDistributionDataset()
     }
   })
+  var chart2Controls = $('<div>').append(
+    $('<label>').append(
+      $('<input type="checkbox">').on('change', function () {
+        var newValue = $(this).prop('checked')
+        if (includePlanned === newValue) return
+        includePlanned = newValue
+        chart2.update({
+          labels: seasonNames,
+          datasets: generateDistributionDataset()
+        })
+      }), ' Considerar animes planejados'
+    ),
+    $('<label>').append(
+      $('<input type="checkbox">').on('change', function () {
+        var newValue = $(this).prop('checked')
+        if (includeDropped === newValue) return
+        includeDropped = newValue
+        chart2.update({
+          labels: seasonNames,
+          datasets: generateDistributionDataset()
+        })
+      }), ' Considerar animes droppados'
+    )
+  ).appendTo(container)
 
   var chart3El = $('<div>').appendTo(container)
   var chart3 = new window.frappe.Chart(chart3El[0], {

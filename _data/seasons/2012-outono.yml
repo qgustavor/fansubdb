@@ -75,7 +75,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8673'
   groups:
     Diogo4D: active
-    EA-Sakurai Drops: active-dropped
+    EA-Sakurai Drops: dropped-active
 - name_ja: Cross Fight B-Daman eS
   studio: Synergy SP
   stations: TV Tokyo Nat. Net.

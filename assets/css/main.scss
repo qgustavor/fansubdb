@@ -39,3 +39,13 @@ ul li, ol li {
   overflow: hidden;
   text-overflow: ellipsis;
 }
+
+#stat-container {
+  label, input {
+    display: inline-block;
+  }
+  label {
+    font-size: 0.8em;
+    margin: 0 1em;
+  }
+}
