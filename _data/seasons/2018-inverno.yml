@@ -47,8 +47,6 @@
   season: 2
   episodes: 1-cour
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14075'
-  groups:
-    Kirinashi: planned
 - name_ja: 'Bermuda Triangle: Colorful Pastrale'
   studio: Seven Arcs Pictures
   stations: AbemaTV
@@ -167,7 +165,6 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14113'
   groups:
     Crunchyroll: stream
-    Kirinashi: planned
 - name_ja: Go-toubun no Hanayome
   name_pt: Noivas em Dose Quíntupla
   studio: Tezuka Productions

@@ -30,8 +30,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14289'
   extra_info: Bloco Aniplex Saturday Night
   groups:
-    Infinite: planned
-    Kirinashi: planned
+    Infinite-Kirinashi: planned
 - name_ja: Bungou Stray Dogs 3
   studio: Bones
   stations: 'Tokyo MX, etc.'
@@ -161,7 +160,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14107'
   extra_info: Bloco Aniplex Saturday Night
   groups:
-    Kirinashi: planned
+    Aenianos-Kirinashi: planned
 - name_ja: 'King of Prism: Shiny Seven Stars'
   studio: Tatsunoko Production
   stations: TV Tokyo
@@ -260,6 +259,8 @@
   stations: Fuji TV
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13869'
   extra_info: Bloco noitaminA
+  groups:
+    Kirinashi: rumor
 - name_ja: Senryuu Shoujo
   studio: Connect
   stations: MBS / TBS
