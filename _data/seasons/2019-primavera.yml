@@ -31,6 +31,7 @@
   extra_info: Bloco Aniplex Saturday Night
   groups:
     Infinite: planned
+    Kirinashi: planned
 - name_ja: Bungou Stray Dogs 3
   studio: Bones
   stations: 'Tokyo MX, etc.'
@@ -118,6 +119,8 @@
   premiere: 2019-04-06T02:25:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13989'
   extra_info: Bloco Animeism
+  groups:
+    Kirinashi: planned
 - name_ja: Isekai Quartet
   studio: Studio Puyukai
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14435'
@@ -157,6 +160,8 @@
   premiere: 2019-04-06T23:30:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14107'
   extra_info: Bloco Aniplex Saturday Night
+  groups:
+    Kirinashi: planned
 - name_ja: 'King of Prism: Shiny Seven Stars'
   studio: Tatsunoko Production
   stations: TV Tokyo
