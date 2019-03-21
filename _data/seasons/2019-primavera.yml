@@ -1,8 +1,9 @@
-# Auto-converted from https://fansubdb.com/w/index.php?title=Spring_2019&oldid=24457
+# Auto-converted from https://fansubdb.com/w/index.php?title=Spring_2019&oldid=24583
 
 - name_ja: 'Aikatsu Friends!: Kagayaki no Jewel'
   studio: BN Pictures
   stations: TV Tokyo Nat. Net.
+  premiere: 2019-04-04T18:25:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14631'
   extra_info: Continuação de Aikatsu Friends!
 - name_ja: Araiya-san! Ore to Aitsu ga Onnayu de!?
@@ -13,6 +14,7 @@
 - name_ja: B Rappers Street
   studio: Pie in the Sky
   stations: TV Tokyo Nat. Net.
+  premiere: 2019-04-11T07:05:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14619'
   is_short: true
   extra_info: Indo ao ar em OhaSuta como parte do Bloco "CharaSuta"
@@ -33,7 +35,8 @@
     Infinite-Kirinashi: planned
 - name_ja: Bungou Stray Dogs 3
   studio: Bones
-  stations: 'Tokyo MX, etc.'
+  stations: Tokyo MX
+  premiere: 2019-04-12T22:30:00+0900
   season: 3
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14230'
   groups:
@@ -55,14 +58,15 @@
     Infinite: planned
 - name_ja: 'Chou Kadou Girl ⅙: Amazing Stranger'
   studio: Studio A-CAT
-  stations: Tokyo MX
-  premiere: 2019-04-09T00:00:00+0900
+  stations: AT-X
+  premiere: 2019-04-06T23:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14308'
   is_short: true
   extra_info: Bloco FutabAnime!
 - name_ja: 'Cinderella Girls Gekijou: Climax Season'
   studio: Gathering
-  stations: Tokyo MX / BS11
+  stations: Tokyo MX
+  premiere: 2019-04-02T21:54:00+0900
   season: 4
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14516'
   is_short: true
@@ -74,17 +78,19 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14504'
   groups:
     Crunchyroll: stream
-- name_ja: Fairy gone
+- name_ja: Fairy Gone
   studio: P.A. Works
-  stations: Tokyo MX
+  stations: Tokyo MX / BS11
+  premiere: 2019-04-08T00:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14627'
 - name_ja: Fruits Basket
   studio: TMS Entertainment
   stations: TV Tokyo
   premiere: 2019-04-06T01:23:00+0900
-  episodes: 2-cour?
-  extra_info: Remake do anime de 2001
+  episodes: 1-cour
+  extra_info: '1º Cour, Remake do anime de 2001'
   groups:
+    Aenianos: planned
     Eternal Animes: planned
     Mundo do Shoujo: rumor
 - name_ja: Gunjou no Magmell
@@ -99,7 +105,8 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14242'
 - name_ja: Hangyakusei Million Arthur 2
   studio: J.C. Staff
-  stations: Tokyo MX / BS11
+  stations: Tokyo MX
+  premiere: 2019-04-04T22:00:00+0900
   episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14381'
   extra_info: 2º Cour
@@ -122,6 +129,8 @@
     Kirinashi: planned
 - name_ja: Isekai Quartet
   studio: Studio Puyukai
+  stations: AbemaTV
+  premiere: 2019-04-10T00:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14435'
   is_short: true
   groups:
@@ -129,22 +138,21 @@
 - name_ja: Jimoto ga Japan
   studio: Odd Job
   stations: TV Tokyo Nat. Net.
+  premiere: 2019-04-08T07:05:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14550'
   is_short: true
   extra_info: Indo ao ar em OhaSuta como parte do Bloco "CharaSuta"?
 - name_ja: Joshikausei
   studio: Seven
-  stations: Tokyo MX
-  premiere: 2019-04-09T00:15:00+0900
+  stations: AT-X
+  premiere: 2019-04-06T23:15:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14390'
   is_short: true
   extra_info: Bloco FutabAnime!
-- name_ja: Kabukichou Sherlock
-  studio: Production I.G
-  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14257'
 - name_ja: Kedama no Gonjirou
-  studio: OLM
+  studio: OLM / Wit Studio
   stations: TV Tokyo Nat. Net
+  premiere: 2019-04-06T10:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14621'
 - name_ja: Kenja no Mago
   studio: Silver Link
@@ -163,7 +171,7 @@
     Aenianos-Kirinashi: planned
 - name_ja: 'King of Prism: Shiny Seven Stars'
   studio: Tatsunoko Production
-  stations: TV Tokyo
+  stations: TV Tokyo / TVA
   premiere: 2019-04-09T01:35:00+0900
   extra_info: 'Spinoff de Pretty Rhythm'
 - name_ja: Kono Oto Tomare!
@@ -183,6 +191,8 @@
     Crunchyroll: stream
 - name_ja: Mayonaka no Occult Koumuin
   studio: Lidenfilms
+  stations: 'Tokyo MX, BS11, SUN'
+  premiere: 2019-04-08T00:30:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14172'
 - name_ja: Midara na Ao-chan wa Benkyou ga Dekinai
   studio: Silver Link
@@ -201,18 +211,21 @@
   extra_info: Continuação de Touch
 - name_ja: 'Namu Amida Butsu!: Rendai Utena'
   studio: Asahi Production
-  stations: Tokyo MX
-  premiere: 2019-04-08T22:30:00+0900
+  stations: AT-X
+  premiere: 2019-04-08T20:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14256'
 - name_ja: Nande Koko ni Sensei ga!?
-  studio: tear studio
+  studio: tear-studio
+  stations: Tokyo MX
+  premiere: 2019-04-08T01:05:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14413'
+  is_short: true
   groups:
     Infinite: planned
 - name_ja: Nobunaga-sensei no Osanazuma
   studio: Seven
-  stations: Tokyo MX
-  premiere: 2019-04-09T00:20:00+0900
+  stations: AT-X
+  premiere: 2019-04-06T23:20:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14530'
   is_short: true
   extra_info: Bloco FutabAnime!
@@ -226,7 +239,7 @@
   extra_info: 'Especial de Preview: TV Tokyo - 04/02 @ 25:35'
 - name_ja: 'Persona 5 the Animation: Stars and Ours'
   studio: CloverWorks
-  stations: Tokyo MX / ytv
+  stations: Tokyo MX
   premiere: 2019-03-23T20:00:00+0900
   episodes: 1
   extra_info: Especial de TV
@@ -237,10 +250,11 @@
   stations: Tokyo MX / BS11
   premiere: 2019-04-01T00:00:00+0900
   episodes: 1
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13977'
   extra_info: Especial de TV
   groups:
     Crunchyroll: stream
-    HIDIVE: rumor
+    HIDIVE: stream
 - name_ja: Rilakkuma to Kaoru-san
   studio: dwarf
   stations: Netflix
@@ -253,10 +267,14 @@
     Netflix: stream
 - name_ja: RobiHachi
   studio: Studio Comet
+  stations: AbemaTV / AT-X
+  premiere: 2019-04-08T23:30:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14493'
 - name_ja: Sarazanmai
   studio: MAPPA / Lapintrack
   stations: Fuji TV
+  premiere: 2019-04-12T00:55:00+0900
+  episodes: 1-cour
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13869'
   extra_info: Bloco noitaminA
   groups:
@@ -270,7 +288,8 @@
   extra_info: Bloco Animeism
 - name_ja: Sewayaki Kitsune no Senko-san
   studio: Doga Kobo
-  stations: 'AT-X, Tokyo MX, etc.'
+  stations: AT-X
+  premiere: 2019-04-10T22:30:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14514'
 - name_ja: Shingeki no Kyojin 3 Part 2
   studio: Wit Studio
