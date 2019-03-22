@@ -278,6 +278,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13869'
   extra_info: Bloco noitaminA
   groups:
+    Aenianos: planned
     Kirinashi: rumor
 - name_ja: Senryuu Shoujo
   studio: Connect
