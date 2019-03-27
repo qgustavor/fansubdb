@@ -42,6 +42,7 @@
     Netflix: stream
     Infinite: active
 - name_ja: Baki
+  name_pt: Baki - O Campeão
   studio: TMS Entertainment
   stations: Netflix
   premiere: 2018-06-02T01:00:00+0900
@@ -188,6 +189,8 @@
   stations: Tokyo MX / BS11
   premiere: 2018-07-01T13:24:00+0900
   episodes: 12+3
+  groups:
+    Netflix: stream
 - name_ja: Hyakuren no Haou to Seiyaku no Valkyria
   studio: EMT Squared
   stations: Tokyo MX / BS11

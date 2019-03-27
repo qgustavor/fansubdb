@@ -244,12 +244,14 @@
     Crunchyroll: stream
     Eternal Animes: active
 - name_ja: Hisone to Masotan
+  name_pt: Pilotos de Dragão
   studio: Bones
   stations: Tokyo MX / BS Fuji
   premiere: 2018-04-13T00:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13625'
   episodes: 12
   groups:
+    Netflix: stream
     Aenianos: active
 - name_ja: 'Hoozuki no Reitetsu 2: Sono Ni'
   studio: Studio DEEN
