@@ -1,4 +1,4 @@
-# Auto-converted from https://fansubdb.com/w/index.php?title=Spring_2019&oldid=24583
+# Auto-converted from https://fansubdb.com/w/index.php?title=Spring_2019&oldid=24655
 
 - name_ja: 'Aikatsu Friends!: Kagayaki no Jewel'
   studio: BN Pictures
@@ -22,6 +22,7 @@
   studio: Studio DEEN
   stations: TBS
   premiere: 2019-04-05T01:58:00+0900
+  episodes: 1-cour
   extra_info: 'Bloco Animerico, 2º Cour'
   groups:
     Crunchyroll: stream
@@ -50,7 +51,7 @@
   studio: Bones
   stations: Fuji TV
   premiere: 2019-04-11T00:55:00+0900
-  episodes: 2-cour
+  episodes: 24
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13893'
   extra_info: Bloco +Ultra
   groups:
@@ -74,6 +75,7 @@
   studio: Madhouse
   stations: TV Tokyo Nat. Net.
   premiere: 2019-04-02T17:55:00+0900
+  episodes: 52
   season: 3
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14504'
   groups:
@@ -94,7 +96,7 @@
     Eternal Animes: planned
     Mundo do Shoujo: rumor
 - name_ja: Gunjou no Magmell
-  studio: Studio Pierrot
+  studio: Pierrot Plus
   stations: Tokyo MX
   premiere: 2019-04-07T22:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14063'
@@ -123,6 +125,7 @@
   studio: C2C
   stations: MBS / TBS
   premiere: 2019-04-06T02:25:00+0900
+  episodes: 1-cour
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13989'
   extra_info: Bloco Animeism
   groups:
@@ -131,6 +134,7 @@
   studio: Studio Puyukai
   stations: AbemaTV
   premiere: 2019-04-10T00:00:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14435'
   is_short: true
   groups:
@@ -173,6 +177,7 @@
   studio: Tatsunoko Production
   stations: TV Tokyo / TVA
   premiere: 2019-04-09T01:35:00+0900
+  episodes: 12
   extra_info: 'Spinoff de Pretty Rhythm'
 - name_ja: Kono Oto Tomare!
   studio: Platinum Vision
@@ -198,6 +203,7 @@
   studio: Silver Link
   stations: MBS / TBS
   premiere: 2019-04-06T02:10:00+0900
+  episodes: 1-cour
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14519'
   is_short: true
   extra_info: Bloco Animeism
@@ -247,8 +253,8 @@
     Crunchyroll: stream
 - name_ja: Pop Team Epic Special
   studio: Kamikaze Douga
-  stations: Tokyo MX / BS11
-  premiere: 2019-04-01T00:00:00+0900
+  stations: AbemaTV / Tokyo MX
+  premiere: 2019-04-01T22:00:00+0900
   episodes: 1
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13977'
   extra_info: Especial de TV
@@ -269,6 +275,7 @@
   studio: Studio Comet
   stations: AbemaTV / AT-X
   premiere: 2019-04-08T23:30:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14493'
 - name_ja: Sarazanmai
   studio: MAPPA / Lapintrack
@@ -284,6 +291,7 @@
   studio: Connect
   stations: MBS / TBS
   premiere: 2019-04-06T01:55:00+0900
+  episodes: 1-cour
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14522'
   is_short: true
   extra_info: Bloco Animeism
