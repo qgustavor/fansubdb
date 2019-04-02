@@ -1,4 +1,4 @@
-# Auto-converted from https://fansubdb.com/w/index.php?title=Spring_2019&oldid=24655
+# Auto-converted from https://fansubdb.com/w/index.php?title=Spring_2019&oldid=24699
 
 - name_ja: 'Aikatsu Friends!: Kagayaki no Jewel'
   studio: BN Pictures
@@ -25,7 +25,13 @@
   episodes: 1-cour
   extra_info: 'Bloco Animerico, 2º Cour'
   groups:
-    Crunchyroll: stream
+    Crunchyroll: rumor
+- name_ja: Beyblade Burst Gachi
+  studio: OLM
+  stations: YouTube
+  premiere: 2019-04-05T16:00:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14688'
+  extra_info: 11ª série
 - name_ja: Bokutachi wa Benkyou ga Dekinai
   studio: Silver / Arvo Animation
   stations: 'Tokyo MX, BS11, etc.'
@@ -41,7 +47,7 @@
   season: 3
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14230'
   groups:
-    Crunchyroll: stream
+    Crunchyroll: rumor
 - name_ja: 'Cardfight!! Vanguard: Zoku Koukousei-hen'
   studio: OLM
   stations: TV Tokyo Nat. Net.
@@ -71,6 +77,8 @@
   season: 4
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14516'
   is_short: true
+  groups:
+    Crunchyroll: stream
 - name_ja: 'Dia no Ace: Act II'
   studio: Madhouse
   stations: TV Tokyo Nat. Net.
@@ -193,7 +201,7 @@
   episodes: 26
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12693'
   groups:
-    Crunchyroll: stream
+    Crunchyroll: rumor
 - name_ja: Mayonaka no Occult Koumuin
   studio: Lidenfilms
   stations: 'Tokyo MX, BS11, SUN'
@@ -250,12 +258,12 @@
   episodes: 1
   extra_info: Especial de TV
   groups:
-    Crunchyroll: stream
+    Crunchyroll: rumor
 - name_ja: Pop Team Epic Special
   studio: Kamikaze Douga
   stations: AbemaTV / Tokyo MX
   premiere: 2019-04-01T22:00:00+0900
-  episodes: 1
+  episodes: 2
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13977'
   extra_info: Especial de TV
   groups:
@@ -309,7 +317,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14444'
   extra_info: 2º Cour
   groups:
-    Crunchyroll: stream
+    Crunchyroll: rumor
 - name_ja: Shoumetsu Toshi
   studio: Madhouse
   stations: Tokyo MX
@@ -324,7 +332,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14720'
   is_short: true
   groups:
-    Crunchyroll: stream
+    Crunchyroll: rumor
 - name_ja: 'Strike Witches: 501-butai Hasshin Shimasu!'
   studio: Acca effe / Giga Production
   stations: Tokyo MX

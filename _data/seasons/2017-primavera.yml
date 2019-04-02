@@ -462,6 +462,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12395'
   groups:
     Crunchyroll: stream
+    ECN-Infinite: active
 - name_ja: Tsuki ga Kirei
   studio: feel.
   stations: Tokyo MX
