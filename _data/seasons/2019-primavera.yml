@@ -80,6 +80,7 @@
   is_short: true
   groups:
     Crunchyroll: stream
+    Bakemono: active
 - name_ja: 'Dia no Ace: Act II'
   studio: Madhouse
   stations: TV Tokyo Nat. Net.
