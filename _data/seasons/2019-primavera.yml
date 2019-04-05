@@ -138,6 +138,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13989'
   extra_info: Bloco Animeism
   groups:
+    Crunchyroll: stream
     Kirinashi: planned
 - name_ja: Isekai Quartet
   studio: Studio Puyukai
@@ -334,7 +335,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14720'
   is_short: true
   groups:
-    Crunchyroll: rumor
+    Crunchyroll: stream
 - name_ja: 'Strike Witches: 501-butai Hasshin Shimasu!'
   studio: Acca effe / Giga Production
   stations: Tokyo MX
@@ -357,6 +358,8 @@
   premiere: 2019-04-04T19:53:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14103'
   is_short: true
+  groups:
+    Crunchyroll: stream
 - name_ja: Youkai Watch!
   studio: OLM
   stations: TV Tokyo Nat. Net.
