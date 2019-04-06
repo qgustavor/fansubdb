@@ -71,6 +71,8 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14308'
   is_short: true
   extra_info: Bloco FutabAnime!
+  groups:
+    Crunchyroll: stream
 - name_ja: 'Cinderella Girls Gekijou: Climax Season'
   studio: Gathering
   stations: Tokyo MX
@@ -115,6 +117,8 @@
   stations: TV Tokyo
   premiere: 2019-04-08T01:35:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14242'
+  groups:
+    Crunchyroll: stream
 - name_ja: Hangyakusei Million Arthur 2
   studio: J.C. Staff
   stations: Tokyo MX
@@ -164,6 +168,8 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14390'
   is_short: true
   extra_info: Bloco FutabAnime!
+  groups:
+    Crunchyroll: stream
 - name_ja: Kedama no Gonjirou
   studio: OLM / Wit Studio
   stations: TV Tokyo Nat. Net
@@ -211,6 +217,8 @@
   stations: 'Tokyo MX, BS11, SUN'
   premiere: 2019-04-08T00:30:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14172'
+  groups:
+    Crunchyroll: stream
 - name_ja: Midara na Ao-chan wa Benkyou ga Dekinai
   studio: Silver Link
   stations: MBS / TBS
@@ -247,6 +255,8 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14530'
   is_short: true
   extra_info: Bloco FutabAnime!
+  groups:
+    Crunchyroll: stream
 - name_ja: One Punch Man 2
   studio: J.C. Staff
   stations: 'TV Tokyo, etc.'
