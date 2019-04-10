@@ -48,7 +48,7 @@
   season: 3
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14230'
   groups:
-    Crunchyroll: rumor
+    Crunchyroll: stream
 - name_ja: 'Cardfight!! Vanguard: Zoku Koukousei-hen'
   studio: OLM
   stations: TV Tokyo Nat. Net.
@@ -160,7 +160,7 @@
   premiere: 2019-04-08T07:05:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14550'
   is_short: true
-  extra_info: Indo ao ar em OhaSuta como parte do Bloco "CharaSuta"?
+  extra_info: Indo ao ar em OhaSuta como parte do Bloco "CharaSuta"
 - name_ja: Joshikausei
   studio: Seven
   stations: AT-X
@@ -191,7 +191,7 @@
   extra_info: Bloco Aniplex Saturday Night
   groups:
     Crunchyroll: stream
-    Aenianos-Kirinashi: planned
+    Aenianos-Kirinashi: active
 - name_ja: 'King of Prism: Shiny Seven Stars'
   studio: Tatsunoko Production
   stations: TV Tokyo / TVA
@@ -266,7 +266,10 @@
   season: 2
   episodes: 1-cour?
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12430'
-  extra_info: 'Especial de Preview: TV Tokyo - 04/02 @ 25:35'
+  groups:
+    Crunchyroll: stream
+    Netflix: rumor
+    Eternal Animes: active
 - name_ja: 'Persona 5 the Animation: Stars and Ours'
   studio: CloverWorks
   stations: Tokyo MX
@@ -309,6 +312,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13869'
   extra_info: Bloco noitaminA
   groups:
+    Crunchyroll: active
     Aenianos: planned
     Kirinashi: rumor
 - name_ja: Senryuu Shoujo
