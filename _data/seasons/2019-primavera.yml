@@ -63,7 +63,7 @@
   extra_info: Bloco +Ultra
   groups:
     Netflix: stream
-    Infinite: planned
+    Infinite: active
 - name_ja: 'Chou Kadou Girl ⅙: Amazing Stranger'
   studio: Studio A-CAT
   stations: AT-X
@@ -153,7 +153,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14435'
   is_short: true
   groups:
-    Bakemono: planned
+    Bakemono: active
 - name_ja: Jimoto ga Japan
   studio: Odd Job
   stations: TV Tokyo Nat. Net.
