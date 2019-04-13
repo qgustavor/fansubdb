@@ -32,6 +32,8 @@
   premiere: 2019-04-05T16:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14688'
   extra_info: 11ª série
+  groups:
+    Sakura: active
 - name_ja: Bokutachi wa Benkyou ga Dekinai
   studio: Silver / Arvo Animation
   stations: 'Tokyo MX, BS11, etc.'
@@ -113,6 +115,8 @@
   stations: Tokyo MX
   premiere: 2019-04-07T22:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14063'
+  groups:
+    Isekai: active
 - name_ja: Hachigatsu no Cinderella Nine
   studio: TMS Entertainment
   stations: TV Tokyo
@@ -127,6 +131,8 @@
   episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14381'
   extra_info: 2º Cour
+  groups:
+    Isekai: active
 - name_ja: 'High Score Girl: Extra Stage'
   studio: J.C. Staff
   stations: Netflix
@@ -193,6 +199,7 @@
   groups:
     Crunchyroll: stream
     Aenianos-Kirinashi: active
+    Sakura: active
 - name_ja: 'King of Prism: Shiny Seven Stars'
   studio: Tatsunoko Production
   stations: TV Tokyo / TVA
@@ -331,6 +338,7 @@
   extra_info: Bloco Animeism
   groups:
     Crunchyroll: stream
+    Sakura: active
 - name_ja: Sewayaki Kitsune no Senko-san
   studio: Doga Kobo
   stations: AT-X

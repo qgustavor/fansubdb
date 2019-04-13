@@ -30,6 +30,7 @@
   is_short: true
   groups:
     Crunchyroll: stream
+    Sakura:
 - name_ja: 'B-Project: Zecchou Emotion'
   studio: BN Pictures
   stations: 'Tokyo MX, BS11, etc.'
@@ -131,7 +132,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14447'
   groups:
     Crunchyroll: stream
-    Kyoto: active  
+    Kyoto-Sakura: active
 - name_ja: Endro~!
   studio: Studio Gokumi
   stations: Tokyo MX / BS11
@@ -215,6 +216,8 @@
   episodes: 3
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14420'
   extra_info: Episódios novos todo mês
+  groups:
+    Sakura: active
 - name_ja: 'Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen'
   name_pt: Kaguya Quer Receber Uma Declaração
   studio: A-1 Pictures
@@ -235,6 +238,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13718'
   groups:
     Netflix: stream
+    Isekai: active
 - name_ja: Kemono Friends 2
   studio: Tomason
   stations: TV Tokyo
@@ -299,6 +303,7 @@
   groups:
     Crunchyroll: stream
     Kirinashi: active
+    Sakura: active
 - name_ja: Mannaka no Rikkun
   studio: Sakura Create
   stations: TV Tokyo
@@ -420,9 +425,9 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13246'
   groups:
     Crunchyroll: stream
-    Bakemono: active                           
-    ECN: active                           
-    Eternal Animes: active                           
+    Bakemono: active
+    ECN: active
+    Eternal Animes: active
 - name_ja: Ueno-san wa Bukiyou
   studio: Lesprit
   stations: BS11 / AbemaTV

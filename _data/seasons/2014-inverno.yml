@@ -90,6 +90,8 @@
   episodes: 2
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10812'
   extra_info: Especial de TV
+  groups:
+    Sakura: active
 - name_ja: ISUCA
   studio: ARMS
   stations: Tokyo MX

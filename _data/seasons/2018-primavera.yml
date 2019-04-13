@@ -596,6 +596,8 @@
   premiere: 2018-04-08T07:14:00+0900
   is_short: true
   episodes: 24
+  groups:
+    Sakura: active
 - name_ja: Wotaku ni Koi wa Muzukashii
   studio: A-1 Pictures
   stations: Fuji TV
@@ -607,6 +609,7 @@
     Amazon Prime Video: stream
     Infinite: active
     Mundo do Shoujo: active
+    Sakura: active
 - name_ja: 'Youkai Watch: Shadow Side'
   studio: OLM
   stations: TV Tokyo Nat. Net.

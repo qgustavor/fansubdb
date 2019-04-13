@@ -296,6 +296,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12888'
   groups:
     Amazon Prime Video: stream
+    Sakura: active
 - name_ja: Koi wa Ameagari no You ni
   name_pt: O Amor é Como o Fim de Uma Chuva
   studio: Wit Studio

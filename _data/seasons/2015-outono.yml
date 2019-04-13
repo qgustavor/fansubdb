@@ -307,6 +307,8 @@
   premiere: 2015-10-07T23:30:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10729'
+  groups:
+    Sakura: active
 - name_ja: Oshiri Kajiri Mushi 4
   studio: Kinema Citrus
   stations: NHK-BSP
