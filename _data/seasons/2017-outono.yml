@@ -180,6 +180,7 @@
   groups:
     HIDIVE: stream
     Exception: active
+    Seicher: active
 - name_ja: Imouto sae Ireba Ii.
   studio: Silver Link
   stations: Tokyo MX
