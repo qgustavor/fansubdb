@@ -196,6 +196,8 @@
   premiere: 2018-10-05T17:55:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14327'
   extra_info: '2ª parte de Inazuma Eleven: Ares no Tenbin'
+  groups:
+    Aya: active
 - name_ja: Ingress
   studio: Craftar
   stations: Fuji TV
@@ -302,6 +304,7 @@
   groups:
     Crunchyroll: stream
     Eternal Animes: active
+    Kalling: active
 - name_ja: Otona no Bouguya-san
   studio: Imagica Imageworks
   stations: GANMA! App

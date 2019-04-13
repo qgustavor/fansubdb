@@ -98,6 +98,7 @@
   groups:
     Crunchyroll: stream
     Infinite: active
+    Kalling: active
 - name_ja: Dororo
   studio: MAPPA / Tezuka Productions
   stations: Amazon Prime Video
@@ -476,5 +477,6 @@
   groups:
     Crunchyroll: stream
     Aenianos-Kirinashi: active
+    Illuminati: active
     Moshi Moshi: active
     ToMo: active
