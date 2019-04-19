@@ -223,7 +223,7 @@
   episodes: 26
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12693'
   groups:
-    Crunchyroll: rumor
+    Crunchyroll: stream
 - name_ja: Mayonaka no Occult Koumuin
   studio: Lidenfilms
   stations: 'Tokyo MX, BS11, SUN'
@@ -353,9 +353,9 @@
   season: 3
   episodes: 10
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14444'
-  extra_info: 2º Cour
+  extra_info: 2º cour
   groups:
-    Crunchyroll: rumor
+    Crunchyroll: stream
 - name_ja: Shoumetsu Toshi
   studio: Madhouse
   stations: Tokyo MX
