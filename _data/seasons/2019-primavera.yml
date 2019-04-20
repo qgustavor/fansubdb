@@ -108,7 +108,7 @@
   episodes: 1-cour
   extra_info: '1º Cour, Remake do anime de 2001'
   groups:
-    Aenianos: planned
+    Aenianos: active
     Eternal Animes: active
     Mundo do Shoujo: active
 - name_ja: Gunjou no Magmell
@@ -215,7 +215,7 @@
   premiere: 2019-04-07T01:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14234'
   groups:
-    Infinite: planned
+    Infinite: active
 - name_ja: Kono Yo no Hate de Koi wo Utau Shoujo YU-NO
   studio: feel.
   stations: AT-X
