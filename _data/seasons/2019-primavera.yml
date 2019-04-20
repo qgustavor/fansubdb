@@ -10,6 +10,7 @@
   studio: Magic Bus
   stations: ComicFesta
   premiere: 2019-04-08T00:00:00+0900
+  episodes: 8
   is_short: true
 - name_ja: B Rappers Street
   studio: Pie in the Sky
@@ -38,6 +39,7 @@
   studio: Silver / Arvo Animation
   stations: 'Tokyo MX, BS11, etc.'
   premiere: 2019-04-07T00:30:00+0900
+  episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14289'
   extra_info: Bloco Aniplex Saturday Night
   groups:
@@ -81,13 +83,14 @@
   studio: Gathering
   stations: Tokyo MX
   premiere: 2019-04-02T21:54:00+0900
+  episodes: 13
   season: 4
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14516'
   is_short: true
   groups:
     Crunchyroll: stream
     Bakemono: active
-- name_ja: 'Dia no Ace: Act II'
+- name_ja: 'Diamond no Ace: Act II'
   studio: Madhouse
   stations: TV Tokyo Nat. Net.
   premiere: 2019-04-02T17:55:00+0900
@@ -100,12 +103,13 @@
   studio: P.A. Works
   stations: Tokyo MX / BS11
   premiere: 2019-04-08T00:00:00+0900
+  episodes: 24
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14627'
-- name_ja: Fruits Basket
+- name_ja: Fruits Basket 1st Season
   studio: TMS Entertainment
   stations: TV Tokyo
   premiere: 2019-04-06T01:23:00+0900
-  episodes: 1-cour
+  episodes: 13
   extra_info: '1º Cour, Remake do anime de 2001'
   groups:
     Aenianos: active
@@ -145,9 +149,9 @@
     Netflix: stream
 - name_ja: Hitori Bocchi no Marumaru Seikatsu
   studio: C2C
-  stations: MBS / TBS
+  stations: AbemaTV
   premiere: 2019-04-06T02:25:00+0900
-  episodes: 1-cour
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13989'
   extra_info: Bloco Animeism
   groups:
@@ -188,6 +192,7 @@
   studio: Silver Link
   stations: AT-X
   premiere: 2019-04-10T23:30:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13477'
   groups:
     Eternal Animes: active
@@ -195,6 +200,7 @@
   studio: ufotable
   stations: 'Tokyo MX, BS11, etc.'
   premiere: 2019-04-06T23:30:00+0900
+  episodes: 26
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14107'
   extra_info: Bloco Aniplex Saturday Night
   groups:
@@ -228,6 +234,7 @@
   studio: Lidenfilms
   stations: 'Tokyo MX, BS11, SUN'
   premiere: 2019-04-08T00:30:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14172'
   groups:
     Crunchyroll: stream
@@ -242,7 +249,7 @@
   groups:
     Crunchyroll: stream
     Infinite: active
-- name_ja: Mix
+- name_ja: 'Mix: Meisei Story'
   studio: OLM
   stations: Nippon TV Nat. Net.
   premiere: 2019-04-06T17:30:00+0900
@@ -252,6 +259,7 @@
   studio: Asahi Production
   stations: AT-X
   premiere: 2019-04-08T20:00:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14256'
   groups:
     Crunchyroll: stream
@@ -259,6 +267,7 @@
   studio: tear-studio
   stations: Tokyo MX
   premiere: 2019-04-08T01:05:00+0900
+  episodes: 12+1
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14413'
   is_short: true
   groups:
@@ -275,12 +284,12 @@
   groups:
     Crunchyroll: stream
     Eternal Animes: active
-- name_ja: One Punch Man 2
+- name_ja: One Punch Man 2nd Season
   studio: J.C. Staff
   stations: 'TV Tokyo, etc.'
   premiere: 2019-04-10T01:35:00+0900
   season: 2
-  episodes: 1-cour?
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12430'
   groups:
     Crunchyroll: stream
@@ -323,7 +332,7 @@
   studio: MAPPA / Lapintrack
   stations: Fuji TV
   premiere: 2019-04-12T00:55:00+0900
-  episodes: 1-cour
+  episodes: 11
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13869'
   extra_info: Bloco noitaminA
   groups:
@@ -345,6 +354,7 @@
   studio: Doga Kobo
   stations: AT-X
   premiere: 2019-04-10T22:30:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14514'
 - name_ja: Shingeki no Kyojin 3 Part 2
   studio: Wit Studio
@@ -374,7 +384,8 @@
 - name_ja: 'Strike Witches: 501-butai Hasshin Shimasu!'
   studio: Acca effe / Giga Production
   stations: Tokyo MX
-  premiere: 2019-04-10T00:45:00+0900
+  premiere: 2019-04-10T00:15:00+0900
+  episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14205'
   is_short: true
   extra_info: Spinoff de Strike Witches
