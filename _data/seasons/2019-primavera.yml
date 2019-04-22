@@ -45,7 +45,7 @@
   groups:
     Crunchyroll: stream
     Illuminati: active
-    Infinite-Kirinashi: planned
+    Infinite-Kirinashi: active
 - name_ja: Bungou Stray Dogs 3
   studio: Bones
   stations: Tokyo MX
@@ -167,6 +167,7 @@
   is_short: true
   groups:
     Bakemono: active
+    Eternal Animes: active
 - name_ja: Jimoto ga Japan
   studio: Odd Job
   stations: TV Tokyo Nat. Net.
