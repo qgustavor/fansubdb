@@ -1,4 +1,4 @@
-# Auto-converted from https://fansubdb.com/w/index.php?title=Spring_2019&oldid=24699
+# Auto-converted from https://fansubdb.com/w/index.php?title=Spring_2019&oldid=24830
 
 - name_ja: 'Aikatsu Friends!: Kagayaki no Jewel'
   studio: BN Pictures
@@ -51,6 +51,7 @@
   stations: Tokyo MX
   premiere: 2019-04-12T22:30:00+0900
   season: 3
+  episodes: 11
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14230'
   groups:
     Crunchyroll: stream
@@ -83,8 +84,8 @@
   studio: Gathering
   stations: Tokyo MX
   premiere: 2019-04-02T21:54:00+0900
-  episodes: 13
   season: 4
+  episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14516'
   is_short: true
   groups:
@@ -94,8 +95,8 @@
   studio: Madhouse
   stations: TV Tokyo Nat. Net.
   premiere: 2019-04-02T17:55:00+0900
-  episodes: 52
   season: 3
+  episodes: 52
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14504'
   groups:
     Crunchyroll: stream
@@ -121,6 +122,7 @@
   premiere: 2019-04-07T22:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14063'
   groups:
+    Netflix: stream
     Isekai: active
 - name_ja: Hachigatsu no Cinderella Nine
   studio: TMS Entertainment
@@ -150,7 +152,7 @@
 - name_ja: Hitori Bocchi no Marumaru Seikatsu
   studio: C2C
   stations: AbemaTV
-  premiere: 2019-04-06T02:25:00+0900
+  premiere: 2019-04-06T01:55:00+0900
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13989'
   extra_info: Bloco Animeism
@@ -212,7 +214,7 @@
 - name_ja: 'King of Prism: Shiny Seven Stars'
   studio: Tatsunoko Production
   stations: TV Tokyo / TVA
-  premiere: 2019-04-09T01:35:00+0900
+  premiere: 2019-04-16T01:35:00+0900
   episodes: 12
   extra_info: 'Spinoff de Pretty Rhythm'
   groups:
@@ -221,7 +223,9 @@
   studio: Platinum Vision
   stations: Tokyo MX / BS11
   premiere: 2019-04-07T01:00:00+0900
+  episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14234'
+  extra_info: 2ª temporada em outono de 2019
   groups:
     Infinite: active
 - name_ja: Kono Yo no Hate de Koi wo Utau Shoujo YU-NO
@@ -250,12 +254,19 @@
   extra_info: Bloco Animeism
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
     Infinite: active
+- name_ja: Miru Tights
+  studio: Yokohama Animation Lab
+  stations: NicoNico
+  premiere: 2019-05-11T22:00:00+0900
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14571'        
 - name_ja: 'Mix: Meisei Story'
   studio: OLM
   stations: Nippon TV Nat. Net.
   premiere: 2019-04-06T17:30:00+0900
   episodes: 2-cour
+  url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14245'
   extra_info: Continuação de Touch
 - name_ja: 'Namu Amida Butsu!: Rendai Utena'
   studio: Asahi Production
@@ -265,6 +276,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14256'
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
 - name_ja: Nande Koko ni Sensei ga!?
   studio: tear-studio
   stations: Tokyo MX
@@ -274,6 +286,7 @@
   is_short: true
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
     Infinite: planned
 - name_ja: Nobunaga-sensei no Osanazuma
   name_pt: A jovem esposa do Nobunaga-sensei
@@ -350,6 +363,7 @@
   extra_info: Bloco Animeism
   groups:
     Crunchyroll: stream
+    HIDIVE: stream
     Sakura: active
 - name_ja: Sewayaki Kitsune no Senko-san
   studio: Doga Kobo
@@ -362,7 +376,7 @@
 - name_ja: Shingeki no Kyojin 3 Part 2
   studio: Wit Studio
   stations: NHK-G
-  premiere: 2019-04-30T00:55:00+0900
+  premiere: 2019-04-29T00:55:00+0900
   season: 3
   episodes: 10
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14444'
@@ -415,9 +429,3 @@
   premiere: 2019-04-05T18:25:00+0900
   season: 3
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14687'
-- name_ja: Zoku Owarimonogatari
-  studio: SHAFT
-  stations: 'Tokyo MX, BS11, etc.'
-  premiere: 2019-05-19T00:00:00+0900
-  episodes: 6
-  extra_info: 'Bloco Aniplex Saturday Night'
