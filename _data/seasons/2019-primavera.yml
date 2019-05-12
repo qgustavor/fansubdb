@@ -261,6 +261,8 @@
   stations: NicoNico
   premiere: 2019-05-11T22:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14571'        
+  groups:
+    Sakura: active
 - name_ja: 'Mix: Meisei Story'
   studio: OLM
   stations: Nippon TV Nat. Net.
