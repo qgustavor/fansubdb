@@ -388,6 +388,7 @@
   extra_info: 2º cour
   groups:
     Crunchyroll: stream
+    Planime: active
 - name_ja: Shoumetsu Toshi
   studio: Madhouse
   stations: Tokyo MX
@@ -434,3 +435,5 @@
   premiere: 2019-04-05T18:25:00+0900
   season: 3
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14687'
+  group:
+    Netflix: stream
