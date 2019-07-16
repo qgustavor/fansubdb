@@ -121,7 +121,7 @@
   episodes: 10
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9406'
   groups:
-    Diogo4D: planned
+    Diogo4D: active
 - name_ja: Meitantei Rascal
   studio: Nippon Animation
   stations: NHK-E

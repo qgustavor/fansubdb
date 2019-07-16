@@ -101,7 +101,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13485'
   groups:
     Crunchyroll: stream
-    Aenianos: planned
+    Aenianos: dropped
     Bakemono: active
 - name_ja: 'Butlers: Chitose Momotose Monogatari'
   studio: Silver Link
@@ -591,15 +591,13 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13034'
   groups:
     Crunchyroll: stream
-    Konbini: active
+    Konbini: dropped-active
 - name_ja: Wakaokami wa Shougakusei!
   studio: Madhouse / DLE
   stations: TV Tokyo Nat. Net.
   premiere: 2018-04-08T07:14:00+0900
   is_short: true
   episodes: 24
-  groups:
-    Sakura: active
 - name_ja: Wotaku ni Koi wa Muzukashii
   studio: A-1 Pictures
   stations: Fuji TV
@@ -611,7 +609,6 @@
     Amazon Prime Video: stream
     Infinite: active
     Mundo do Shoujo: active
-    Sakura: active
 - name_ja: 'Youkai Watch: Shadow Side'
   studio: OLM
   stations: TV Tokyo Nat. Net.

@@ -6,6 +6,8 @@ title: Regras de colaboração
 Já que esse site permite a colaboração de usuários é importante que estabelecemos algumas regras.
 *Não é necessário* saber todas elas, já que elas são bem minuciosas.
 
+**Nota:** [as regras foram atualizadas em 10 de julho de 2019](https://github.com/qgustavor/fansubdb/issues/19).
+
 ## Regras de conteúdo
 
 **O mais importante:** como estamos hospedados no GitHub os usuários que quiserem colaborar
@@ -85,6 +87,10 @@ Quem tem essa mentalidade não deveria se chamar de fã pois só prejudicam a co
 Notem que não serão listados grupos que fornecerem apenas traduções em "hardsub": grupos que fornecerem traduções
 em "hardsub" mas também fornecerem versões em "softsub" ou legendas separadas para download serão listados normalmente.
 
+Grupos que lançarem qualquer anime em completamente em hardsub sem disponibilizar outras opções deixarão de ser listados do site por pelo menos um ano. Passado um ano o grupo poderá voltar a ser listado, mas os animes publicados antes desse momento não serão listados, mesmo se eles cumprirem as regras.
+
+Ainda, os grupos deverão traduzir as músicas de abertura e encerramento. A leitura das músicas (karaokê) não é necessária. A tradução das músicas deverá ser em softsub. Caso algum grupo publique algum episódio de um anime que não foi anunciado mas alguma das músicas desse anime não foi traduzida então o grupo não será marcado como ativo, porém como planejado. Por outro lado, se algum grupo publicar três ou mais episódios de algum anime sem a tradução de alguma das músicas dele então a tradução desse anime desse grupo deixará de ser listada no site.
+
 Os meios que esses grupos não podem apresentar foco pelo lucro, como impedir o acesso de usuários que bloqueiem
 propagandas ou usarem excessivamente delas. Se algum grupo comete esse tipo de exagero poderá se justificar sendo
 transparente em seus gastos. Por outro lado na maioria dos casos isso indica que os membros desse grupo não agem como
@@ -97,7 +103,7 @@ Os critérios para determinar se algum grupo está muito focado em lucros serão
 * O site do grupo deve atender [os critérios do AcceptableAds](https://acceptableads.com/en/about/criteria) ([cópia da página](https://archive.is/uP44a));
 * Serão consideradas propagandas qualquer tipo de texto ou imagem envolvendo doações, promoções ou qualquer coisa que possa ser usado como fonte de renda por parte do grupo; esse tipo de conteúdo deve seguir os critérios do AcceptableAds;
 * O site do grupo não pode distribuir malware;
-* O site do grupo não pode usar mineradores ou ter qualquer comportamento que indique que há algum minerador; de forma objetiva 
+* O site do grupo não pode usar mineradores ou ter qualquer comportamento que indique que há algum minerador; de forma objetiva
 caso o site apresente um uso de CPU acima de 50% pelo menos após 15 segundos depois da página ter sido carregada consideraremos que há algum minerador na página;
 
 Não estamos apoiando a ideia do AcceptableAds, que é mal vista por várias pessoas, mas estamos aproveitando os
@@ -107,15 +113,19 @@ coloca mensagens de doação acima do conteúdo principal do site, quebrando a r
 do conteúdo principal, logo ele não será listado no site. Outro grupo tem um site com um malware que tenta roubar
 dados bancários dos seus usuários, esse grupo também não será listado.
 
-Além disso não serão aceitos grupos que simplesmente copiam o trabalho de sites de streaming oficiais ou de outros grupos.
-Isso porque o FansubDB também não aceita, embora o MyAnimeList e AniDB aceitem alguns deles. Alguns grupos desse tipo
-eram aceitos anteriormente como exceção sob determinadas regras, porém esses grupos não são mais aceitos em nenhuma circunstância. 
+Grupos que solicitarem doações mas usarem apenas serviços gratuitos (como serviços de hospedagem de arquivos e blogs que oferecem planos gratuitos) deverão publicar em algum lugar de fácil acesso o motivo de receberem as doações. Essa divulgação pode ser feita na a barra lateral do site ou alguma página do site, preferencialmente em lugares próximos das informações de sobre doações, mas não pode ser em alguma postagem no site ou um comentário (ou seja, em lugares que que com o tempo acabam ficando ocultos).
 
-No caso de parcerias entre grupos onde apenas alguns deles possam ser aceitos então serão listados apenas os
-grupos que foram aceitos e não toda a parceria.
+Caso não encontremos nenhuma justificativa o grupo deixará de ser ser listado no site. Os motivos podem ser pagamento de servidores, domínios, bots, mídias para uso como raws e similares. Novamente, os grupos não podem apresentar foco pelo lucro. Os grupos podem, a qualquer momento, solicitar que sejam listados novamente caso ocorra um mal-entendido ou caso sanem o problema em questão.
 
-Grupos brasileiros, portugueses ou de qualquer outro país de língua portuguesa serão aceitos, desde que se adéquem aos
-pontos acima. Por outro lado grupos que não quiserem ser listados podem notificar essa vontade se assim desejarem.
+Além disso não serão aceitos grupos que simplesmente copiam o trabalho de sites de streaming oficiais ou de outros grupos. Isso porque o FansubDB também não aceita, embora o MyAnimeList e AniDB aceitem alguns deles. Alguns grupos desse tipo eram aceitos anteriormente como exceção sob determinadas regras, porém esses grupos não são mais aceitos em nenhuma circunstância.
+
+Grupos que notarmos que se basearam em traduções oficiais ou em traduções de outros grupos devem alterar pelo menos 80% das falas. Se citarem a origem da legenda em algum lugar de fácil acesso, como postagens ou em páginas específicas para o anime (mas não em comentários, redes sociais, notas em arquivos, notas na própria legenda, sites de terceiros, etc), esse limite é reduzido para 20%. As traduções que não cumprirem essas regras deixarão de ser listadas.
+
+Os limites acima se aplicarão para todos os episódios, ainda que na maioria dos casos eles serão verificados com base no primeiro episódio lançado apenas. Esses limites são determinados tomando as duas traduções, separando apenas as falas sem formatação, e comparando a quantidade de linhas iguais.
+
+Caso ocorram parcerias entre grupos onde apenas alguns deles possam ser aceitos então todos os grupos envolvidos não serão listados.
+
+Grupos brasileiros, portugueses ou de qualquer outro país serão aceitos, desde que se adéquem aos pontos acima e traduzam para o Português. Grupos que não quiserem ser listados podem notificar essa vontade se assim desejarem.
 
 </details>
 
@@ -173,7 +183,17 @@ os animes vão ao ar);
 * Os fansubs serão organizadas em ordem alfabética;
 * Os nomes de fansubs em parcerias serão organizadas em ordem alfabética;
 * Nomes que comecem com números serão organizados antes dos que começam com letras;
-* Maiúsculas ou minúsculas não importam;
+* Maiúsculas ou minúsculas não importam.
+
+## Regras sobre projetos abandonados
+
+Embora o FandubDB original não remova grupos quando esses encerram suas atividades por essa situação causar certos incômodos foram criadas as seguintes regras:
+
+* Caso algum grupo sinalize de forma clara que pretende fechar as atividades em uma semana, caso o grupo não mude de ideia, todos os seus projetos inacabados serão marcados como "abandonado". Caso um grupo não sinalize de forma clara a regra abaixo se aplica.
+* Caso algum grupo deixe de atualizar seus meios de comunicação por dois meses esse terá todos os seus projetos inacabados marcados como "abandonado".
+* Caso algum grupo deixe de atualizar em seus meios de comunicação a situação de algum projeto por seis meses esse projeto também será marcado como "abandonado".
+* Em todos os casos apenas projetos inacabados serão marcados como abandonados, já que são esses os que mais causam incômodos.
+* Essas regras não serão aplicadas de forma automática (principalmente por causa da complexidade de se fazê-lo) mas podem ser aplicadas quando for solicitado.
 
 ## Formas de colaboração
 

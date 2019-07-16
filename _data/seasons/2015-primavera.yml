@@ -152,7 +152,7 @@
   groups:
     Crunchyroll: stream
     Mundo do Shoujo: active
-    Shinkai: planned
+    Shinkai: dropped
 - name_ja: Highschool DxD BorN
   studio: TNK
   stations: AT-X
@@ -172,7 +172,7 @@
     Crunchyroll: stream
     HIDIVE: stream
     Diogo4D: active
-    Shinkai: planned
+    Shinkai: dropped
 - name_ja: Jewel Pet Magical Change
   studio: Studio Comet
   stations: TV Osaka
@@ -197,7 +197,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10663'
   groups:
     Amazon Prime Video: stream
-    Shinkai: planned
+    Shinkai: dropped
 - name_ja: Kyoukai no Rinne
   studio: Brain's Base
   stations: NHK-E
@@ -279,9 +279,9 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10813'
   extra_info: Cour 1 de 2
   groups:
-    Eternal Animes: planned
+    Eternal Animes: dropped
     Owari: active
-    Shinkai: planned
+    Shinkai: dropped
 - name_ja: Plastic Memories
   studio: Doga Kobo
   stations: 'Tokyo MX, BS11, etc.'

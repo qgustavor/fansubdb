@@ -84,7 +84,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13355'
   groups:
     Crunchyroll: stream
-    Konbini: planned
+    Konbini: dropped
 - name_ja: Dame x Prince Anime Caravan
   studio: Studio Flad
   stations: Tokyo MX
@@ -296,7 +296,6 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12888'
   groups:
     Amazon Prime Video: stream
-    Sakura: active
 - name_ja: Koi wa Ameagari no You ni
   name_pt: O Amor é Como o Fim de Uma Chuva
   studio: Wit Studio
@@ -341,8 +340,8 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=12957'
   groups:
     HIDIVE: stream
-    Fansub Anime Land: planned
-    Konbini: planned
+    Fansub Anime Land: dropped
+    Konbini: dropped
 - name_ja: Märchen Mädchen
   studio: Hoods Entertainment
   stations: AT-X
@@ -422,7 +421,7 @@
   groups:
     Crunchyroll: stream
     Eternal Animes: active
-    Fansub Anime Land: planned
+    Fansub Anime Land: dropped
 - name_ja: Saiki Kusuo no Psi Nan 2
   season: 2
   studio: J.C. Staff / EGG FIRM
@@ -459,7 +458,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13160'
   groups:
     Crunchyroll: stream
-    Atlântida Sub: planned
+    Atlântida Sub: dropped
 - name_ja: Sora yori mo Tooi Basho
   name_pt: Um lugar mais distante que o espaço
   studio: Madhouse

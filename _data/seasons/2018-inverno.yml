@@ -30,7 +30,6 @@
   is_short: true
   groups:
     Crunchyroll: stream
-    Sakura:
 - name_ja: 'B-Project: Zecchou Emotion'
   studio: BN Pictures
   stations: 'Tokyo MX, BS11, etc.'
@@ -79,7 +78,6 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13533'
   groups:
     Bakemono: active
-    Infinite: active
 - name_ja: Dimension High School
   studio: Polygon Pictures
   stations: Tokyo MX
@@ -135,7 +133,6 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14447'
   groups:
     Crunchyroll: stream
-    Kyoto-Sakura: active
 - name_ja: Endro~!
   studio: Studio Gokumi
   stations: Tokyo MX / BS11
@@ -220,8 +217,6 @@
   episodes: 3
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14420'
   extra_info: Episódios novos todo mês
-  groups:
-    Sakura: active
 - name_ja: 'Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen'
   name_pt: Kaguya Quer Receber Uma Declaração
   studio: A-1 Pictures
@@ -308,7 +303,6 @@
   groups:
     Crunchyroll: stream
     Kirinashi: active
-    Sakura: active
 - name_ja: Mannaka no Rikkun
   studio: Sakura Create
   stations: TV Tokyo

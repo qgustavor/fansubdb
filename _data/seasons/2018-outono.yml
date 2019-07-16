@@ -355,7 +355,6 @@
     Infinite: active
     Kirinashi: active
     Moshi Moshi: active
-    Sakura: active
 - name_ja: 'Senran Kagura: Shinovi Master - Tokyo Youma-hen'
   studio: TNK
   stations: AT-X
@@ -364,7 +363,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13341'
   groups:
     Crunchyroll: stream
-    Infinite: planned
+    Infinite: dropped
 - name_ja: 'Shuudengo, Capsule Hotel de, Joushi ni Binetsu Utawaru Yoru.'
   studio: Namu Animation
   stations: ComicFesta
@@ -467,7 +466,7 @@
   premiere: 2018-10-15T00:10:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13538'
   groups:
-    Kyoto: planned
+    Kyoto: dropped
 - name_ja: Uchi no Maid ga Uzasugiru!
   studio: Doga Kobo
   stations: AT-X
@@ -476,7 +475,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14026'
   groups:
     Crunchyroll: stream
-    Konbini: active
+    Konbini: dropped-active
 - name_ja: Uchuu Senkan Tiramisù II
   studio: GONZO
   stations: Tokyo MX
