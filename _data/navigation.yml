@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: Inverno
-    url: /2018-inverno/
   - title: Primavera
     url: /2019-primavera/
+  - title: Verão
+    url: /2019-verao/
   - title: Sobre
     url: /sobre/
