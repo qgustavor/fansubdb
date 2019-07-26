@@ -350,6 +350,7 @@
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13839'
   groups:
+    Crunchyroll: stream
     HIDIVE: stream
 - name_ja: 'Persona 5 the Animation: Dark Sun...'
   studio: CloverWorks
