@@ -271,6 +271,8 @@
   premiere: 2019-07-31T01:29:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14751'
   extra_info: Bloco AnichU
+  groups:
+    Crunchyroll: stream
 - name_ja: Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka?
   studio: J.C. Staff
   stations: 'Tokyo MX, BS11, etc.'
