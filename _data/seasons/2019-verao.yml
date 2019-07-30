@@ -79,7 +79,7 @@
   extra_info: Bloco Super Animeism
   groups:
     Kirinashi: active
-    ToMo: planned
+    ToMo: active
 - name_ja: Ensemble Stars!
   studio: David Production
   stations: Tokyo MX
@@ -140,7 +140,6 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14661'
   groups:
     Bakemono-Planime: active
-    Kirinashi-OldAge: active
 - name_ja: Karakai Jouzu no Takagi-san 2
   studio: Shin-Ei Animation
   stations: Tokyo MX
