@@ -469,7 +469,8 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13257'
   groups:
     Crunchyroll: stream
-    Atlântida-HTT: active
+    Atlântida-HTT: dropped-active
+    Elite: active
 - name_ja: 'Spiritpact: Yomi no Chigiri'
   season: 2
   studio: Emon
@@ -540,6 +541,7 @@
     Crunchyroll: stream
     Diogo4D: active
     HTT-Infinite: dropped-active
+    Moshi Moshi: active
 - name_ja: 'Zoku Touken Ranbu: Hanamaru'
   season: 2
   studio: Doga Kobo

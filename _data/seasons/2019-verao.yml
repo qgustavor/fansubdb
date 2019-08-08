@@ -227,6 +227,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11959'
   groups:
     Crunchyroll: stream
+    Polkka: active
 - name_ja: Sounan desu ka?
   studio: Ezola
   stations: Tokyo MX
