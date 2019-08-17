@@ -272,6 +272,8 @@
   premiere: 2013-07-05T02:35:00+0900
   season: 2
   episodes: 13
+  groups:
+    Polkka: active
 - name_ja: Senyuu. 2
   studio: Ordet / Liden Films
   stations: TV Tokyo
