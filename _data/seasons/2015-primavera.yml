@@ -160,8 +160,6 @@
   season: 3
   episodes: 12
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10691'
-  groups:
-    Kalling: active
 - name_ja: Houkago no Pleiades (TV)
   studio: GAINAX
   stations: ABC
