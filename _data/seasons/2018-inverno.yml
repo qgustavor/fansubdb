@@ -175,7 +175,7 @@
   extra_info: Bloco Animerico
   groups:
     Crunchyroll: stream
-    Kirinashi: active
+    Kirinashi: dropped-active
 - name_ja: Grimms Notes The Animation
   studio: Brain's Base
   stations: TBS
@@ -226,7 +226,7 @@
   extra_info: Bloco Aniplex Saturday Night
   groups:
     Crunchyroll: stream
-    Kirinashi: active
+    Kirinashi: dropped-active
 - name_ja: Kakegurui××
   studio: MAPPA
   stations: MBS

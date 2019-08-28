@@ -149,7 +149,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14591'
   groups:
     Netflix: stream
-    Kirinashi: active
+    Kirinashi: dropped-active
 - name_ja: Katsute Kami Datta Kemono-tachi e
   studio: MAPPA
   stations: Tokyo MX / BS11

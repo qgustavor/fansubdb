@@ -185,7 +185,7 @@
   extra_info: Bloco FutabAnime!
   groups:
     Crunchyroll: stream
-    Lolisub: active
+    Lolisub: dropped-active
 - name_ja: Kedama no Gonjirou
   studio: OLM / Wit Studio
   stations: TV Tokyo Nat. Net
@@ -208,7 +208,8 @@
   extra_info: Bloco Aniplex Saturday Night
   groups:
     Crunchyroll: stream
-    Aenianos-Kirinashi: active
+    Aenianos: active
+    Aenianos-Kirinashi: dropped
 - name_ja: 'King of Prism: Shiny Seven Stars'
   studio: Tatsunoko Production
   stations: TV Tokyo / TVA
@@ -260,7 +261,7 @@
   premiere: 2019-05-11T22:00:00+0900
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14571'        
   groups:
-    Lolisub: active
+    Lolisub: dropped-active
 - name_ja: 'Mix: Meisei Story'
   studio: OLM
   stations: Nippon TV Nat. Net.
@@ -364,7 +365,7 @@
   groups:
     Crunchyroll: stream
     HIDIVE: stream
-    Kirinashi: active
+    Kirinashi: dropped-active
 - name_ja: Sewayaki Kitsune no Senko-san
   studio: Doga Kobo
   stations: AT-X
@@ -373,7 +374,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14514'
   groups:
     ECN: active
-    LoliSub: active
+    LoliSub: dropped-active
 - name_ja: Shingeki no Kyojin 3 Part 2
   studio: Wit Studio
   stations: NHK-G
