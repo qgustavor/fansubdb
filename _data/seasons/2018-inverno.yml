@@ -236,7 +236,6 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=13718'
   groups:
     Netflix: stream
-    Isekai: active
 - name_ja: Kemono Friends 2
   studio: Tomason
   stations: TV Tokyo

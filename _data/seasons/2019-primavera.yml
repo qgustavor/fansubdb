@@ -122,7 +122,6 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14063'
   groups:
     Netflix: stream
-    Isekai: active
 - name_ja: Hachigatsu no Cinderella Nine
   studio: TMS Entertainment
   stations: TV Tokyo
@@ -137,8 +136,6 @@
   episodes: 13
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14381'
   extra_info: 2º Cour
-  groups:
-    Isekai: active
 - name_ja: 'High Score Girl: Extra Stage'
   studio: J.C. Staff
   stations: Netflix
