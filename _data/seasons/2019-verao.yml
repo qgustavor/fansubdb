@@ -50,7 +50,7 @@
   url: 'https://anidb.net/perl-bin/animedb.pl?show=anime&aid=14491'
   groups:
     Crunchyroll: stream
-    Aenianos-Kirinashi: dropped-planned
+    Aenianos-Kirinashi: dropped
 - name_ja: Dumbbell Nan Kilo Moteru?
   studio: Doga Kobo
   stations: AT-X
@@ -237,7 +237,7 @@
   is_short: true
   groups:
     Crunchyroll: stream
-    Diogo4D-Kanade: dropped-planned
+    Diogo4D-Kanade: dropped
 - name_ja: Starmyu 3
   studio: C-Station
   stations: Tokyo MX
@@ -254,7 +254,7 @@
   is_short: true
   groups:
     Crunchyroll: stream
-    Kirinashi: dropped-planned
+    Kirinashi: dropped
 - name_ja: Toaru Kagaku no Accelerator
   studio: J.C. Staff
   stations: AT-X
