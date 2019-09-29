@@ -51,6 +51,7 @@
   groups:
     Crunchyroll: stream
     Aenianos-Kirinashi: dropped
+    Diogo4D: active
 - name_ja: Dumbbell Nan Kilo Moteru?
   studio: Doga Kobo
   stations: AT-X
@@ -254,6 +255,7 @@
   is_short: true
   groups:
     Crunchyroll: stream
+    Boteco-Infinite: active
     Kirinashi: dropped
 - name_ja: Toaru Kagaku no Accelerator
   studio: J.C. Staff
