@@ -33,5 +33,3 @@
     </tr>
   {% endfor %}</tbody>
 </table>
-
-[Algo está errado?](https://xkcd.com/386/) Comente abaixo:
