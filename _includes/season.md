@@ -25,10 +25,26 @@
       <td>{{ entry.studio }}</td>
       <td>{{ entry.episodes }}</td>
       <td>{%- for group in entry.groups -%}
-        {%- if group[1] == 'planned' -%}{{ group[0] }}{%- else -%}
-        <span class="season-{{ group[1] }}">{{ group[0] }}
-          {%- if group[1] == 'rumor' -%}?{%- endif -%}
-        </span>{%- endif -%}{% unless forloop.last %}, {% endunless %}
+        {%- assign groupStatus = group[1] -%}
+        {%- assign statusExtra = '' -%}
+
+        {%- if groupStatus.first -%}
+          {%- assign statusExtra = groupStatus[1] -%}
+          {%- assign groupStatus = groupStatus[0] -%}
+        {%- endif -%}
+
+        {%- if groupStatus.status -%}
+          {% assign statusExtra = groupStatus.extra -%}
+          {% assign groupStatus = groupStatus.status -%}
+        {%- endif -%}
+
+        {%- if groupStatus == 'hidden' -%}<span hidden>{% endif %}
+        <span class="season-{{ groupStatus }}">{{ group[0] }}
+          {%- if groupStatus == 'rumor' -%}?{%- endif -%}
+          {%- if statusExtra %} <span class="season-extra">({{ statusExtra }})</span>{%- endif -%}
+        </span>
+        {%- if groupStatus == 'hidden' -%}</span>{% endif %}
+        {%- unless forloop.last %}, {% endunless -%}
       {%- endfor -%}</td>
     </tr>
   {% endfor %}</tbody>
