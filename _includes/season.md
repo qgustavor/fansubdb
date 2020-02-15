@@ -26,7 +26,7 @@
       <td>{{ entry.episodes }}</td>
       <td>{%- for group in entry.groups -%}
         {%- assign groupStatus = group[1] -%}
-        {%- assign statusExtra = '' -%}
+        {%- assign statusExtra = false -%}
 
         {%- if groupStatus.first -%}
           {%- assign statusExtra = groupStatus[1] -%}
