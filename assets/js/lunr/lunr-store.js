@@ -16,11 +16,11 @@ var store = {
               {%- assign groupStatus = group[1] -%}
 
               {%- if groupStatus.first -%}
-                {%- assign statusExtra = groupStatus[1] -%}
+                {%- assign groupStatus = groupStatus[0] -%}
               {%- endif -%}
 
               {%- if groupStatus.status -%}
-                {% assign statusExtra = groupStatus.extra -%}
+                {% assign groupStatus = groupStatus.status -%}
               {%- endif -%}
 
               {%- unless groupStatus == 'hidden' -%}
