@@ -258,6 +258,9 @@
     lineOptions: {
       regionFill: 1
     },
+    axisOptions: {
+      xIsSeries: true
+    },
     data: {
       labels: seasonNames,
       datasets: streamingServices.map(function (group) {
@@ -276,4 +279,31 @@
     }
   })
 
+  // Remove overlapping text "hack"
+  setTimeout(function () {
+    var xAvisTexts = chart3El.find('g.x.axis > g > text')
+    var boundingRects = xAvisTexts.get().map(function (e) {
+      return e.getBoundingClientRect()
+    })
+  
+    var overlaps, rect1, rect2
+    for (var i = 1; i < xAvisTexts.length; i++) {
+      for (var j = 0; j < i; j++) {
+        rect1 = boundingRects[i]
+        rect2 = boundingRects[j]
+        if (rect1 && rect2) {
+          overlaps = !(
+            rect1.right < rect2.left || 
+            rect1.left > rect2.right || 
+            rect1.bottom < rect2.top || 
+            rect1.top > rect2.bottom
+          )
+          if (overlaps) {
+            xAvisTexts.eq(j).remove()
+            boundingRects[j] = null
+          }
+        }
+      }
+    }
+  }, 3000)
 }())
