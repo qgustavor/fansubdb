@@ -5,7 +5,7 @@
   stations: Netflix
   episodes: 12
   url: 'https://anidb.net/anime/15229'
-  extra_info: 'Parte 2, 12 episodes released simultaneously'
+  extra_info: 'Parte 2, todos os episódios lançados ao mesmo tempo'
   groups:
     Netflix: stream
 - name_ja: A3! Season Spring & Summer
@@ -13,7 +13,7 @@
   stations: 'Tokyo MX, BS11, etc.'
   premiere: 2020-04-07T00:00:00+0900
   episodes: 12
-  extra_info: '1º Cour'
+  extra_info: '1º cour'
 - name_ja: 'Altered Carbon: Resleeved'
   studio: Anima
   stations: Netflix
